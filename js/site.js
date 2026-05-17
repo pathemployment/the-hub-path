@@ -1,4 +1,4 @@
-// theHUB @PATH — site interactions
+// theHUB @PATH - site interactions
 (function () {
   'use strict';
 
@@ -15,13 +15,11 @@
     });
   }
 
-  // ---- Active nav link based on current page ----
+  // ---- Active nav link ----
   const path = location.pathname.split('/').pop() || 'index.html';
   document.querySelectorAll('.nav__links a').forEach(a => {
     const href = a.getAttribute('href');
-    if (href === path || (path === '' && href === 'index.html')) {
-      a.classList.add('is-active');
-    }
+    if (href === path || (path === '' && href === 'index.html')) a.classList.add('is-active');
   });
 
   // ---- Footer year ----
@@ -33,10 +31,8 @@
   const CONSENT_KEY = 'hub-analytics-consent';
 
   function loadAnalytics() {
-    // TODO: Replace G-XXXXXXXXXX with the Hub's Google Analytics 4 Measurement ID
     const GA_ID = 'G-XXXXXXXXXX';
-    if (!GA_ID || GA_ID.includes('XXXX')) return; // safety: don't load placeholder
-
+    if (!GA_ID || GA_ID.includes('XXXX')) return;
     const s = document.createElement('script');
     s.async = true;
     s.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA_ID;
@@ -49,11 +45,8 @@
   }
 
   const consent = localStorage.getItem(CONSENT_KEY);
-  if (consent === 'accepted') {
-    loadAnalytics();
-  } else if (!consent && banner) {
-    banner.classList.add('is-visible');
-  }
+  if (consent === 'accepted') loadAnalytics();
+  else if (!consent && banner) banner.classList.add('is-visible');
 
   document.querySelectorAll('[data-consent]').forEach(btn => {
     btn.addEventListener('click', () => {
@@ -69,69 +62,108 @@
 (function () {
   const list = document.querySelector('#job-list');
   if (!list) return;
-
   const search = document.querySelector('#job-search');
-  const cat = document.querySelector('#job-category');
-  const type = document.querySelector('#job-type');
+  const eduSel = document.querySelector('#job-edu');
+  const srcSel = document.querySelector('#job-source');
+  const submittedOnly = document.querySelector('#job-submitted-only');
   const empty = document.querySelector('#job-empty');
+  const countEl = document.querySelector('#job-count');
+  const statsEl = document.querySelector('#jobs-stats');
 
   const jobs = (window.HUB_JOBS || []).slice();
+  const meta = window.HUB_JOBS_META || {};
   if (!jobs.length) {
     list.innerHTML = '<p>No jobs posted yet. Check back soon.</p>';
     return;
   }
-  populateFilters();
-  render();
+  jobs.sort((a, b) => (b.date || '').localeCompare(a.date || ''));
 
-  function populateFilters() {
-    const cats = [...new Set(jobs.map(j => j.category).filter(Boolean))].sort();
-    const types = [...new Set(jobs.map(j => j.type).filter(Boolean))].sort();
-    cats.forEach(c => cat.appendChild(opt(c)));
-    types.forEach(t => type.appendChild(opt(t)));
+  if (statsEl) {
+    const submittedCount = jobs.filter(j => j.submitted).length;
+    statsEl.innerHTML =
+      '<span><strong>' + jobs.length + '</strong> listings</span>' +
+      '<span><strong>' + submittedCount + '</strong> submitted by PATH</span>' +
+      (meta.generated ? '<span>Updated <strong>' + meta.generated + '</strong></span>' : '') +
+      (meta.window_days ? '<span>Past <strong>' + meta.window_days + ' days</strong></span>' : '');
   }
-  function opt(v) { const o = document.createElement('option'); o.value = v; o.textContent = v; return o; }
+
+  const sources = [...new Set(jobs.map(j => j.source).filter(Boolean))].sort();
+  if (srcSel) {
+    srcSel.innerHTML = '<option value="">All sources</option>' +
+      sources.map(s => '<option value="' + esc(s) + '">' + esc(s) + '</option>').join('');
+  }
+
+  render();
+  [search, eduSel, srcSel, submittedOnly].forEach(el => el && el.addEventListener('input', render));
 
   function render() {
-    const q = (search.value || '').toLowerCase();
-    const c = cat.value;
-    const t = type.value;
+    const q = (search.value || '').trim().toLowerCase();
+    const edu = eduSel ? eduSel.value : '';
+    const src = srcSel ? srcSel.value : '';
+    const subOnly = submittedOnly && submittedOnly.checked;
     const filtered = jobs.filter(j => {
-      if (c && j.category !== c) return false;
-      if (t && j.type !== t) return false;
-      if (q && !(j.title + ' ' + j.employer + ' ' + (j.location||'')).toLowerCase().includes(q)) return false;
+      if (edu && j.edu_level !== edu) return false;
+      if (src && j.source !== src) return false;
+      if (subOnly && !j.submitted) return false;
+      if (q) {
+        const hay = (j.title + ' ' + j.employer + ' ' + (j.location || '')).toLowerCase();
+        if (!hay.includes(q)) return false;
+      }
       return true;
     });
-    list.innerHTML = '';
-    empty.classList.toggle('hidden', filtered.length > 0);
-    filtered.forEach(j => list.appendChild(card(j)));
+    if (countEl) {
+      countEl.textContent = filtered.length === jobs.length
+        ? 'Showing all ' + jobs.length + ' listings'
+        : 'Showing ' + filtered.length + ' of ' + jobs.length + ' listings';
+    }
+    list.innerHTML = filtered.map(jobCard).join('');
+    if (empty) empty.classList.toggle('hidden', filtered.length > 0);
   }
 
-  function card(j) {
-    const el = document.createElement('article');
-    el.className = 'job';
-    el.innerHTML = `
-      <div>
-        <h3>${escape(j.title)}</h3>
-        <div class="job__meta">${escape(j.employer)} &middot; ${escape(j.location||'')}</div>
-        <div class="mt-1">
-          ${j.type ? `<span class="job__tag">${escape(j.type)}</span>` : ''}
-          ${j.category ? `<span class="job__tag">${escape(j.category)}</span>` : ''}
-          ${j.posted ? `<span class="job__meta">Posted ${escape(j.posted)}</span>` : ''}
-        </div>
-      </div>
-      <div>
-        ${j.url ? `<a class="btn btn--primary" href="${escape(j.url)}" target="_blank" rel="noopener">View &amp; Apply</a>` : ''}
-      </div>
-    `;
-    return el;
+  function jobCard(j) {
+    const star = j.submitted ? '<span class="star-submitted" title="Submitted by PATH">&#11088; Submitted by PATH</span>' : '';
+    const posted = j.date ? 'Posted ' + fmtDate(j.date) : '';
+    const tips = (j.tip_resume || j.tip_cover) ? (
+      '<details class="job-tips"><summary>Resume &amp; cover letter tips</summary>' +
+      (j.tip_resume ? '<div class="tip"><span class="tip-label">Resume</span> ' + esc(j.tip_resume) + '</div>' : '') +
+      (j.tip_cover  ? '<div class="tip"><span class="tip-label">Cover letter</span> ' + esc(j.tip_cover) + '</div>' : '') +
+      '</details>'
+    ) : '';
+    const clientLink = (j.client_subject && j.client_body)
+      ? '<a class="btn btn--outline btn--small" href="mailto:?subject=' + encodeURIComponent(j.client_subject) + '&body=' + encodeURIComponent(j.client_body) + '" title="Send to client">&#9993; Send to client</a>'
+      : '';
+    return (
+      '<article class="job-card" data-edu="' + esc(j.edu_level || '') + '">' +
+        '<div class="job-card__main">' +
+          '<h3 class="job-card__title">' +
+            (j.url ? '<a href="' + esc(j.url) + '" target="_blank" rel="noopener">' + esc(j.title) + '</a>' : esc(j.title)) +
+            ' ' + star +
+          '</h3>' +
+          '<p class="job-card__meta">' +
+            '<span><strong>' + esc(j.employer || '') + '</strong></span>' +
+            (j.location ? '<span class="sep">&middot;</span><span>' + esc(j.location) + '</span>' : '') +
+            (j.edu_label ? '<span class="sep">&middot;</span><span class="edu-tag edu-' + esc(j.edu_level) + '">' + esc(j.edu_label) + '</span>' : '') +
+          '</p>' +
+          tips +
+        '</div>' +
+        '<div class="job-card__aside">' +
+          '<div class="job-card__salary"><strong>' + esc(j.salary || 'Not listed') + '</strong></div>' +
+          (posted ? '<div class="job-card__posted"><span class="dot"></span>' + esc(posted) + '</div>' : '') +
+          (j.source ? '<span class="source-pill source-pill--' + slug(j.source) + '">' + esc(j.source) + '</span>' : '') +
+          (j.url ? '<a class="btn btn--primary btn--small" href="' + esc(j.url) + '" target="_blank" rel="noopener">Apply &#8599;</a>' : '') +
+          clientLink +
+        '</div>' +
+      '</article>'
+    );
   }
-  function escape(s) {
-    return String(s == null ? '' : s).replace(/[&<>"']/g, c => (
-      {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]
-    ));
+  function esc(s) {
+    return String(s == null ? '' : s).replace(/[&<>"']/g, c => ({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' })[c]);
   }
-
-  [search, cat, type].forEach(el => el && el.addEventListener('input', render));
+  function slug(s) { return String(s).toLowerCase().replace(/[^a-z0-9]+/g, '-'); }
+  function fmtDate(iso) {
+    try { return new Date(iso).toLocaleDateString('en-CA', { month: 'short', day: 'numeric' }); }
+    catch (e) { return iso; }
+  }
 })();
 
 // ---- Events loader ----
@@ -142,7 +174,7 @@
   const data = window.HUB_EVENTS || [];
   const now = new Date();
   const sorted = data
-    .map(e => ({ ...e, _d: new Date(e.date) }))
+    .map(e => Object.assign({}, e, { _d: new Date(e.date) }))
     .filter(e => e._d >= new Date(now.toDateString()))
     .sort((a, b) => a._d - b._d);
   if (!sorted.length) {
@@ -174,38 +206,41 @@
   function featuredHTML(e) {
     const dp = dateParts(e.date);
     const visual = e.image
-      ? `<div class="event__image" style="background-image:url('${e.image}')"></div>`
-      : `<div class="event__datetile" aria-hidden="true">
-           <span class="event__datetile-day">${dp.day}</span>
-           <span class="event__datetile-month">${dp.month}</span>
-           <span class="event__datetile-num">${dp.num}</span>
-           <span class="event__datetile-year">${dp.year}</span>
-         </div>`;
-    return `
-      ${visual}
-      <div class="event__body">
-        <span class="event__featured-tag">Featured Event</span>
-        <h2>${e.title}</h2>
-        <p class="lead">${e.description || ''}</p>
-        ${e.location ? `<p><strong>Where:</strong> ${e.location}</p>` : ''}
-        ${e.time ? `<p><strong>When:</strong> ${fmt(e.date)} &middot; ${e.time}</p>` : `<p><strong>When:</strong> ${fmt(e.date)}</p>`}
-        ${e.registerUrl ? `<a class="btn btn--accent" href="${e.registerUrl}"${/^https?:/.test(e.registerUrl) ? ' target="_blank" rel="noopener"' : ''}>Register</a>` : ''}
-      </div>
-    `;
+      ? '<div class="event__image" style="background-image:url(\'' + e.image + '\')"></div>'
+      : '<div class="event__datetile" aria-hidden="true">' +
+          '<span class="event__datetile-day">' + dp.day + '</span>' +
+          '<span class="event__datetile-month">' + dp.month + '</span>' +
+          '<span class="event__datetile-num">' + dp.num + '</span>' +
+          '<span class="event__datetile-year">' + dp.year + '</span>' +
+        '</div>';
+    const ext = e.registerUrl && /^https?:/.test(e.registerUrl);
+    return visual +
+      '<div class="event__body">' +
+        '<span class="event__featured-tag">Featured Event</span>' +
+        '<h2>' + e.title + '</h2>' +
+        '<p class="lead">' + (e.description || '') + '</p>' +
+        (e.location ? '<p><strong>Where:</strong> ' + e.location + '</p>' : '') +
+        (e.time
+          ? '<p><strong>When:</strong> ' + fmt(e.date) + ' &middot; ' + e.time + '</p>'
+          : '<p><strong>When:</strong> ' + fmt(e.date) + '</p>') +
+        (e.registerUrl
+          ? '<a class="btn btn--accent" href="' + e.registerUrl + '"' + (ext ? ' target="_blank" rel="noopener"' : '') + '>Register</a>'
+          : '') +
+      '</div>';
   }
   function eventCardHTML(e) {
     const ext = e.registerUrl && /^https?:/.test(e.registerUrl);
-    return `
-      <article class="card">
-        <span class="event__date">${fmt(e.date)}</span>
-        <h3>${e.title}</h3>
-        ${e.time ? `<p class="card__meta">${e.time}${e.location ? ' · ' + e.location : ''}</p>` : ''}
-        <p>${e.description || ''}</p>
-        <div class="card__footer">
-          ${e.registerUrl ? `<a class="btn btn--outline" href="${e.registerUrl}"${ext ? ' target="_blank" rel="noopener"' : ''}>Register</a>` : ''}
-        </div>
-      </article>
-    `;
+    return (
+      '<article class="card">' +
+        '<span class="event__date">' + fmt(e.date) + '</span>' +
+        '<h3>' + e.title + '</h3>' +
+        (e.time ? '<p class="card__meta">' + e.time + (e.location ? ' &middot; ' + e.location : '') + '</p>' : '') +
+        '<p>' + (e.description || '') + '</p>' +
+        '<div class="card__footer">' +
+          (e.registerUrl ? '<a class="btn btn--outline" href="' + e.registerUrl + '"' + (ext ? ' target="_blank" rel="noopener"' : '') + '>Register</a>' : '') +
+        '</div>' +
+      '</article>'
+    );
   }
 })();
 
@@ -214,81 +249,13 @@
   const sidebar = document.querySelector('#newsletter-sidebar-list');
   if (!sidebar) return;
   const data = window.HUB_NEWSLETTERS || [];
-  const sorted = data.slice().sort((a,b) => new Date(b.date) - new Date(a.date));
+  const sorted = data.slice().sort((a, b) => new Date(b.date) - new Date(a.date));
   const here = location.pathname.split('/').pop();
   sidebar.innerHTML = sorted.map(n => {
     const d = new Date(n.date);
     const label = d.toLocaleDateString('en-CA', { month: 'long', year: 'numeric' });
     const href = n.page || '#';
     const current = (n.page && href === here) ? ' is-current' : '';
-    return `
-      <li>
-        <a href="${href}" class="${current.trim()}">
-          <span class="sidebar-date">${label}</span>
-          <span class="sidebar-title">${n.title}</span>
-        </a>
-      </li>
-    `;
-  }).join('');
-})();
-
-// ---- Newsletters redirect (on newsletters.html) ----
-(function () {
-  const redirectEl = document.querySelector('#newsletter-redirect');
-  if (!redirectEl) return;
-  const data = window.HUB_NEWSLETTERS || [];
-  if (!data.length) return;
-  const sorted = data.slice().sort((a,b) => new Date(b.date) - new Date(a.date));
-  const latest = sorted.find(n => n.page);
-  if (latest && latest.page) {
-    location.replace(latest.page);
-  }
-})();
-
-// ---- Newsletter list (legacy archive view, if used) ----
-(function () {
-  const list = document.querySelector('#newsletter-list');
-  if (!list) return;
-  const data = window.HUB_NEWSLETTERS || [];
-  if (!data.length) {
-    list.innerHTML = '<p>Newsletter archive coming soon.</p>';
-    return;
-  }
-  const sorted = data.slice().sort((a,b) => new Date(b.date) - new Date(a.date));
-  list.innerHTML = sorted.map(n => {
-        const d = new Date(n.date);
-        const month = d.toLocaleDateString('en-CA', { month: 'short' });
-        const year = d.getFullYear();
-        const primaryLink = n.page
-          ? `<a class="btn btn--primary" href="${n.page}">Read</a>`
-          : (n.file ? `<a class="btn btn--outline" href="${n.file}" target="_blank" rel="noopener">Open PDF</a>` : '');
-        const pdfLink = (n.page && n.file)
-          ? `<a class="btn btn--outline" href="${n.file}" target="_blank" rel="noopener">PDF</a>`
-          : '';
-        const initials = n.author && n.author.name
-          ? n.author.name.split(/\s+/).map(s => s[0]).slice(0,2).join('').toUpperCase()
-          : '';
-        const authorBlock = n.author
-          ? `<div class="newsletter__author">
-               ${n.author.photo
-                 ? `<span class="newsletter__avatar" style="background-image:url('${n.author.photo}')" aria-hidden="true"></span>`
-                 : `<span class="newsletter__avatar newsletter__avatar--initials" aria-hidden="true">${initials}</span>`}
-               <span class="newsletter__author-name">${n.author.name}</span>
-             </div>`
-          : '';
-        return `
-          <article class="newsletter">
-            <div class="newsletter__date">
-              <span class="month">${month}</span>
-              <span class="year">${year}</span>
-            </div>
-            <div>
-              <h3>${n.title}</h3>
-              ${authorBlock}
-              <p>${n.summary || ''}</p>
-            </div>
-            <div style="display:flex; gap:.5rem; flex-wrap:wrap;">${primaryLink}${pdfLink}</div>
-          </article>
-        `;
+    return '<li><a href="' + href + '" class="' + current.trim() + '"><span class="sidebar-date">' + label + '</span><span class="sidebar-title">' + n.title + '</span></a></li>';
   }).join('');
 })();

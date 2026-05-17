@@ -3,19 +3,19 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Job Board — theHUB @PATH</title>
-  <meta name="description" content="Current employment opportunities curated by theHUB @PATH and partner employers.">
+  <title>Job Board - theHUB @PATH</title>
+  <meta name="description" content="Current employment opportunities curated by theHUB @PATH and partner employers across Southern Ontario.">
   <!-- og:start -->
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="theHUB @PATH">
-  <meta property="og:title" content="Job Board — theHUB @PATH">
+  <meta property="og:title" content="Job Board - theHUB @PATH">
   <meta property="og:description" content="Current employment opportunities curated by theHUB @PATH and partner employers across Southern Ontario.">
   <meta property="og:url" content="https://kwestwoodpath.github.io/the-hub-path/jobs.html">
   <meta property="og:image" content="https://kwestwoodpath.github.io/the-hub-path/assets/og-image.png">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Job Board — theHUB @PATH">
+  <meta name="twitter:title" content="Job Board - theHUB @PATH">
   <meta name="twitter:description" content="Current employment opportunities curated by theHUB @PATH and partner employers across Southern Ontario.">
   <meta name="twitter:image" content="https://kwestwoodpath.github.io/the-hub-path/assets/og-image.png">
   <!-- og:end -->
@@ -53,27 +53,31 @@
     <section class="section section--navy">
       <div class="container">
         <p class="tagline" style="color: var(--capacity-sage);">Job Board</p>
-        <h1>Current opportunities</h1>
-        <p class="lead" style="color: rgba(255,255,255,0.85);">Browse openings curated by theHUB and partner employers. Filter by category, type, or search by keyword.</p>
+        <h1>Weekly Job Listings - Southern Ontario</h1>
+        <p class="lead" style="color: rgba(255,255,255,0.85);">Focused on general labour, retail, food services, and warehouse roles across Hamilton, Niagara, Haldimand-Norfolk, Brantford, and Halton. <span class="star-submitted-legend">&#11088; = submitted by an employment counsellor.</span></p>
+        <div class="jobs-stats" id="jobs-stats"></div>
       </div>
     </section>
 
     <section class="section">
       <div class="container">
-        <div class="job-embed">
-          <div class="job-embed__actions">
-            <span>Updated weekly &middot; Southern Ontario</span>
-            <a class="btn btn--outline" href="https://kwestwoodpath.github.io/weekly-job-report/" target="_blank" rel="noopener">Open in new tab &#8599;</a>
-          </div>
-          <iframe
-            src="https://kwestwoodpath.github.io/weekly-job-report/"
-            title="Weekly Job Listings - Southern Ontario, theHUB @PATH"
-            loading="lazy"
-            referrerpolicy="no-referrer-when-downgrade"
-            sandbox="allow-scripts allow-same-origin allow-popups allow-forms"></iframe>
+        <div class="jobs-toolbar">
+          <input type="search" id="job-search" placeholder="Search by title, employer, or location" aria-label="Search jobs">
+          <select id="job-edu" aria-label="Filter by education">
+            <option value="">All education levels</option>
+            <option value="none">No formal / On-the-job</option>
+            <option value="hs">High school</option>
+            <option value="college">College / Trade</option>
+          </select>
+          <select id="job-source" aria-label="Filter by source"></select>
+          <label class="toggle-submitted"><input type="checkbox" id="job-submitted-only"> &#11088; Submitted only</label>
         </div>
 
-        <p class="lead center mt-3">Have a role to post? <a href="contact.html">Get in touch</a> and we'll review it.</p>
+        <p id="job-count" class="job-count" aria-live="polite"></p>
+        <div id="job-list" aria-live="polite"></div>
+        <p id="job-empty" class="center hidden">No jobs match your filters. Try clearing them.</p>
+
+        <p class="lead center mt-3">Have a role to post? <a href="contact.html">Get in touch</a> and we'll add it to next week's list.</p>
       </div>
     </section>
   </main>
@@ -116,6 +120,7 @@
     </div>
   </div>
 
+  <script src="data/jobs.js"></script>
   <script src="js/site.js"></script>
 </body>
 </html>

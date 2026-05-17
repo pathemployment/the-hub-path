@@ -447,14 +447,198 @@ p  { margin: 0 0 1em; }
   color: var(--text-muted);
 }
 
-/* ---- Job board (legacy filterable list) ----------------------------- */
+/* ---- Job board native ------------------------------------------------ */
+.jobs-stats {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  margin-top: 1.25rem;
+  color: rgba(255, 255, 255, 0.85);
+  font-size: .9rem;
+}
+.jobs-stats strong { color: var(--white); }
+.star-submitted-legend { color: var(--capacity-sage); font-size: .85rem; }
+
 .jobs-toolbar {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: 2fr 1fr 1fr auto;
+  margin-bottom: 1rem;
+  align-items: center;
+}
+@media (max-width: 820px) { .jobs-toolbar { grid-template-columns: 1fr 1fr; } }
+@media (max-width: 540px) { .jobs-toolbar { grid-template-columns: 1fr; } }
+.toggle-submitted {
+  display: inline-flex;
+  align-items: center;
+  gap: .4rem;
+  font-size: .9rem;
+  color: var(--path-navy);
+  font-weight: 500;
+  white-space: nowrap;
+  cursor: pointer;
+}
+.toggle-submitted input { width: 16px; height: 16px; accent-color: var(--hub-blue); }
+.job-count {
+  font-size: .85rem;
+  color: var(--text-muted);
+  margin: 0 0 1.5rem;
+}
+
+.job-card {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--hub-blue);
+  border-radius: var(--radius);
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 1rem;
+  display: grid;
+  grid-template-columns: 1fr 200px;
+  gap: 1.5rem;
+  box-shadow: var(--shadow-sm);
+  transition: box-shadow .15s, transform .1s;
+}
+.job-card:hover { box-shadow: var(--shadow-md); }
+.job-card[data-edu="none"]    { border-left-color: var(--hub-blue); }
+.job-card[data-edu="hs"]      { border-left-color: var(--capacity-sage); }
+.job-card[data-edu="college"] { border-left-color: var(--spark-pink); }
+@media (max-width: 720px) {
+  .job-card { grid-template-columns: 1fr; }
+  .job-card__aside { border-top: 1px solid var(--border); padding-top: 1rem; }
+}
+
+.job-card__title {
+  margin: 0 0 .35rem;
+  font-size: 1.15rem;
+  color: var(--path-navy);
+  display: flex;
+  align-items: center;
+  gap: .75rem;
+  flex-wrap: wrap;
+}
+.job-card__title a { color: var(--path-navy); text-decoration: none; }
+.job-card__title a:hover { color: var(--hub-blue); text-decoration: underline; }
+.job-card__meta {
+  margin: 0 0 .75rem;
+  font-size: .92rem;
+  color: var(--text-muted);
+  display: flex;
+  flex-wrap: wrap;
+  gap: .35rem;
+  align-items: center;
+}
+.job-card__meta .sep { opacity: .5; }
+.job-card__meta strong { color: var(--path-navy); }
+.star-submitted {
+  display: inline-block;
+  background: rgba(220, 38, 87, 0.12);
+  color: var(--spark-pink);
+  font-size: .7rem;
+  font-weight: 700;
+  letter-spacing: .04em;
+  padding: .2rem .55rem;
+  border-radius: 999px;
+  white-space: nowrap;
+}
+.edu-tag {
+  display: inline-block;
+  font-size: .7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  padding: .15rem .5rem;
+  border-radius: 999px;
+}
+.edu-tag.edu-none    { background: rgba(0, 118, 191, 0.1);  color: var(--hub-blue); }
+.edu-tag.edu-hs      { background: rgba(124, 175, 174, 0.2); color: #4a7a79; }
+.edu-tag.edu-college { background: rgba(220, 38, 87, 0.1);  color: var(--spark-pink); }
+
+.job-tips {
+  margin-top: .75rem;
+  background: var(--bg-alt);
+  border-radius: 6px;
+  padding: 0;
+  border: 1px solid var(--border);
+}
+.job-tips summary {
+  cursor: pointer;
+  padding: .55rem .85rem;
+  font-size: .85rem;
+  font-weight: 600;
+  color: var(--path-navy);
+  user-select: none;
+  list-style: none;
+}
+.job-tips summary::before { content: "\25B8"; display: inline-block; margin-right: .5rem; transition: transform .15s; }
+.job-tips[open] summary::before { transform: rotate(90deg); }
+.job-tips summary::-webkit-details-marker { display: none; }
+.job-tips .tip {
+  padding: .55rem .85rem .75rem 1.85rem;
+  font-size: .88rem;
+  color: var(--text);
+  line-height: 1.5;
+}
+.job-tips .tip-label {
+  display: inline-block;
+  font-weight: 700;
+  color: var(--hub-blue);
+  margin-right: .35rem;
+  text-transform: uppercase;
+  font-size: .72rem;
+  letter-spacing: .06em;
+}
+
+.job-card__aside {
+  display: flex;
+  flex-direction: column;
+  gap: .5rem;
+  align-items: flex-start;
+}
+.job-card__salary {
+  font-size: 1rem;
+  color: var(--path-navy);
+}
+.job-card__posted {
+  display: flex;
+  align-items: center;
+  gap: .35rem;
+  font-size: .82rem;
+  color: var(--text-muted);
+}
+.job-card__posted .dot {
+  width: 8px; height: 8px; border-radius: 50%;
+  background: var(--spark-pink);
+  display: inline-block;
+}
+.source-pill {
+  display: inline-block;
+  font-size: .7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  padding: .2rem .55rem;
+  border-radius: 4px;
+  background: var(--bg-alt);
+  color: var(--text-muted);
+  border: 1px solid var(--border);
+}
+.source-pill--submitted { background: rgba(220, 38, 87, 0.1); color: var(--spark-pink); border-color: rgba(220, 38, 87, 0.25); }
+.source-pill--indeed,
+.source-pill--linkedin,
+.source-pill--ziprecruiter,
+.source-pill--talent-com,
+.source-pill--careerbeacon,
+.source-pill--job-bank { background: rgba(0, 118, 191, 0.08); color: var(--hub-blue); border-color: rgba(0, 118, 191, 0.2); }
+.btn--small { padding: .4rem .8rem; font-size: .85rem; }
+
+/* ---- Job board (legacy embed wrapper) ------------------------------- */
+.jobs-toolbar-legacy {
   display: grid;
   gap: 1rem;
   grid-template-columns: 2fr 1fr 1fr;
   margin-bottom: 2rem;
 }
-@media (max-width: 720px) { .jobs-toolbar { grid-template-columns: 1fr; } }
+@media (max-width: 720px) { .jobs-toolbar-legacy { grid-template-columns: 1fr; } }
 .jobs-toolbar input,
 .jobs-toolbar select {
   padding: .65rem .75rem;
