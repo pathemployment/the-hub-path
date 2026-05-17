@@ -27,7 +27,7 @@
   const CONSENT_KEY = 'hub-analytics-consent';
 
   function loadAnalytics() {
-    const GA_ID = 'G-XXXXXXXXXX';
+    const GA_ID = 'G-VBXW6R9FE0';
     if (!GA_ID || GA_ID.includes('XXXX')) return;
     const s = document.createElement('script');
     s.async = true;
