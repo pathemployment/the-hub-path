@@ -162,16 +162,34 @@
   function fmt(d) {
     return new Date(d).toLocaleDateString('en-CA', { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' });
   }
+  function dateParts(d) {
+    const dt = new Date(d);
+    return {
+      day: dt.toLocaleDateString('en-CA', { weekday: 'long' }),
+      month: dt.toLocaleDateString('en-CA', { month: 'short' }).toUpperCase(),
+      num: dt.getDate(),
+      year: dt.getFullYear()
+    };
+  }
   function featuredHTML(e) {
+    const dp = dateParts(e.date);
+    const visual = e.image
+      ? `<div class="event__image" style="background-image:url('${e.image}')"></div>`
+      : `<div class="event__datetile" aria-hidden="true">
+           <span class="event__datetile-day">${dp.day}</span>
+           <span class="event__datetile-month">${dp.month}</span>
+           <span class="event__datetile-num">${dp.num}</span>
+           <span class="event__datetile-year">${dp.year}</span>
+         </div>`;
     return `
-      <div class="event__image" style="${e.image ? `background-image:url('${e.image}')` : ''}"></div>
+      ${visual}
       <div class="event__body">
-        <span class="event__date">${fmt(e.date)}</span>
+        <span class="event__featured-tag">Featured Event</span>
         <h2>${e.title}</h2>
         <p class="lead">${e.description || ''}</p>
         ${e.location ? `<p><strong>Where:</strong> ${e.location}</p>` : ''}
-        ${e.time ? `<p><strong>Time:</strong> ${e.time}</p>` : ''}
-        ${e.registerUrl ? `<a class="btn btn--accent" href="${e.registerUrl}" target="_blank" rel="noopener">Register</a>` : ''}
+        ${e.time ? `<p><strong>When:</strong> ${fmt(e.date)} &middot; ${e.time}</p>` : `<p><strong>When:</strong> ${fmt(e.date)}</p>`}
+        ${e.registerUrl ? `<a class="btn btn--accent" href="${e.registerUrl}"${/^https?:/.test(e.registerUrl) ? ' target="_blank" rel="noopener"' : ''}>Register</a>` : ''}
       </div>
     `;
   }
