@@ -58,14 +58,14 @@
     </section>
 
     <section class="section">
-      <div class="container newsletter-article">
+      <div class="container">
+        <div class="newsletter-layout">
+          <article class="newsletter-article">
 
         <div class="newsletter-article__meta">
           <span><strong>Kevin Westwood</strong></span>
           <span>Wednesday, March 25, 2026</span>
         </div>
-
-        <p><a href="newsletters.html">&larr; All newsletters</a></p>
 
         <h2>Letter from Kevin</h2>
         <p>Over the past year, it has been a genuine privilege to be part of the continued growth of our service provider network. The willingness across the network to explore new approaches, strengthen practice, and support one another has been both encouraging and impactful.</p>
@@ -138,7 +138,13 @@
 
         <div class="download-row">
           <a class="btn btn--outline" href="assets/newsletters/2026-03-march.pdf" target="_blank" rel="noopener">Download the PDF</a>
-          <a class="btn btn--outline" href="newsletters.html">View all newsletters</a>
+        </div>
+          </article>
+
+          <aside class="newsletter-sidebar" aria-label="Newsletter archive">
+            <h3>Archive</h3>
+            <ul id="newsletter-sidebar-list"></ul>
+          </aside>
         </div>
       </div>
     </section>
@@ -182,6 +188,7 @@
     </div>
   </div>
 
+  <script src="data/newsletters.js"></script>
   <script src="js/site.js"></script>
 </body>
 </html>

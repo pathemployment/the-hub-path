@@ -209,7 +209,43 @@
   }
 })();
 
-// ---- Newsletter loader ----
+// ---- Newsletter sidebar (on article pages) ----
+(function () {
+  const sidebar = document.querySelector('#newsletter-sidebar-list');
+  if (!sidebar) return;
+  const data = window.HUB_NEWSLETTERS || [];
+  const sorted = data.slice().sort((a,b) => new Date(b.date) - new Date(a.date));
+  const here = location.pathname.split('/').pop();
+  sidebar.innerHTML = sorted.map(n => {
+    const d = new Date(n.date);
+    const label = d.toLocaleDateString('en-CA', { month: 'long', year: 'numeric' });
+    const href = n.page || '#';
+    const current = (n.page && href === here) ? ' is-current' : '';
+    return `
+      <li>
+        <a href="${href}" class="${current.trim()}">
+          <span class="sidebar-date">${label}</span>
+          <span class="sidebar-title">${n.title}</span>
+        </a>
+      </li>
+    `;
+  }).join('');
+})();
+
+// ---- Newsletters redirect (on newsletters.html) ----
+(function () {
+  const redirectEl = document.querySelector('#newsletter-redirect');
+  if (!redirectEl) return;
+  const data = window.HUB_NEWSLETTERS || [];
+  if (!data.length) return;
+  const sorted = data.slice().sort((a,b) => new Date(b.date) - new Date(a.date));
+  const latest = sorted.find(n => n.page);
+  if (latest && latest.page) {
+    location.replace(latest.page);
+  }
+})();
+
+// ---- Newsletter list (legacy archive view, if used) ----
 (function () {
   const list = document.querySelector('#newsletter-list');
   if (!list) return;

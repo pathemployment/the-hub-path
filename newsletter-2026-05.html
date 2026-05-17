@@ -58,15 +58,15 @@
     </section>
 
     <section class="section">
-      <div class="container newsletter-article">
+      <div class="container">
+        <div class="newsletter-layout">
+          <article class="newsletter-article">
 
         <div class="newsletter-article__meta">
           <span><strong>Kevin Westwood</strong></span>
           <span>Monday, May 11, 2026</span>
           <span>4 min read</span>
         </div>
-
-        <p><a href="newsletters.html">&larr; All newsletters</a></p>
 
         <h2>The HUB Essentials — Occupational Therapy Webinar</h2>
         <span class="byline">Sri Prasad</span>
@@ -122,7 +122,13 @@
 
         <div class="download-row">
           <a class="btn btn--outline" href="assets/newsletters/2026-05-may.pdf" target="_blank" rel="noopener">Download the PDF</a>
-          <a class="btn btn--outline" href="newsletters.html">View all newsletters</a>
+        </div>
+          </article>
+
+          <aside class="newsletter-sidebar" aria-label="Newsletter archive">
+            <h3>Archive</h3>
+            <ul id="newsletter-sidebar-list"></ul>
+          </aside>
         </div>
       </div>
     </section>
@@ -166,6 +172,7 @@
     </div>
   </div>
 
+  <script src="data/newsletters.js"></script>
   <script src="js/site.js"></script>
 </body>
 </html>
