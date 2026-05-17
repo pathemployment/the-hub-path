@@ -16,7 +16,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: general labour at Aspire Bakery",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ngeneral labour\nAspire Bakery — Hamilton\nNot listed\n\nAPPLY HERE\nhttps://apply.appcast.io/jobs/55496095825/applyboard/apply?cs=i1a&jg=66nz&bid=lUf2CslKyPxm6i440ZgUYA&src=LinkedIn_Appcast&org=true&ccuid=71636976415&ua=2&__ssr=true\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Aspire%20Bakery%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ngeneral labour\nAspire Bakery — Hamilton\nNot listed\n\nAPPLY HERE\nhttps://apply.appcast.io/jobs/55496095825/applyboard/apply?cs=i1a&jg=66nz&bid=lUf2CslKyPxm6i440ZgUYA&src=LinkedIn_Appcast&org=true&ccuid=71636976415&ua=2&__ssr=true\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Aspire%20Bakery%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "General Labour"
   },
   {
     "date": "2026-05-15",
@@ -32,7 +34,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: Operator 1 at Aspire Bakery",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nOperator 1\nAspire Bakery — Hamilton\nNot listed\n\nAPPLY HERE\nhttps://apply.appcast.io/jobs/55938441339/applyboard/apply?cs=i1a&jg=66nz&bid=lUf2CslKyPxm6i440ZgUYA&src=LinkedIn_Appcast&org=true&ccuid=71636966822&ua=2&__ssr=true\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Aspire%20Bakery%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nOperator 1\nAspire Bakery — Hamilton\nNot listed\n\nAPPLY HERE\nhttps://apply.appcast.io/jobs/55938441339/applyboard/apply?cs=i1a&jg=66nz&bid=lUf2CslKyPxm6i440ZgUYA&src=LinkedIn_Appcast&org=true&ccuid=71636966822&ua=2&__ssr=true\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Aspire%20Bakery%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Trades & Manufacturing"
   },
   {
     "date": "2026-05-15",
@@ -48,7 +52,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: facility operator at COLAS",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nfacility operator\nCOLAS — Hamilton\nNot listed\n\nAPPLY HERE\nhttps://colas.jobs.hr.cloud.sap/job/HAMILTON-Facility-Operator-ON-L8H-OA3/117590-en_US/?feedId=430157&utm_source=LinkedInJobPostings&utm_campaign=Colas_Linkedin\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+COLAS%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nfacility operator\nCOLAS — Hamilton\nNot listed\n\nAPPLY HERE\nhttps://colas.jobs.hr.cloud.sap/job/HAMILTON-Facility-Operator-ON-L8H-OA3/117590-en_US/?feedId=430157&utm_source=LinkedInJobPostings&utm_campaign=Colas_Linkedin\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+COLAS%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Trades & Manufacturing"
   },
   {
     "date": "2026-05-15",
@@ -64,7 +70,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: scale operator at McAsphalt Industries Ltd",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nscale operator\nMcAsphalt Industries Ltd — Hamilton\nNot listed\n\nAPPLY HERE\nhttps://colas.jobs.hr.cloud.sap/job/HAMILTON-Scale-Operator-ON-L8H-OA3/117591-en_US/?feedId=430157&utm_source=LinkedInJobPostings&utm_campaign=Colas_Linkedin\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+McAsphalt%20Industries%20Ltd%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nscale operator\nMcAsphalt Industries Ltd — Hamilton\nNot listed\n\nAPPLY HERE\nhttps://colas.jobs.hr.cloud.sap/job/HAMILTON-Scale-Operator-ON-L8H-OA3/117591-en_US/?feedId=430157&utm_source=LinkedInJobPostings&utm_campaign=Colas_Linkedin\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+McAsphalt%20Industries%20Ltd%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Trades & Manufacturing"
   },
   {
     "date": "2026-05-15",
@@ -80,7 +88,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: stucco plaster applicators at Qerim Plastering & Stucco Inc",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nstucco plaster applicators\nQerim Plastering & Stucco Inc — Hamilton\nNot listed\n\nAPPLY HERE\nhttps://ca.indeed.com/viewjob?cmp=Qerim-Plastering-%2526-Stucco-Inc&t=Plasterer&jk=259b3099d6c1dd83\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Qerim%20Plastering%20%26%20Stucco%20Inc%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nstucco plaster applicators\nQerim Plastering & Stucco Inc — Hamilton\nNot listed\n\nAPPLY HERE\nhttps://ca.indeed.com/viewjob?cmp=Qerim-Plastering-%2526-Stucco-Inc&t=Plasterer&jk=259b3099d6c1dd83\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Qerim%20Plastering%20%26%20Stucco%20Inc%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Trades & Manufacturing"
   },
   {
     "date": "2026-05-15",
@@ -96,7 +106,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: vehicle detailer and polisher at CARSTAR Hamilton Gage",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nvehicle detailer and polisher\nCARSTAR Hamilton Gage — Hamilton\nNot listed\n\nAPPLY HERE\nhttps://ca.indeed.com/viewjob?cmp=Carstar-Gage-Inc&t=Automotive+Detailer&jk=eb484e50e7462a7e\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+CARSTAR%20Hamilton%20Gage%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nvehicle detailer and polisher\nCARSTAR Hamilton Gage — Hamilton\nNot listed\n\nAPPLY HERE\nhttps://ca.indeed.com/viewjob?cmp=Carstar-Gage-Inc&t=Automotive+Detailer&jk=eb484e50e7462a7e\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+CARSTAR%20Hamilton%20Gage%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "General Labour"
   },
   {
     "date": "2026-05-15",
@@ -112,7 +124,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: mechanical assembler at AWS Logistics Partners",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nmechanical assembler\nAWS Logistics Partners — Hamilton\nNot listed\n\nAPPLY HERE\nhttps://ca.indeed.com/viewjob?cmp=AWS-Logistics-Partners&t=Mechanical+Assembler&jk=15b24b5e1ed964ad\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+AWS%20Logistics%20Partners%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nmechanical assembler\nAWS Logistics Partners — Hamilton\nNot listed\n\nAPPLY HERE\nhttps://ca.indeed.com/viewjob?cmp=AWS-Logistics-Partners&t=Mechanical+Assembler&jk=15b24b5e1ed964ad\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+AWS%20Logistics%20Partners%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Trades & Manufacturing"
   },
   {
     "date": "2026-05-15",
@@ -128,7 +142,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: weigh technician at Actlabs",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nweigh technician\nActlabs — Hamilton\nNot listed\n\nAPPLY HERE\nhttps://ca.indeed.com/viewjob?cmp=Activation-Laboratories-Ltd.&t=Sample+Weigh+Technician&jk=808ffe8a424c5d7a\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Actlabs%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nweigh technician\nActlabs — Hamilton\nNot listed\n\nAPPLY HERE\nhttps://ca.indeed.com/viewjob?cmp=Activation-Laboratories-Ltd.&t=Sample+Weigh+Technician&jk=808ffe8a424c5d7a\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Actlabs%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Trades & Manufacturing"
   },
   {
     "date": "2026-05-15",
@@ -144,7 +160,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: general labour at Azteca Contracting Inc",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ngeneral labour\nAzteca Contracting Inc — Hamilton\nNot listed\n\nAPPLY HERE\nhttps://ca.indeed.com/viewjob?cmp=Azteca-Contracting&t=Laborer&jk=9849bfcc86fc3e54\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Azteca%20Contracting%20Inc%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ngeneral labour\nAzteca Contracting Inc — Hamilton\nNot listed\n\nAPPLY HERE\nhttps://ca.indeed.com/viewjob?cmp=Azteca-Contracting&t=Laborer&jk=9849bfcc86fc3e54\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Azteca%20Contracting%20Inc%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "General Labour"
   },
   {
     "date": "2026-05-04",
@@ -160,7 +178,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: siding installer at Wealthy Renovations Ltd.",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nsiding installer\nWealthy Renovations Ltd. — Hamilton\n$25.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49451772\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Wealthy%20Renovations%20Ltd.%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nsiding installer\nWealthy Renovations Ltd. — Hamilton\n$25.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49451772\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Wealthy%20Renovations%20Ltd.%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Trades & Manufacturing"
   },
   {
     "date": "2026-05-04",
@@ -176,7 +196,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: body and fender repairman at Zellens Auto Mall",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nbody and fender repairman\nZellens Auto Mall — Hamilton\n$25.00-$35.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49451398\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Zellens%20Auto%20Mall%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nbody and fender repairman\nZellens Auto Mall — Hamilton\n$25.00-$35.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49451398\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Zellens%20Auto%20Mall%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Other"
   },
   {
     "date": "2026-05-04",
@@ -192,7 +214,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: CNC machinist at Saltfleet Machining Inc",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nCNC machinist\nSaltfleet Machining Inc — Hamilton\n$30.00-$40.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49451314\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Saltfleet%20Machining%20Inc%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nCNC machinist\nSaltfleet Machining Inc — Hamilton\n$30.00-$40.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49451314\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Saltfleet%20Machining%20Inc%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Trades & Manufacturing"
   },
   {
     "date": "2026-05-05",
@@ -208,7 +232,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: welder at Cassell Manufacturing",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nwelder\nCassell Manufacturing — Hamilton\n$39.50/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49463594\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Cassell%20Manufacturing%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nwelder\nCassell Manufacturing — Hamilton\n$39.50/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49463594\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Cassell%20Manufacturing%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Trades & Manufacturing"
   },
   {
     "date": "2026-05-08",
@@ -224,7 +250,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: automotive service technician apprentice at Cannon Car Care",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nautomotive service technician apprentice\nCannon Car Care — Hamilton\n$18.00-$30.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49492943\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Cannon%20Car%20Care%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nautomotive service technician apprentice\nCannon Car Care — Hamilton\n$18.00-$30.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49492943\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Cannon%20Car%20Care%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Trades & Manufacturing"
   },
   {
     "date": "2026-05-08",
@@ -240,7 +268,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: mechanic, car at Cannon Car Care",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nmechanic, car\nCannon Car Care — Hamilton\n$30.00-$50.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49492946\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Cannon%20Car%20Care%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nmechanic, car\nCannon Car Care — Hamilton\n$30.00-$50.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49492946\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Cannon%20Car%20Care%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Trades & Manufacturing"
   },
   {
     "date": "2026-05-12",
@@ -256,7 +286,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: drywall installer and finisher at Hamilton Drywall Inc",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ndrywall installer and finisher\nHamilton Drywall Inc — Hamilton\n$36.50/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49495791\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Hamilton%20Drywall%20Inc%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ndrywall installer and finisher\nHamilton Drywall Inc — Hamilton\n$36.50/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49495791\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Hamilton%20Drywall%20Inc%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Trades & Manufacturing"
   },
   {
     "date": "2026-05-13",
@@ -272,7 +304,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: HVAC TAB technician at Aire One West Heating & Cooling",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nHVAC TAB technician\nAire One West Heating & Cooling — Hamilton\n$26.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49504448\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Aire%20One%20West%20Heating%20%26%20Cooling%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nHVAC TAB technician\nAire One West Heating & Cooling — Hamilton\n$26.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49504448\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Aire%20One%20West%20Heating%20%26%20Cooling%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Trades & Manufacturing"
   },
   {
     "date": "2026-05-14",
@@ -288,7 +322,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: concrete finisher at SCP Stamped Concrete Pros Inc.",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nconcrete finisher\nSCP Stamped Concrete Pros Inc. — Hamilton\n$25.00-$40.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49511799\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+SCP%20Stamped%20Concrete%20Pros%20Inc.%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nconcrete finisher\nSCP Stamped Concrete Pros Inc. — Hamilton\n$25.00-$40.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49511799\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+SCP%20Stamped%20Concrete%20Pros%20Inc.%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Trades & Manufacturing"
   },
   {
     "date": "2026-05-02",
@@ -304,7 +340,9 @@ window.HUB_JOBS = [
     "tip_resume": "List every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.",
     "tip_cover": "Show you can work weekends and evenings.",
     "client_subject": "Job opportunity: restaurant manager at MELT ISLAND INC.",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nrestaurant manager\nMELT ISLAND INC. — Hamilton\n$36.50/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49438492\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+MELT%20ISLAND%20INC.%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nrestaurant manager\nMELT ISLAND INC. — Hamilton\n$36.50/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49438492\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+MELT%20ISLAND%20INC.%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Food Services"
   },
   {
     "date": "2026-05-04",
@@ -320,7 +358,9 @@ window.HUB_JOBS = [
     "tip_resume": "List every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.",
     "tip_cover": "Show you can work weekends and evenings.",
     "client_subject": "Job opportunity: sandwich artist at Subway",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nsandwich artist\nSubway — Hamilton\n$17.75-$18.20/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49453210\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Subway%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nsandwich artist\nSubway — Hamilton\n$17.75-$18.20/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49453210\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Subway%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Food Services"
   },
   {
     "date": "2026-05-08",
@@ -336,7 +376,9 @@ window.HUB_JOBS = [
     "tip_resume": "List every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.",
     "tip_cover": "Show you can work weekends and evenings.",
     "client_subject": "Job opportunity: baker at Big League Food Company Wholesale",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nbaker\nBig League Food Company Wholesale — Hamilton\n$19.50-$21.50/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49486652\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Big%20League%20Food%20Company%20Wholesale%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nbaker\nBig League Food Company Wholesale — Hamilton\n$19.50-$21.50/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49486652\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Big%20League%20Food%20Company%20Wholesale%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Food Services"
   },
   {
     "date": "2026-05-11",
@@ -352,7 +394,9 @@ window.HUB_JOBS = [
     "tip_resume": "List every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.",
     "tip_cover": "Show you can work weekends and evenings.",
     "client_subject": "Job opportunity: line cook at Swiss Chalet",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nline cook\nSwiss Chalet — Hamilton\n$36.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49494816\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Swiss%20Chalet%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nline cook\nSwiss Chalet — Hamilton\n$36.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49494816\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Swiss%20Chalet%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Food Services"
   },
   {
     "date": "2026-05-11",
@@ -368,7 +412,9 @@ window.HUB_JOBS = [
     "tip_resume": "List every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.",
     "tip_cover": "Show you can work weekends and evenings.",
     "client_subject": "Job opportunity: line cook at The Standard",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nline cook\nThe Standard — Hamilton\n$21.00-$24.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49489884\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+The%20Standard%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nline cook\nThe Standard — Hamilton\n$21.00-$24.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49489884\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+The%20Standard%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Food Services"
   },
   {
     "date": "2026-05-12",
@@ -384,7 +430,9 @@ window.HUB_JOBS = [
     "tip_resume": "List every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.",
     "tip_cover": "Show you can work weekends and evenings.",
     "client_subject": "Job opportunity: restaurant manager at Montfort Mediterranean Grill",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nrestaurant manager\nMontfort Mediterranean Grill — Waterdown\n$36.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49499105\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Montfort%20Mediterranean%20Grill%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nrestaurant manager\nMontfort Mediterranean Grill — Waterdown\n$36.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49499105\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Montfort%20Mediterranean%20Grill%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Food Services"
   },
   {
     "date": "2026-05-13",
@@ -400,7 +448,9 @@ window.HUB_JOBS = [
     "tip_resume": "List every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.",
     "tip_cover": "Show you can work weekends and evenings.",
     "client_subject": "Job opportunity: line cook at Barangas on the Beach",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nline cook\nBarangas on the Beach — Hamilton\n$18.00-$24.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49506465\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Barangas%20on%20the%20Beach%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nline cook\nBarangas on the Beach — Hamilton\n$18.00-$24.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49506465\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Barangas%20on%20the%20Beach%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Food Services"
   },
   {
     "date": "2026-05-13",
@@ -416,7 +466,9 @@ window.HUB_JOBS = [
     "tip_resume": "List every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.",
     "tip_cover": "Show you can work weekends and evenings.",
     "client_subject": "Job opportunity: food service worker at Edible Arrangements",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nfood service worker\nEdible Arrangements — Hamilton\n$17.60/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49505627\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Edible%20Arrangements%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nfood service worker\nEdible Arrangements — Hamilton\n$17.60/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49505627\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Edible%20Arrangements%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Food Services"
   },
   {
     "date": "2026-05-14",
@@ -432,7 +484,9 @@ window.HUB_JOBS = [
     "tip_resume": "List every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.",
     "tip_cover": "Show you can work weekends and evenings.",
     "client_subject": "Job opportunity: barista at Big League Food Company Retail",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nbarista\nBig League Food Company Retail — Hamilton\n$18.00-$18.50/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49515741\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Big%20League%20Food%20Company%20Retail%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nbarista\nBig League Food Company Retail — Hamilton\n$18.00-$18.50/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49515741\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Big%20League%20Food%20Company%20Retail%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Food Services"
   },
   {
     "date": "2026-05-14",
@@ -448,7 +502,9 @@ window.HUB_JOBS = [
     "tip_resume": "List every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.",
     "tip_cover": "Show you can work weekends and evenings.",
     "client_subject": "Job opportunity: bread baker at Big League Food Company Wholesale",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nbread baker\nBig League Food Company Wholesale — Hamilton\n$19.00-$22.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49518170\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Big%20League%20Food%20Company%20Wholesale%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nbread baker\nBig League Food Company Wholesale — Hamilton\n$19.00-$22.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49518170\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Big%20League%20Food%20Company%20Wholesale%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Food Services"
   },
   {
     "date": "2026-05-14",
@@ -464,7 +520,9 @@ window.HUB_JOBS = [
     "tip_resume": "List every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.",
     "tip_cover": "Show you can work weekends and evenings.",
     "client_subject": "Job opportunity: breakfast attendant at Vrancor",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nbreakfast attendant\nVrancor — Hamilton\n$18.50-$19.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49511962\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Vrancor%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nbreakfast attendant\nVrancor — Hamilton\n$18.50-$19.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49511962\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Vrancor%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Food Services"
   },
   {
     "date": "2026-05-15",
@@ -480,7 +538,9 @@ window.HUB_JOBS = [
     "tip_resume": "List every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.",
     "tip_cover": "Show you can work weekends and evenings.",
     "client_subject": "Job opportunity: banquet server at Sheraton Hamilton",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nbanquet server\nSheraton Hamilton — Hamilton\n$20.13/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49519006\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Sheraton%20Hamilton%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nbanquet server\nSheraton Hamilton — Hamilton\n$20.13/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49519006\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Sheraton%20Hamilton%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Food Services"
   },
   {
     "date": "2026-05-15",
@@ -496,7 +556,9 @@ window.HUB_JOBS = [
     "tip_resume": "Forklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.",
     "tip_cover": "Open availability matters. Mention valid driver's licence (G or AZ as relevant).",
     "client_subject": "Job opportunity: warehouse associate at QXO",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nwarehouse associate\nQXO — Hamilton\nNot listed\n\nAPPLY HERE\nhttps://jobs.qxo.com/careers-home/jobs/11478?lang=en-us&iis=Job+Board&iisn=LinkedIn\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+QXO%20about%20us\n\nRESUME TIPS\nForklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.\n\nCOVER LETTER ANGLE\nOpen availability matters. Mention valid driver's licence (G or AZ as relevant).\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nwarehouse associate\nQXO — Hamilton\nNot listed\n\nAPPLY HERE\nhttps://jobs.qxo.com/careers-home/jobs/11478?lang=en-us&iis=Job+Board&iisn=LinkedIn\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+QXO%20about%20us\n\nRESUME TIPS\nForklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.\n\nCOVER LETTER ANGLE\nOpen availability matters. Mention valid driver's licence (G or AZ as relevant).\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Warehouse & Logistics"
   },
   {
     "date": "2026-05-15",
@@ -512,7 +574,9 @@ window.HUB_JOBS = [
     "tip_resume": "Forklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.",
     "tip_cover": "Open availability matters. Mention valid driver's licence (G or AZ as relevant).",
     "client_subject": "Job opportunity: warehouse person at CAT",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nwarehouse person\nCAT — Hamilton\nNot listed\n\nAPPLY HERE\nhttps://recruiting.ultipro.ca/TOR5001TIL/JobBoard/24cbbe4b-86ee-4afa-9385-92863afdf1bd/OpportunityDetail?opportunityId=75d118b8-618a-461e-9f25-5f923e04501a&source=LinkedIn\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+CAT%20about%20us\n\nRESUME TIPS\nForklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.\n\nCOVER LETTER ANGLE\nOpen availability matters. Mention valid driver's licence (G or AZ as relevant).\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nwarehouse person\nCAT — Hamilton\nNot listed\n\nAPPLY HERE\nhttps://recruiting.ultipro.ca/TOR5001TIL/JobBoard/24cbbe4b-86ee-4afa-9385-92863afdf1bd/OpportunityDetail?opportunityId=75d118b8-618a-461e-9f25-5f923e04501a&source=LinkedIn\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+CAT%20about%20us\n\nRESUME TIPS\nForklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.\n\nCOVER LETTER ANGLE\nOpen availability matters. Mention valid driver's licence (G or AZ as relevant).\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Warehouse & Logistics"
   },
   {
     "date": "2026-05-15",
@@ -528,7 +592,9 @@ window.HUB_JOBS = [
     "tip_resume": "Forklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.",
     "tip_cover": "Open availability matters. Mention valid driver's licence (G or AZ as relevant).",
     "client_subject": "Job opportunity: warehouse sorter at GLS",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nwarehouse sorter\nGLS — Hamilton\nNot listed\n\nAPPLY HERE\nhttps://applications.gls-canada.com/fr/position/04f0455c-89ef-4aaf-4980-08deab6b515c\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+GLS%20about%20us\n\nRESUME TIPS\nForklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.\n\nCOVER LETTER ANGLE\nOpen availability matters. Mention valid driver's licence (G or AZ as relevant).\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nwarehouse sorter\nGLS — Hamilton\nNot listed\n\nAPPLY HERE\nhttps://applications.gls-canada.com/fr/position/04f0455c-89ef-4aaf-4980-08deab6b515c\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+GLS%20about%20us\n\nRESUME TIPS\nForklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.\n\nCOVER LETTER ANGLE\nOpen availability matters. Mention valid driver's licence (G or AZ as relevant).\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Warehouse & Logistics"
   },
   {
     "date": "2026-05-15",
@@ -544,7 +610,9 @@ window.HUB_JOBS = [
     "tip_resume": "Forklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.",
     "tip_cover": "Open availability matters. Mention valid driver's licence (G or AZ as relevant).",
     "client_subject": "Job opportunity: order picker / general labour at R. E. Glover Ltd.",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\norder picker / general labour\nR. E. Glover Ltd. — Hamilton\nNot listed\n\nAPPLY HERE\nhttps://ca.indeed.com/viewjob?cmp=R.-E.-GLOVER-LTD.&t=Order+Picker&jk=fcb16faed41dae5d\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+R.%20E.%20Glover%20Ltd.%20about%20us\n\nRESUME TIPS\nForklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.\n\nCOVER LETTER ANGLE\nOpen availability matters. Mention valid driver's licence (G or AZ as relevant).\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\norder picker / general labour\nR. E. Glover Ltd. — Hamilton\nNot listed\n\nAPPLY HERE\nhttps://ca.indeed.com/viewjob?cmp=R.-E.-GLOVER-LTD.&t=Order+Picker&jk=fcb16faed41dae5d\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+R.%20E.%20Glover%20Ltd.%20about%20us\n\nRESUME TIPS\nForklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.\n\nCOVER LETTER ANGLE\nOpen availability matters. Mention valid driver's licence (G or AZ as relevant).\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Warehouse & Logistics"
   },
   {
     "date": "2026-05-04",
@@ -560,7 +628,9 @@ window.HUB_JOBS = [
     "tip_resume": "Forklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.",
     "tip_cover": "Open availability matters. Mention valid driver's licence (G or AZ as relevant).",
     "client_subject": "Job opportunity: inventory clerk at iInventory Solutions",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ninventory clerk\niInventory Solutions — Hamilton\n$18.00-$20.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49451444\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+iInventory%20Solutions%20about%20us\n\nRESUME TIPS\nForklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.\n\nCOVER LETTER ANGLE\nOpen availability matters. Mention valid driver's licence (G or AZ as relevant).\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ninventory clerk\niInventory Solutions — Hamilton\n$18.00-$20.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49451444\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+iInventory%20Solutions%20about%20us\n\nRESUME TIPS\nForklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.\n\nCOVER LETTER ANGLE\nOpen availability matters. Mention valid driver's licence (G or AZ as relevant).\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Warehouse & Logistics"
   },
   {
     "date": "2026-05-05",
@@ -576,7 +646,9 @@ window.HUB_JOBS = [
     "tip_resume": "Forklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.",
     "tip_cover": "Open availability matters. Mention valid driver's licence (G or AZ as relevant).",
     "client_subject": "Job opportunity: truck driver, long haul at Randhawa Transportation",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ntruck driver, long haul\nRandhawa Transportation — Hamilton\n$36.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49456809\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Randhawa%20Transportation%20about%20us\n\nRESUME TIPS\nForklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.\n\nCOVER LETTER ANGLE\nOpen availability matters. Mention valid driver's licence (G or AZ as relevant).\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ntruck driver, long haul\nRandhawa Transportation — Hamilton\n$36.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49456809\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Randhawa%20Transportation%20about%20us\n\nRESUME TIPS\nForklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.\n\nCOVER LETTER ANGLE\nOpen availability matters. Mention valid driver's licence (G or AZ as relevant).\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Driving & Delivery"
   },
   {
     "date": "2026-05-07",
@@ -592,7 +664,9 @@ window.HUB_JOBS = [
     "tip_resume": "Forklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.",
     "tip_cover": "Open availability matters. Mention valid driver's licence (G or AZ as relevant).",
     "client_subject": "Job opportunity: courier driver at Kindling Cannabis Inc.",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ncourier driver\nKindling Cannabis Inc. — Hamilton\n$17.60/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49475030\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Kindling%20Cannabis%20Inc.%20about%20us\n\nRESUME TIPS\nForklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.\n\nCOVER LETTER ANGLE\nOpen availability matters. Mention valid driver's licence (G or AZ as relevant).\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ncourier driver\nKindling Cannabis Inc. — Hamilton\n$17.60/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49475030\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Kindling%20Cannabis%20Inc.%20about%20us\n\nRESUME TIPS\nForklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.\n\nCOVER LETTER ANGLE\nOpen availability matters. Mention valid driver's licence (G or AZ as relevant).\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Driving & Delivery"
   },
   {
     "date": "2026-05-11",
@@ -608,7 +682,9 @@ window.HUB_JOBS = [
     "tip_resume": "Forklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.",
     "tip_cover": "Open availability matters. Mention valid driver's licence (G or AZ as relevant).",
     "client_subject": "Job opportunity: delivery driver at Zarky's Fine Foods",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ndelivery driver\nZarky's Fine Foods — Hamilton\n$18.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49489635\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Zarky%27s%20Fine%20Foods%20about%20us\n\nRESUME TIPS\nForklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.\n\nCOVER LETTER ANGLE\nOpen availability matters. Mention valid driver's licence (G or AZ as relevant).\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ndelivery driver\nZarky's Fine Foods — Hamilton\n$18.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49489635\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Zarky%27s%20Fine%20Foods%20about%20us\n\nRESUME TIPS\nForklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.\n\nCOVER LETTER ANGLE\nOpen availability matters. Mention valid driver's licence (G or AZ as relevant).\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Driving & Delivery"
   },
   {
     "date": "2026-05-11",
@@ -624,7 +700,9 @@ window.HUB_JOBS = [
     "tip_resume": "Forklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.",
     "tip_cover": "Open availability matters. Mention valid driver's licence (G or AZ as relevant).",
     "client_subject": "Job opportunity: forklift operator at Clare Interior Supplies Ltd.",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nforklift operator\nClare Interior Supplies Ltd. — Hamilton\n$21.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49489764\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Clare%20Interior%20Supplies%20Ltd.%20about%20us\n\nRESUME TIPS\nForklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.\n\nCOVER LETTER ANGLE\nOpen availability matters. Mention valid driver's licence (G or AZ as relevant).\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nforklift operator\nClare Interior Supplies Ltd. — Hamilton\n$21.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49489764\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Clare%20Interior%20Supplies%20Ltd.%20about%20us\n\nRESUME TIPS\nForklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.\n\nCOVER LETTER ANGLE\nOpen availability matters. Mention valid driver's licence (G or AZ as relevant).\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Warehouse & Logistics"
   },
   {
     "date": "2026-05-12",
@@ -640,7 +718,9 @@ window.HUB_JOBS = [
     "tip_resume": "Forklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.",
     "tip_cover": "Open availability matters. Mention valid driver's licence (G or AZ as relevant).",
     "client_subject": "Job opportunity: delivery driver at Jeeter",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ndelivery driver\nJeeter — Hamilton\n$20.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49502560\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Jeeter%20about%20us\n\nRESUME TIPS\nForklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.\n\nCOVER LETTER ANGLE\nOpen availability matters. Mention valid driver's licence (G or AZ as relevant).\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ndelivery driver\nJeeter — Hamilton\n$20.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49502560\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Jeeter%20about%20us\n\nRESUME TIPS\nForklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.\n\nCOVER LETTER ANGLE\nOpen availability matters. Mention valid driver's licence (G or AZ as relevant).\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Driving & Delivery"
   },
   {
     "date": "2026-05-12",
@@ -656,7 +736,9 @@ window.HUB_JOBS = [
     "tip_resume": "Forklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.",
     "tip_cover": "Open availability matters. Mention valid driver's licence (G or AZ as relevant).",
     "client_subject": "Job opportunity: shipper-receiver at Zarky's Fine Foods",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nshipper-receiver\nZarky's Fine Foods — Hamilton\n$18.00-$20.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49500800\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Zarky%27s%20Fine%20Foods%20about%20us\n\nRESUME TIPS\nForklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.\n\nCOVER LETTER ANGLE\nOpen availability matters. Mention valid driver's licence (G or AZ as relevant).\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nshipper-receiver\nZarky's Fine Foods — Hamilton\n$18.00-$20.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49500800\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Zarky%27s%20Fine%20Foods%20about%20us\n\nRESUME TIPS\nForklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.\n\nCOVER LETTER ANGLE\nOpen availability matters. Mention valid driver's licence (G or AZ as relevant).\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Warehouse & Logistics"
   },
   {
     "date": "2026-05-13",
@@ -672,7 +754,9 @@ window.HUB_JOBS = [
     "tip_resume": "Forklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.",
     "tip_cover": "Open availability matters. Mention valid driver's licence (G or AZ as relevant).",
     "client_subject": "Job opportunity: material handler at Embree Industries Limited",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nmaterial handler\nEmbree Industries Limited — Hamilton\n$19.00-$25.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49506932\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Embree%20Industries%20Limited%20about%20us\n\nRESUME TIPS\nForklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.\n\nCOVER LETTER ANGLE\nOpen availability matters. Mention valid driver's licence (G or AZ as relevant).\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nmaterial handler\nEmbree Industries Limited — Hamilton\n$19.00-$25.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49506932\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Embree%20Industries%20Limited%20about%20us\n\nRESUME TIPS\nForklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.\n\nCOVER LETTER ANGLE\nOpen availability matters. Mention valid driver's licence (G or AZ as relevant).\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Warehouse & Logistics"
   },
   {
     "date": "2026-05-15",
@@ -688,7 +772,9 @@ window.HUB_JOBS = [
     "tip_resume": "Customer service experience first. POS, cash handling, merchandising.",
     "tip_cover": "Show you enjoy talking to people. Open availability (evenings, weekends) is gold.",
     "client_subject": "Job opportunity: merchandising service associate at Rona",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nmerchandising service associate\nRona — Hamilton\nNot listed\n\nAPPLY HERE\nhttps://ca.indeed.com/viewjob?jk=a0ed67cec2b1422f\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Rona%20about%20us\n\nRESUME TIPS\nCustomer service experience first. POS, cash handling, merchandising.\n\nCOVER LETTER ANGLE\nShow you enjoy talking to people. Open availability (evenings, weekends) is gold.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nmerchandising service associate\nRona — Hamilton\nNot listed\n\nAPPLY HERE\nhttps://ca.indeed.com/viewjob?jk=a0ed67cec2b1422f\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Rona%20about%20us\n\nRESUME TIPS\nCustomer service experience first. POS, cash handling, merchandising.\n\nCOVER LETTER ANGLE\nShow you enjoy talking to people. Open availability (evenings, weekends) is gold.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Retail & Sales"
   },
   {
     "date": "2026-05-04",
@@ -704,7 +790,9 @@ window.HUB_JOBS = [
     "tip_resume": "Customer service experience first. POS, cash handling, merchandising.",
     "tip_cover": "Show you enjoy talking to people. Open availability (evenings, weekends) is gold.",
     "client_subject": "Job opportunity: salesperson - retail at Connect6 Group",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nsalesperson - retail\nConnect6 Group — Hamilton\n$18.00-$30.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49449008\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Connect6%20Group%20about%20us\n\nRESUME TIPS\nCustomer service experience first. POS, cash handling, merchandising.\n\nCOVER LETTER ANGLE\nShow you enjoy talking to people. Open availability (evenings, weekends) is gold.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nsalesperson - retail\nConnect6 Group — Hamilton\n$18.00-$30.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49449008\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Connect6%20Group%20about%20us\n\nRESUME TIPS\nCustomer service experience first. POS, cash handling, merchandising.\n\nCOVER LETTER ANGLE\nShow you enjoy talking to people. Open availability (evenings, weekends) is gold.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Retail & Sales"
   },
   {
     "date": "2026-05-04",
@@ -720,7 +808,9 @@ window.HUB_JOBS = [
     "tip_resume": "Customer service experience first. POS, cash handling, merchandising.",
     "tip_cover": "Show you enjoy talking to people. Open availability (evenings, weekends) is gold.",
     "client_subject": "Job opportunity: retail sales representative at Connect6 Group Inc.",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nretail sales representative\nConnect6 Group Inc. — Hamilton\n$74,783/yr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49454328\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Connect6%20Group%20Inc.%20about%20us\n\nRESUME TIPS\nCustomer service experience first. POS, cash handling, merchandising.\n\nCOVER LETTER ANGLE\nShow you enjoy talking to people. Open availability (evenings, weekends) is gold.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nretail sales representative\nConnect6 Group Inc. — Hamilton\n$74,783/yr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49454328\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Connect6%20Group%20Inc.%20about%20us\n\nRESUME TIPS\nCustomer service experience first. POS, cash handling, merchandising.\n\nCOVER LETTER ANGLE\nShow you enjoy talking to people. Open availability (evenings, weekends) is gold.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Retail & Sales"
   },
   {
     "date": "2026-05-06",
@@ -736,7 +826,9 @@ window.HUB_JOBS = [
     "tip_resume": "Customer service experience first. POS, cash handling, merchandising.",
     "tip_cover": "Show you enjoy talking to people. Open availability (evenings, weekends) is gold.",
     "client_subject": "Job opportunity: sales associate - retail at Reitmans",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nsales associate - retail\nReitmans — Hamilton\n$14.00-$26.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49475845\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Reitmans%20about%20us\n\nRESUME TIPS\nCustomer service experience first. POS, cash handling, merchandising.\n\nCOVER LETTER ANGLE\nShow you enjoy talking to people. Open availability (evenings, weekends) is gold.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nsales associate - retail\nReitmans — Hamilton\n$14.00-$26.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49475845\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Reitmans%20about%20us\n\nRESUME TIPS\nCustomer service experience first. POS, cash handling, merchandising.\n\nCOVER LETTER ANGLE\nShow you enjoy talking to people. Open availability (evenings, weekends) is gold.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Retail & Sales"
   },
   {
     "date": "2026-05-07",
@@ -752,7 +844,9 @@ window.HUB_JOBS = [
     "tip_resume": "Customer service experience first. POS, cash handling, merchandising.",
     "tip_cover": "Show you enjoy talking to people. Open availability (evenings, weekends) is gold.",
     "client_subject": "Job opportunity: gas station manager at Mobil/Mavs Convenience",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ngas station manager\nMobil/Mavs Convenience — Hamilton\n$30k-$50k/yr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49470109\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Mobil/Mavs%20Convenience%20about%20us\n\nRESUME TIPS\nCustomer service experience first. POS, cash handling, merchandising.\n\nCOVER LETTER ANGLE\nShow you enjoy talking to people. Open availability (evenings, weekends) is gold.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ngas station manager\nMobil/Mavs Convenience — Hamilton\n$30k-$50k/yr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49470109\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Mobil/Mavs%20Convenience%20about%20us\n\nRESUME TIPS\nCustomer service experience first. POS, cash handling, merchandising.\n\nCOVER LETTER ANGLE\nShow you enjoy talking to people. Open availability (evenings, weekends) is gold.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Retail & Sales"
   },
   {
     "date": "2026-05-11",
@@ -768,7 +862,9 @@ window.HUB_JOBS = [
     "tip_resume": "Customer service experience first. POS, cash handling, merchandising.",
     "tip_cover": "Show you enjoy talking to people. Open availability (evenings, weekends) is gold.",
     "client_subject": "Job opportunity: retail merchandiser at Neptune Retail Solutions",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nretail merchandiser\nNeptune Retail Solutions — Hamilton\n$17.60/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49494718\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Neptune%20Retail%20Solutions%20about%20us\n\nRESUME TIPS\nCustomer service experience first. POS, cash handling, merchandising.\n\nCOVER LETTER ANGLE\nShow you enjoy talking to people. Open availability (evenings, weekends) is gold.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nretail merchandiser\nNeptune Retail Solutions — Hamilton\n$17.60/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49494718\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Neptune%20Retail%20Solutions%20about%20us\n\nRESUME TIPS\nCustomer service experience first. POS, cash handling, merchandising.\n\nCOVER LETTER ANGLE\nShow you enjoy talking to people. Open availability (evenings, weekends) is gold.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Retail & Sales"
   },
   {
     "date": "2026-05-13",
@@ -784,7 +880,9 @@ window.HUB_JOBS = [
     "tip_resume": "Customer service experience first. POS, cash handling, merchandising.",
     "tip_cover": "Show you enjoy talking to people. Open availability (evenings, weekends) is gold.",
     "client_subject": "Job opportunity: inspector - by-law enforcement at Fortinos",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ninspector - by-law enforcement\nFortinos — Hamilton\n$21.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49506889\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Fortinos%20about%20us\n\nRESUME TIPS\nCustomer service experience first. POS, cash handling, merchandising.\n\nCOVER LETTER ANGLE\nShow you enjoy talking to people. Open availability (evenings, weekends) is gold.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ninspector - by-law enforcement\nFortinos — Hamilton\n$21.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49506889\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Fortinos%20about%20us\n\nRESUME TIPS\nCustomer service experience first. POS, cash handling, merchandising.\n\nCOVER LETTER ANGLE\nShow you enjoy talking to people. Open availability (evenings, weekends) is gold.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Security & Enforcement"
   },
   {
     "date": "2026-05-14",
@@ -800,7 +898,9 @@ window.HUB_JOBS = [
     "tip_resume": "Customer service experience first. POS, cash handling, merchandising.",
     "tip_cover": "Show you enjoy talking to people. Open availability (evenings, weekends) is gold.",
     "client_subject": "Job opportunity: retail merchandiser at Devrew Merchandising",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nretail merchandiser\nDevrew Merchandising — Hamilton\n$18.30/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49513133\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Devrew%20Merchandising%20about%20us\n\nRESUME TIPS\nCustomer service experience first. POS, cash handling, merchandising.\n\nCOVER LETTER ANGLE\nShow you enjoy talking to people. Open availability (evenings, weekends) is gold.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nretail merchandiser\nDevrew Merchandising — Hamilton\n$18.30/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49513133\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Devrew%20Merchandising%20about%20us\n\nRESUME TIPS\nCustomer service experience first. POS, cash handling, merchandising.\n\nCOVER LETTER ANGLE\nShow you enjoy talking to people. Open availability (evenings, weekends) is gold.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Retail & Sales"
   },
   {
     "date": "2026-05-14",
@@ -816,7 +916,9 @@ window.HUB_JOBS = [
     "tip_resume": "Customer service experience first. POS, cash handling, merchandising.",
     "tip_cover": "Show you enjoy talking to people. Open availability (evenings, weekends) is gold.",
     "client_subject": "Job opportunity: retail sales associate at AutoShack.com",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nretail sales associate\nAutoShack.com — Hamilton\n$20.00-$26.50/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49514478\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+AutoShack.com%20about%20us\n\nRESUME TIPS\nCustomer service experience first. POS, cash handling, merchandising.\n\nCOVER LETTER ANGLE\nShow you enjoy talking to people. Open availability (evenings, weekends) is gold.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nretail sales associate\nAutoShack.com — Hamilton\n$20.00-$26.50/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49514478\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+AutoShack.com%20about%20us\n\nRESUME TIPS\nCustomer service experience first. POS, cash handling, merchandising.\n\nCOVER LETTER ANGLE\nShow you enjoy talking to people. Open availability (evenings, weekends) is gold.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Retail & Sales"
   },
   {
     "date": "2026-05-15",
@@ -832,7 +934,9 @@ window.HUB_JOBS = [
     "tip_resume": "Lead with reliability and customer-facing experience. List certifications.",
     "tip_cover": "Show you can work the hours required.",
     "client_subject": "Job opportunity: Account Executive, Groups & Memberships at Hamilton Tiger-Cats",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nAccount Executive, Groups & Memberships\nHamilton Tiger-Cats — Hamilton\nNot listed\n\nAPPLY HERE\nhttps://www.teamworkonline.com/football-jobs/cfljobs/hamilton-tiger-cats/account-executive-groups-memberships-2170672\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Hamilton%20Tiger-Cats%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nAccount Executive, Groups & Memberships\nHamilton Tiger-Cats — Hamilton\nNot listed\n\nAPPLY HERE\nhttps://www.teamworkonline.com/football-jobs/cfljobs/hamilton-tiger-cats/account-executive-groups-memberships-2170672\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Hamilton%20Tiger-Cats%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Office & Admin"
   },
   {
     "date": "2026-05-05",
@@ -848,7 +952,9 @@ window.HUB_JOBS = [
     "tip_resume": "Lead with reliability and customer-facing experience. List certifications.",
     "tip_cover": "Show you can work the hours required.",
     "client_subject": "Job opportunity: pharmacy assistant at Second pharmacy",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\npharmacy assistant\nSecond pharmacy — Hamilton\n$19.00-$20.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49463389\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Second%20pharmacy%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\npharmacy assistant\nSecond pharmacy — Hamilton\n$19.00-$20.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49463389\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Second%20pharmacy%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Healthcare & Personal Support"
   },
   {
     "date": "2026-05-07",
@@ -864,7 +970,9 @@ window.HUB_JOBS = [
     "tip_resume": "Lead with reliability and customer-facing experience. List certifications.",
     "tip_cover": "Show you can work the hours required.",
     "client_subject": "Job opportunity: medical office secretary-receptionist at Family Medical Practice",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nmedical office secretary-receptionist\nFamily Medical Practice — Hamilton\n$20.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49476057\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Family%20Medical%20Practice%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nmedical office secretary-receptionist\nFamily Medical Practice — Hamilton\n$20.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49476057\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Family%20Medical%20Practice%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Office & Admin"
   },
   {
     "date": "2026-05-07",
@@ -880,7 +988,9 @@ window.HUB_JOBS = [
     "tip_resume": "Lead with reliability and customer-facing experience. List certifications.",
     "tip_cover": "Show you can work the hours required.",
     "client_subject": "Job opportunity: dental receptionist at The Tooth Corner",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ndental receptionist\nThe Tooth Corner — Hamilton\n$20.00-$22.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49475175\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+The%20Tooth%20Corner%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ndental receptionist\nThe Tooth Corner — Hamilton\n$20.00-$22.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49475175\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+The%20Tooth%20Corner%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Office & Admin"
   },
   {
     "date": "2026-05-08",
@@ -896,7 +1006,9 @@ window.HUB_JOBS = [
     "tip_resume": "Lead with reliability and customer-facing experience. List certifications.",
     "tip_cover": "Show you can work the hours required.",
     "client_subject": "Job opportunity: personal support worker - home support at VON Canada",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\npersonal support worker - home support\nVON Canada — Hamilton\n$19.53-$25.83/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49480364\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+VON%20Canada%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\npersonal support worker - home support\nVON Canada — Hamilton\n$19.53-$25.83/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49480364\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+VON%20Canada%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Healthcare & Personal Support"
   },
   {
     "date": "2026-05-08",
@@ -912,7 +1024,9 @@ window.HUB_JOBS = [
     "tip_resume": "Lead with reliability and customer-facing experience. List certifications.",
     "tip_cover": "Show you can work the hours required.",
     "client_subject": "Job opportunity: home health care worker at Osting Family",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nhome health care worker\nOsting Family — Hamilton\n$22.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49482473\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Osting%20Family%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nhome health care worker\nOsting Family — Hamilton\n$22.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49482473\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Osting%20Family%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Healthcare & Personal Support"
   },
   {
     "date": "2026-05-08",
@@ -928,7 +1042,9 @@ window.HUB_JOBS = [
     "tip_resume": "Lead with reliability and customer-facing experience. List certifications.",
     "tip_cover": "Show you can work the hours required.",
     "client_subject": "Job opportunity: bookkeeper at BITTS Testing Services",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nbookkeeper\nBITTS Testing Services — Hamilton\n$30.00-$36.25/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49493130\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+BITTS%20Testing%20Services%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nbookkeeper\nBITTS Testing Services — Hamilton\n$30.00-$36.25/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49493130\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+BITTS%20Testing%20Services%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Office & Admin"
   },
   {
     "date": "2026-05-11",
@@ -944,7 +1060,9 @@ window.HUB_JOBS = [
     "tip_resume": "Lead with reliability and customer-facing experience. List certifications.",
     "tip_cover": "Show you can work the hours required.",
     "client_subject": "Job opportunity: cleaner at Twin City Commercial Cleaners",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ncleaner\nTwin City Commercial Cleaners — Hamilton\n$19.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49491352\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Twin%20City%20Commercial%20Cleaners%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ncleaner\nTwin City Commercial Cleaners — Hamilton\n$19.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49491352\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Twin%20City%20Commercial%20Cleaners%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Cleaning & Custodial"
   },
   {
     "date": "2026-05-11",
@@ -960,7 +1078,9 @@ window.HUB_JOBS = [
     "tip_resume": "Lead with reliability and customer-facing experience. List certifications.",
     "tip_cover": "Show you can work the hours required.",
     "client_subject": "Job opportunity: home support worker at Narinder Singh",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nhome support worker\nNarinder Singh — Hamilton\n$22.50/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49493791\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Narinder%20Singh%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nhome support worker\nNarinder Singh — Hamilton\n$22.50/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49493791\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Narinder%20Singh%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Healthcare & Personal Support"
   },
   {
     "date": "2026-05-11",
@@ -976,7 +1096,9 @@ window.HUB_JOBS = [
     "tip_resume": "Lead with reliability and customer-facing experience. List certifications.",
     "tip_cover": "Show you can work the hours required.",
     "client_subject": "Job opportunity: customer service representative - e-commerce at Niko Apparel Systems",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ncustomer service representative - e-commerce\nNiko Apparel Systems — Hamilton\n$22.00-$26.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49493550\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Niko%20Apparel%20Systems%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ncustomer service representative - e-commerce\nNiko Apparel Systems — Hamilton\n$22.00-$26.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49493550\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Niko%20Apparel%20Systems%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Other"
   },
   {
     "date": "2026-05-11",
@@ -992,7 +1114,9 @@ window.HUB_JOBS = [
     "tip_resume": "Lead with reliability and customer-facing experience. List certifications.",
     "tip_cover": "Show you can work the hours required.",
     "client_subject": "Job opportunity: customer service representative - call centre at Chris' Chef Supply Inc.",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ncustomer service representative - call centre\nChris' Chef Supply Inc. — Hamilton\n$20.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49489387\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Chris%27%20Chef%20Supply%20Inc.%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ncustomer service representative - call centre\nChris' Chef Supply Inc. — Hamilton\n$20.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49489387\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Chris%27%20Chef%20Supply%20Inc.%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Other"
   },
   {
     "date": "2026-05-12",
@@ -1008,7 +1132,9 @@ window.HUB_JOBS = [
     "tip_resume": "Lead with reliability and customer-facing experience. List certifications.",
     "tip_cover": "Show you can work the hours required.",
     "client_subject": "Job opportunity: custodian at Paracel Laboratories",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ncustodian\nParacel Laboratories — Hamilton\n$18.50/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49502504\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Paracel%20Laboratories%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ncustodian\nParacel Laboratories — Hamilton\n$18.50/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49502504\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Paracel%20Laboratories%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Cleaning & Custodial"
   },
   {
     "date": "2026-05-12",
@@ -1024,7 +1150,9 @@ window.HUB_JOBS = [
     "tip_resume": "Lead with reliability and customer-facing experience. List certifications.",
     "tip_cover": "Show you can work the hours required.",
     "client_subject": "Job opportunity: personal care aide - home care at Ultimate care agency",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\npersonal care aide - home care\nUltimate care agency — Hamilton\n$19.00-$25.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49498651\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Ultimate%20care%20agency%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\npersonal care aide - home care\nUltimate care agency — Hamilton\n$19.00-$25.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49498651\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Ultimate%20care%20agency%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Other"
   },
   {
     "date": "2026-05-12",
@@ -1040,7 +1168,9 @@ window.HUB_JOBS = [
     "tip_resume": "Lead with reliability and customer-facing experience. List certifications.",
     "tip_cover": "Show you can work the hours required.",
     "client_subject": "Job opportunity: nanny at MacDonald Household",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nnanny\nMacDonald Household — Hamilton\n$23.00-$27.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49498968\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+MacDonald%20Household%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nnanny\nMacDonald Household — Hamilton\n$23.00-$27.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49498968\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+MacDonald%20Household%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Other"
   },
   {
     "date": "2026-05-12",
@@ -1056,7 +1186,9 @@ window.HUB_JOBS = [
     "tip_resume": "Lead with reliability and customer-facing experience. List certifications.",
     "tip_cover": "Show you can work the hours required.",
     "client_subject": "Job opportunity: customer service representative - call centre at Healthcare Credit Union",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ncustomer service representative - call centre\nHealthcare Credit Union — Hamilton\n$15.00-$31.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49499716\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Healthcare%20Credit%20Union%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ncustomer service representative - call centre\nHealthcare Credit Union — Hamilton\n$15.00-$31.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49499716\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Healthcare%20Credit%20Union%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Other"
   },
   {
     "date": "2026-05-13",
@@ -1072,7 +1204,9 @@ window.HUB_JOBS = [
     "tip_resume": "Lead with reliability and customer-facing experience. List certifications.",
     "tip_cover": "Show you can work the hours required.",
     "client_subject": "Job opportunity: guest service agent at Hampton Inn by Hilton Hamilton",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nguest service agent\nHampton Inn by Hilton Hamilton — Hamilton\n$17.60-$18.50/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49506865\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Hampton%20Inn%20by%20Hilton%20Hamilton%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nguest service agent\nHampton Inn by Hilton Hamilton — Hamilton\n$17.60-$18.50/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49506865\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Hampton%20Inn%20by%20Hilton%20Hamilton%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Other"
   },
   {
     "date": "2026-05-07",
@@ -1088,7 +1222,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: refrigeration technician at Niagara Home Heating",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nrefrigeration technician\nNiagara Home Heating — Niagara Falls\n$25.00-$35.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49477647\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Niagara%20Home%20Heating%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nrefrigeration technician\nNiagara Home Heating — Niagara Falls\n$25.00-$35.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49477647\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Niagara%20Home%20Heating%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Niagara",
+    "category": "Trades & Manufacturing"
   },
   {
     "date": "2026-05-08",
@@ -1104,7 +1240,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: ironworker at Davicon Forming",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nironworker\nDavicon Forming — St. Catharines\n$47.70/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49493493\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Davicon%20Forming%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nironworker\nDavicon Forming — St. Catharines\n$47.70/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49493493\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Davicon%20Forming%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Niagara",
+    "category": "Other"
   },
   {
     "date": "2026-05-11",
@@ -1120,7 +1258,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: food processing labourer at Roman Cheese Products",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nfood processing labourer\nRoman Cheese Products — Niagara Falls\n$18.00-$18.50/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49494651\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Roman%20Cheese%20Products%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nfood processing labourer\nRoman Cheese Products — Niagara Falls\n$18.00-$18.50/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49494651\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Roman%20Cheese%20Products%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Niagara",
+    "category": "General Labour"
   },
   {
     "date": "2026-05-11",
@@ -1136,7 +1276,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: grounds maintenance labourer at D&R Landscape Group",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ngrounds maintenance labourer\nD&R Landscape Group — Niagara Falls\n$19.00-$20.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49491344\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+D%26R%20Landscape%20Group%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ngrounds maintenance labourer\nD&R Landscape Group — Niagara Falls\n$19.00-$20.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49491344\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+D%26R%20Landscape%20Group%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Niagara",
+    "category": "General Labour"
   },
   {
     "date": "2026-05-11",
@@ -1152,7 +1294,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: landscape worker at Natural Touch Landscape",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nlandscape worker\nNatural Touch Landscape — St. Catharines\n$19.00-$23.50/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49494745\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Natural%20Touch%20Landscape%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nlandscape worker\nNatural Touch Landscape — St. Catharines\n$19.00-$23.50/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49494745\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Natural%20Touch%20Landscape%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Niagara",
+    "category": "General Labour"
   },
   {
     "date": "2026-05-12",
@@ -1168,7 +1312,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: building maintenance worker at Helias Enterprises Limited",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nbuilding maintenance worker\nHelias Enterprises Limited — Niagara Falls\n$36.00-$37.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49498949\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Helias%20Enterprises%20Limited%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nbuilding maintenance worker\nHelias Enterprises Limited — Niagara Falls\n$36.00-$37.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49498949\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Helias%20Enterprises%20Limited%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Niagara",
+    "category": "Other"
   },
   {
     "date": "2026-05-12",
@@ -1184,7 +1330,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: greenhouse worker at Pioneer Flower Farms",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ngreenhouse worker\nPioneer Flower Farms — St. Catharines\n$17.60/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49495300\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Pioneer%20Flower%20Farms%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ngreenhouse worker\nPioneer Flower Farms — St. Catharines\n$17.60/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49495300\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Pioneer%20Flower%20Farms%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Niagara",
+    "category": "Other"
   },
   {
     "date": "2026-05-13",
@@ -1200,7 +1348,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: automotive mechanic helper at Niagara Auto Electric",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nautomotive mechanic helper\nNiagara Auto Electric — Niagara Falls\n$24.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49504172\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Niagara%20Auto%20Electric%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nautomotive mechanic helper\nNiagara Auto Electric — Niagara Falls\n$24.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49504172\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Niagara%20Auto%20Electric%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Niagara",
+    "category": "Trades & Manufacturing"
   },
   {
     "date": "2026-05-13",
@@ -1216,7 +1366,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: general construction labourer at Tessier Pools",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ngeneral construction labourer\nTessier Pools — St. Catharines\n$23.29/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49506827\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Tessier%20Pools%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ngeneral construction labourer\nTessier Pools — St. Catharines\n$23.29/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49506827\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Tessier%20Pools%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Niagara",
+    "category": "General Labour"
   },
   {
     "date": "2026-05-14",
@@ -1232,7 +1384,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: general labourer - material handling at KING CONSTRUCTION INC",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ngeneral labourer - material handling\nKING CONSTRUCTION INC — Niagara Falls\n$36.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49514316\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+KING%20CONSTRUCTION%20INC%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ngeneral labourer - material handling\nKING CONSTRUCTION INC — Niagara Falls\n$36.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49514316\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+KING%20CONSTRUCTION%20INC%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Niagara",
+    "category": "General Labour"
   },
   {
     "date": "2026-05-14",
@@ -1248,7 +1402,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: general construction labourer at KING CONSTRUCTION INC",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ngeneral construction labourer\nKING CONSTRUCTION INC — Niagara Falls\n$36.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49514314\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+KING%20CONSTRUCTION%20INC%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ngeneral construction labourer\nKING CONSTRUCTION INC — Niagara Falls\n$36.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49514314\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+KING%20CONSTRUCTION%20INC%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Niagara",
+    "category": "General Labour"
   },
   {
     "date": "2026-05-14",
@@ -1264,7 +1420,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: carpenter rough at NORTH FRAMING SERVICES",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ncarpenter rough\nNORTH FRAMING SERVICES — Niagara Falls\n$30.10/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49511334\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+NORTH%20FRAMING%20SERVICES%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ncarpenter rough\nNORTH FRAMING SERVICES — Niagara Falls\n$30.10/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49511334\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+NORTH%20FRAMING%20SERVICES%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Niagara",
+    "category": "Trades & Manufacturing"
   },
   {
     "date": "2026-05-14",
@@ -1280,7 +1438,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: steel stud framer at KING CONSTRUCTION",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nsteel stud framer\nKING CONSTRUCTION — Niagara Falls\n$36.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49514318\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+KING%20CONSTRUCTION%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nsteel stud framer\nKING CONSTRUCTION — Niagara Falls\n$36.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49514318\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+KING%20CONSTRUCTION%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Niagara",
+    "category": "Other"
   },
   {
     "date": "2026-05-15",
@@ -1296,7 +1456,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: CNC machining tool operator at Milestone Millwork",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nCNC machining tool operator\nMilestone Millwork — St. Catharines\n$24.00-$28.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49519249\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Milestone%20Millwork%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nCNC machining tool operator\nMilestone Millwork — St. Catharines\n$24.00-$28.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49519249\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Milestone%20Millwork%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Niagara",
+    "category": "Trades & Manufacturing"
   },
   {
     "date": "2026-05-15",
@@ -1312,7 +1474,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: cabinetmaker at Milestone Millwork",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ncabinetmaker\nMilestone Millwork — St. Catharines\n$860-$1,075/wk\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49519257\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Milestone%20Millwork%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ncabinetmaker\nMilestone Millwork — St. Catharines\n$860-$1,075/wk\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49519257\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Milestone%20Millwork%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Niagara",
+    "category": "Other"
   },
   {
     "date": "2026-05-05",
@@ -1328,7 +1492,9 @@ window.HUB_JOBS = [
     "tip_resume": "List every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.",
     "tip_cover": "Show you can work weekends and evenings.",
     "client_subject": "Job opportunity: chef at Iskender's Turkish Cuisine",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nchef\nIskender's Turkish Cuisine — Niagara Falls\n$6,000/mo\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49457088\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Iskender%27s%20Turkish%20Cuisine%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nchef\nIskender's Turkish Cuisine — Niagara Falls\n$6,000/mo\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49457088\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Iskender%27s%20Turkish%20Cuisine%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Niagara",
+    "category": "Food Services"
   },
   {
     "date": "2026-05-07",
@@ -1344,7 +1510,9 @@ window.HUB_JOBS = [
     "tip_resume": "List every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.",
     "tip_cover": "Show you can work weekends and evenings.",
     "client_subject": "Job opportunity: restaurant manager at Rangla Punjab",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nrestaurant manager\nRangla Punjab — Niagara Falls\n$36.10/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49478008\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Rangla%20Punjab%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nrestaurant manager\nRangla Punjab — Niagara Falls\n$36.10/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49478008\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Rangla%20Punjab%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Niagara",
+    "category": "Food Services"
   },
   {
     "date": "2026-05-08",
@@ -1360,7 +1528,9 @@ window.HUB_JOBS = [
     "tip_resume": "List every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.",
     "tip_cover": "Show you can work weekends and evenings.",
     "client_subject": "Job opportunity: line cook at Joe Feta's Greek Village",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nline cook\nJoe Feta's Greek Village — St. Catharines\n$800-$1,200/wk\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49493610\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Joe%20Feta%27s%20Greek%20Village%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nline cook\nJoe Feta's Greek Village — St. Catharines\n$800-$1,200/wk\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49493610\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Joe%20Feta%27s%20Greek%20Village%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Niagara",
+    "category": "Food Services"
   },
   {
     "date": "2026-05-10",
@@ -1376,7 +1546,9 @@ window.HUB_JOBS = [
     "tip_resume": "List every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.",
     "tip_cover": "Show you can work weekends and evenings.",
     "client_subject": "Job opportunity: line cook at Continental Pancake House",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nline cook\nContinental Pancake House — Niagara Falls\n$18.00-$21.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49487504\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Continental%20Pancake%20House%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nline cook\nContinental Pancake House — Niagara Falls\n$18.00-$21.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49487504\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Continental%20Pancake%20House%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Niagara",
+    "category": "Food Services"
   },
   {
     "date": "2026-05-10",
@@ -1392,7 +1564,9 @@ window.HUB_JOBS = [
     "tip_resume": "List every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.",
     "tip_cover": "Show you can work weekends and evenings.",
     "client_subject": "Job opportunity: chef at Rutba",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nchef\nRutba — Niagara Falls\n$4,500-$6,000/mo\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49487507\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Rutba%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nchef\nRutba — Niagara Falls\n$4,500-$6,000/mo\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49487507\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Rutba%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Niagara",
+    "category": "Food Services"
   },
   {
     "date": "2026-05-11",
@@ -1408,7 +1582,9 @@ window.HUB_JOBS = [
     "tip_resume": "List every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.",
     "tip_cover": "Show you can work weekends and evenings.",
     "client_subject": "Job opportunity: breakfast cook at Sunset Grill",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nbreakfast cook\nSunset Grill — St. Catharines\n$17.60-$19.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49494290\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Sunset%20Grill%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nbreakfast cook\nSunset Grill — St. Catharines\n$17.60-$19.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49494290\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Sunset%20Grill%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Niagara",
+    "category": "Food Services"
   },
   {
     "date": "2026-05-13",
@@ -1424,7 +1600,9 @@ window.HUB_JOBS = [
     "tip_resume": "List every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.",
     "tip_cover": "Show you can work weekends and evenings.",
     "client_subject": "Job opportunity: dietary cook at Gifted Hands Health Services",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ndietary cook\nGifted Hands Health Services — St. Catharines\n$25.00-$27.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49505868\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Gifted%20Hands%20Health%20Services%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ndietary cook\nGifted Hands Health Services — St. Catharines\n$25.00-$27.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49505868\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Gifted%20Hands%20Health%20Services%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Niagara",
+    "category": "Food Services"
   },
   {
     "date": "2026-05-13",
@@ -1440,7 +1618,9 @@ window.HUB_JOBS = [
     "tip_resume": "Forklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.",
     "tip_cover": "Open availability matters. Mention valid driver's licence (G or AZ as relevant).",
     "client_subject": "Job opportunity: driver, truck at Gales Gas Bars Limited",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ndriver, truck\nGales Gas Bars Limited — Niagara Falls\n$28.00-$31.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49507511\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Gales%20Gas%20Bars%20Limited%20about%20us\n\nRESUME TIPS\nForklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.\n\nCOVER LETTER ANGLE\nOpen availability matters. Mention valid driver's licence (G or AZ as relevant).\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ndriver, truck\nGales Gas Bars Limited — Niagara Falls\n$28.00-$31.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49507511\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Gales%20Gas%20Bars%20Limited%20about%20us\n\nRESUME TIPS\nForklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.\n\nCOVER LETTER ANGLE\nOpen availability matters. Mention valid driver's licence (G or AZ as relevant).\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Niagara",
+    "category": "Driving & Delivery"
   },
   {
     "date": "2026-05-13",
@@ -1456,7 +1636,9 @@ window.HUB_JOBS = [
     "tip_resume": "Customer service experience first. POS, cash handling, merchandising.",
     "tip_cover": "Show you enjoy talking to people. Open availability (evenings, weekends) is gold.",
     "client_subject": "Job opportunity: supervisor - retail at Best Buy Express",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nsupervisor - retail\nBest Buy Express — St. Catharines\n$16.55-$36.06/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49503086\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Best%20Buy%20Express%20about%20us\n\nRESUME TIPS\nCustomer service experience first. POS, cash handling, merchandising.\n\nCOVER LETTER ANGLE\nShow you enjoy talking to people. Open availability (evenings, weekends) is gold.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nsupervisor - retail\nBest Buy Express — St. Catharines\n$16.55-$36.06/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49503086\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Best%20Buy%20Express%20about%20us\n\nRESUME TIPS\nCustomer service experience first. POS, cash handling, merchandising.\n\nCOVER LETTER ANGLE\nShow you enjoy talking to people. Open availability (evenings, weekends) is gold.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Niagara",
+    "category": "Retail & Sales"
   },
   {
     "date": "2026-05-04",
@@ -1472,7 +1654,9 @@ window.HUB_JOBS = [
     "tip_resume": "Lead with reliability and customer-facing experience. List certifications.",
     "tip_cover": "Show you can work the hours required.",
     "client_subject": "Job opportunity: visiting homemaker at EDDIE SEMIRA",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nvisiting homemaker\nEDDIE SEMIRA — Niagara Falls\n$22.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49451588\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+EDDIE%20SEMIRA%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nvisiting homemaker\nEDDIE SEMIRA — Niagara Falls\n$22.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49451588\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+EDDIE%20SEMIRA%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Niagara",
+    "category": "Other"
   },
   {
     "date": "2026-05-05",
@@ -1488,7 +1672,9 @@ window.HUB_JOBS = [
     "tip_resume": "Lead with reliability and customer-facing experience. List certifications.",
     "tip_cover": "Show you can work the hours required.",
     "client_subject": "Job opportunity: room attendant at The Oakes Hotel",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nroom attendant\nThe Oakes Hotel — Niagara Falls\n$18.42/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49460427\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+The%20Oakes%20Hotel%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nroom attendant\nThe Oakes Hotel — Niagara Falls\n$18.42/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49460427\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+The%20Oakes%20Hotel%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Niagara",
+    "category": "Other"
   },
   {
     "date": "2026-05-07",
@@ -1504,7 +1690,9 @@ window.HUB_JOBS = [
     "tip_resume": "Lead with reliability and customer-facing experience. List certifications.",
     "tip_cover": "Show you can work the hours required.",
     "client_subject": "Job opportunity: house cleaner at Noblemaid",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nhouse cleaner\nNoblemaid — Niagara Falls\n$25.00-$30.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49471425\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Noblemaid%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nhouse cleaner\nNoblemaid — Niagara Falls\n$25.00-$30.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49471425\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Noblemaid%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Niagara",
+    "category": "Cleaning & Custodial"
   },
   {
     "date": "2026-05-12",
@@ -1520,7 +1708,9 @@ window.HUB_JOBS = [
     "tip_resume": "Lead with reliability and customer-facing experience. List certifications.",
     "tip_cover": "Show you can work the hours required.",
     "client_subject": "Job opportunity: guard, security at Synergy Protection Group",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nguard, security\nSynergy Protection Group — Niagara Falls\n$19.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49500729\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Synergy%20Protection%20Group%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nguard, security\nSynergy Protection Group — Niagara Falls\n$19.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49500729\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Synergy%20Protection%20Group%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Niagara",
+    "category": "Security & Enforcement"
   },
   {
     "date": "2026-05-13",
@@ -1536,7 +1726,9 @@ window.HUB_JOBS = [
     "tip_resume": "Lead with reliability and customer-facing experience. List certifications.",
     "tip_cover": "Show you can work the hours required.",
     "client_subject": "Job opportunity: live-in caregiver - seniors at Maria's Household",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nlive-in caregiver - seniors\nMaria's Household — Niagara Falls\n$22.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49506761\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Maria%27s%20Household%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nlive-in caregiver - seniors\nMaria's Household — Niagara Falls\n$22.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49506761\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Maria%27s%20Household%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Niagara",
+    "category": "Healthcare & Personal Support"
   },
   {
     "date": "2026-05-14",
@@ -1552,7 +1744,9 @@ window.HUB_JOBS = [
     "tip_resume": "Lead with reliability and customer-facing experience. List certifications.",
     "tip_cover": "Show you can work the hours required.",
     "client_subject": "Job opportunity: receptionist at Niagara Health & Rehab Centre",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nreceptionist\nNiagara Health & Rehab Centre — St. Catharines\n$18.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49513871\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Niagara%20Health%20%26%20Rehab%20Centre%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nreceptionist\nNiagara Health & Rehab Centre — St. Catharines\n$18.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49513871\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Niagara%20Health%20%26%20Rehab%20Centre%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Niagara",
+    "category": "Office & Admin"
   },
   {
     "date": "2026-05-06",
@@ -1568,7 +1762,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: general labourer - farm at Mertens Farm",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ngeneral labourer - farm\nMertens Farm — La Salette\n$17.60/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49468413\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Mertens%20Farm%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ngeneral labourer - farm\nMertens Farm — La Salette\n$17.60/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49468413\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Mertens%20Farm%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Haldimand-Norfolk",
+    "category": "General Labour"
   },
   {
     "date": "2026-05-06",
@@ -1584,7 +1780,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: labourer, fruit farming at Riverbend Farms Inc.",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nlabourer, fruit farming\nRiverbend Farms Inc. — Norfolk (various)\n$17.60/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49466997\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Riverbend%20Farms%20Inc.%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nlabourer, fruit farming\nRiverbend Farms Inc. — Norfolk (various)\n$17.60/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49466997\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Riverbend%20Farms%20Inc.%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Haldimand-Norfolk",
+    "category": "General Labour"
   },
   {
     "date": "2026-05-06",
@@ -1600,7 +1798,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: construction helper at Quality Sewers and Concrete",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nconstruction helper\nQuality Sewers and Concrete — Cayuga\n$18.00-$25.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49466340\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Quality%20Sewers%20and%20Concrete%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nconstruction helper\nQuality Sewers and Concrete — Cayuga\n$18.00-$25.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49466340\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Quality%20Sewers%20and%20Concrete%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Haldimand-Norfolk",
+    "category": "Other"
   },
   {
     "date": "2026-05-07",
@@ -1616,7 +1816,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: general labourer - farm at Emre Farms Inc.",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ngeneral labourer - farm\nEmre Farms Inc. — Windham Centre\n$17.60/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49477163\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Emre%20Farms%20Inc.%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ngeneral labourer - farm\nEmre Farms Inc. — Windham Centre\n$17.60/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49477163\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Emre%20Farms%20Inc.%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Haldimand-Norfolk",
+    "category": "General Labour"
   },
   {
     "date": "2026-05-07",
@@ -1632,7 +1834,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: farm worker, grain at CARL FOX",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nfarm worker, grain\nCARL FOX — Canfield\n$18.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49477131\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+CARL%20FOX%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nfarm worker, grain\nCARL FOX — Canfield\n$18.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49477131\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+CARL%20FOX%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Haldimand-Norfolk",
+    "category": "Other"
   },
   {
     "date": "2026-05-07",
@@ -1648,7 +1852,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: packaging machine adjuster at G McFeeters Enterprises",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\npackaging machine adjuster\nG McFeeters Enterprises — Smithville\n$20.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49476656\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+G%20McFeeters%20Enterprises%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\npackaging machine adjuster\nG McFeeters Enterprises — Smithville\n$20.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49476656\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+G%20McFeeters%20Enterprises%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Niagara",
+    "category": "Other"
   },
   {
     "date": "2026-05-08",
@@ -1664,7 +1870,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: farm worker, tobacco at Vanar Farms Ltd.",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nfarm worker, tobacco\nVanar Farms Ltd. — Norfolk (various)\n$17.60/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49493668\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Vanar%20Farms%20Ltd.%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nfarm worker, tobacco\nVanar Farms Ltd. — Norfolk (various)\n$17.60/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49493668\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Vanar%20Farms%20Ltd.%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Haldimand-Norfolk",
+    "category": "Other"
   },
   {
     "date": "2026-05-08",
@@ -1680,7 +1888,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: greenhouse labourer at Waterview Farms Inc.",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ngreenhouse labourer\nWaterview Farms Inc. — Vineland Station\n$17.60/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49482745\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Waterview%20Farms%20Inc.%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ngreenhouse labourer\nWaterview Farms Inc. — Vineland Station\n$17.60/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49482745\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Waterview%20Farms%20Inc.%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Niagara",
+    "category": "General Labour"
   },
   {
     "date": "2026-05-11",
@@ -1696,7 +1906,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: farm worker, general at Steven Pereira",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nfarm worker, general\nSteven Pereira — La Salette\n$17.60/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49494675\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Steven%20Pereira%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nfarm worker, general\nSteven Pereira — La Salette\n$17.60/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49494675\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Steven%20Pereira%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Haldimand-Norfolk",
+    "category": "Other"
   },
   {
     "date": "2026-05-12",
@@ -1712,7 +1924,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: general labourer - farm at T & S Gignac Farms Ltd.",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ngeneral labourer - farm\nT & S Gignac Farms Ltd. — Langton\n$17.60/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49498987\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+T%20%26%20S%20Gignac%20Farms%20Ltd.%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ngeneral labourer - farm\nT & S Gignac Farms Ltd. — Langton\n$17.60/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49498987\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+T%20%26%20S%20Gignac%20Farms%20Ltd.%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Haldimand-Norfolk",
+    "category": "General Labour"
   },
   {
     "date": "2026-05-14",
@@ -1728,7 +1942,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: general labourer - farm at LNV Agriculture Limited",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ngeneral labourer - farm\nLNV Agriculture Limited — La Salette\n$17.60/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49511337\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+LNV%20Agriculture%20Limited%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ngeneral labourer - farm\nLNV Agriculture Limited — La Salette\n$17.60/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49511337\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+LNV%20Agriculture%20Limited%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Haldimand-Norfolk",
+    "category": "General Labour"
   },
   {
     "date": "2026-05-15",
@@ -1744,7 +1960,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: tobacco picker at CBJC Commodities Ltd.",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ntobacco picker\nCBJC Commodities Ltd. — Norfolk (various)\n$17.60/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49519885\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+CBJC%20Commodities%20Ltd.%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ntobacco picker\nCBJC Commodities Ltd. — Norfolk (various)\n$17.60/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49519885\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+CBJC%20Commodities%20Ltd.%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Haldimand-Norfolk",
+    "category": "Other"
   },
   {
     "date": "2026-05-06",
@@ -1760,7 +1978,9 @@ window.HUB_JOBS = [
     "tip_resume": "Customer service experience first. POS, cash handling, merchandising.",
     "tip_cover": "Show you enjoy talking to people. Open availability (evenings, weekends) is gold.",
     "client_subject": "Job opportunity: store manager - retail at Esso Beckers",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nstore manager - retail\nEsso Beckers — Caledonia\n$46.00-$50.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49469670\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Esso%20Beckers%20about%20us\n\nRESUME TIPS\nCustomer service experience first. POS, cash handling, merchandising.\n\nCOVER LETTER ANGLE\nShow you enjoy talking to people. Open availability (evenings, weekends) is gold.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nstore manager - retail\nEsso Beckers — Caledonia\n$46.00-$50.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49469670\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Esso%20Beckers%20about%20us\n\nRESUME TIPS\nCustomer service experience first. POS, cash handling, merchandising.\n\nCOVER LETTER ANGLE\nShow you enjoy talking to people. Open availability (evenings, weekends) is gold.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Haldimand-Norfolk",
+    "category": "Retail & Sales"
   },
   {
     "date": "2026-05-06",
@@ -1776,7 +1996,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: terrazzo finisher at Farhat Construction Co",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nterrazzo finisher\nFarhat Construction Co — Port Robinson\n$37.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49466998\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Farhat%20Construction%20Co%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nterrazzo finisher\nFarhat Construction Co — Port Robinson\n$37.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49466998\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Farhat%20Construction%20Co%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Niagara",
+    "category": "Other"
   },
   {
     "date": "2026-05-07",
@@ -1792,7 +2014,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: brazing machine operator at Manntel Automotive Plaza",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nbrazing machine operator\nManntel Automotive Plaza — York\n$36.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49476709\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Manntel%20Automotive%20Plaza%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nbrazing machine operator\nManntel Automotive Plaza — York\n$36.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49476709\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Manntel%20Automotive%20Plaza%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Trades & Manufacturing"
   },
   {
     "date": "2026-05-08",
@@ -1808,7 +2032,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: CNC machinist at Unique Custom Doors",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nCNC machinist\nUnique Custom Doors — Brantford\n$36.50/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49492649\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Unique%20Custom%20Doors%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nCNC machinist\nUnique Custom Doors — Brantford\n$36.50/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49492649\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Unique%20Custom%20Doors%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Brantford",
+    "category": "Trades & Manufacturing"
   },
   {
     "date": "2026-05-12",
@@ -1824,7 +2050,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: general labourer - manufacturing at Accurex Health Care Mfg.",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ngeneral labourer - manufacturing\nAccurex Health Care Mfg. — Brantford\n$18.00-$20.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49496611\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Accurex%20Health%20Care%20Mfg.%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ngeneral labourer - manufacturing\nAccurex Health Care Mfg. — Brantford\n$18.00-$20.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49496611\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Accurex%20Health%20Care%20Mfg.%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Brantford",
+    "category": "General Labour"
   },
   {
     "date": "2026-05-12",
@@ -1840,7 +2068,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: cutter - meat packing plant at Willies Meats",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ncutter - meat packing plant\nWillies Meats — Troy\n$22.50/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49498504\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Willies%20Meats%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ncutter - meat packing plant\nWillies Meats — Troy\n$22.50/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49498504\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Willies%20Meats%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Other"
   },
   {
     "date": "2026-05-12",
@@ -1856,7 +2086,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: carpenter at Brothers Construction",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ncarpenter\nBrothers Construction — Brantford\n$36.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49498642\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Brothers%20Construction%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ncarpenter\nBrothers Construction — Brantford\n$36.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49498642\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Brothers%20Construction%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Brantford",
+    "category": "Trades & Manufacturing"
   },
   {
     "date": "2026-05-13",
@@ -1872,7 +2104,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: tire changer - automotive at Ok Tire St. George",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ntire changer - automotive\nOk Tire St. George — St. George\n$18.00-$22.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49506338\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Ok%20Tire%20St.%20George%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ntire changer - automotive\nOk Tire St. George — St. George\n$18.00-$22.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49506338\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Ok%20Tire%20St.%20George%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Other"
   },
   {
     "date": "2026-05-14",
@@ -1888,7 +2122,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: diesel mechanic at Bell CT Trucking",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ndiesel mechanic\nBell CT Trucking — Brantford\n$38.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49511062\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Bell%20CT%20Trucking%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ndiesel mechanic\nBell CT Trucking — Brantford\n$38.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49511062\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Bell%20CT%20Trucking%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Brantford",
+    "category": "Trades & Manufacturing"
   },
   {
     "date": "2026-05-06",
@@ -1904,7 +2140,9 @@ window.HUB_JOBS = [
     "tip_resume": "List every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.",
     "tip_cover": "Show you can work weekends and evenings.",
     "client_subject": "Job opportunity: clerk, deli counter at Uniqpol Inc",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nclerk, deli counter\nUniqpol Inc — Brantford\n$19.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49467990\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Uniqpol%20Inc%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nclerk, deli counter\nUniqpol Inc — Brantford\n$19.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49467990\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Uniqpol%20Inc%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Brantford",
+    "category": "Office & Admin"
   },
   {
     "date": "2026-05-06",
@@ -1920,7 +2158,9 @@ window.HUB_JOBS = [
     "tip_resume": "List every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.",
     "tip_cover": "Show you can work weekends and evenings.",
     "client_subject": "Job opportunity: restaurant cashier at Popeyes Lousiana Kitchen",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nrestaurant cashier\nPopeyes Lousiana Kitchen — Paris\n$17.60-$18.60/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49466318\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Popeyes%20Lousiana%20Kitchen%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nrestaurant cashier\nPopeyes Lousiana Kitchen — Paris\n$17.60-$18.60/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49466318\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Popeyes%20Lousiana%20Kitchen%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Brantford",
+    "category": "Food Services"
   },
   {
     "date": "2026-05-08",
@@ -1936,7 +2176,9 @@ window.HUB_JOBS = [
     "tip_resume": "List every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.",
     "tip_cover": "Show you can work weekends and evenings.",
     "client_subject": "Job opportunity: food service supervisor at STACKED PANCAKE",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nfood service supervisor\nSTACKED PANCAKE — Waterdown\n$36.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49492896\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+STACKED%20PANCAKE%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nfood service supervisor\nSTACKED PANCAKE — Waterdown\n$36.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49492896\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+STACKED%20PANCAKE%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Food Services"
   },
   {
     "date": "2026-05-14",
@@ -1952,7 +2194,9 @@ window.HUB_JOBS = [
     "tip_resume": "List every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.",
     "tip_cover": "Show you can work weekends and evenings.",
     "client_subject": "Job opportunity: assistant cook at Kirb's Kitchenette Inc.",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nassistant cook\nKirb's Kitchenette Inc. — York\n$36.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49514343\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Kirb%27s%20Kitchenette%20Inc.%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nassistant cook\nKirb's Kitchenette Inc. — York\n$36.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49514343\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Kirb%27s%20Kitchenette%20Inc.%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Hamilton",
+    "category": "Food Services"
   },
   {
     "date": "2026-05-14",
@@ -1968,7 +2212,9 @@ window.HUB_JOBS = [
     "tip_resume": "List every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.",
     "tip_cover": "Show you can work weekends and evenings.",
     "client_subject": "Job opportunity: catering service manager at TAAL FINE INDIAN CUISINE",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ncatering service manager\nTAAL FINE INDIAN CUISINE — Brantford\n$36.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49513033\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+TAAL%20FINE%20INDIAN%20CUISINE%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ncatering service manager\nTAAL FINE INDIAN CUISINE — Brantford\n$36.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49513033\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+TAAL%20FINE%20INDIAN%20CUISINE%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Brantford",
+    "category": "Other"
   },
   {
     "date": "2026-05-12",
@@ -1984,7 +2230,9 @@ window.HUB_JOBS = [
     "tip_resume": "Forklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.",
     "tip_cover": "Open availability matters. Mention valid driver's licence (G or AZ as relevant).",
     "client_subject": "Job opportunity: long haul truck driver at Rohno Express Ltd.",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nlong haul truck driver\nRohno Express Ltd. — Brantford\n$36.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49499454\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Rohno%20Express%20Ltd.%20about%20us\n\nRESUME TIPS\nForklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.\n\nCOVER LETTER ANGLE\nOpen availability matters. Mention valid driver's licence (G or AZ as relevant).\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nlong haul truck driver\nRohno Express Ltd. — Brantford\n$36.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49499454\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Rohno%20Express%20Ltd.%20about%20us\n\nRESUME TIPS\nForklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.\n\nCOVER LETTER ANGLE\nOpen availability matters. Mention valid driver's licence (G or AZ as relevant).\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Brantford",
+    "category": "Driving & Delivery"
   },
   {
     "date": "2026-05-12",
@@ -2000,7 +2248,9 @@ window.HUB_JOBS = [
     "tip_resume": "Lead with reliability and customer-facing experience. List certifications.",
     "tip_cover": "Show you can work the hours required.",
     "client_subject": "Job opportunity: live-in caregiver - seniors at Aldwin Francois",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nlive-in caregiver - seniors\nAldwin Francois — Brantford\n$22.50/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49496382\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Aldwin%20Francois%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nlive-in caregiver - seniors\nAldwin Francois — Brantford\n$22.50/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49496382\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Aldwin%20Francois%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Brantford",
+    "category": "Healthcare & Personal Support"
   },
   {
     "date": "2026-05-03",
@@ -2016,7 +2266,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: shop supervisor, automotive at Mr. Lube Oakville",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nshop supervisor, automotive\nMr. Lube Oakville — Oakville\n$38.75/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49444068\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Mr.%20Lube%20Oakville%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nshop supervisor, automotive\nMr. Lube Oakville — Oakville\n$38.75/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49444068\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Mr.%20Lube%20Oakville%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Halton",
+    "category": "Other"
   },
   {
     "date": "2026-05-05",
@@ -2032,7 +2284,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: construction carpenter at PL Construction & Renovation",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nconstruction carpenter\nPL Construction & Renovation — Burlington\n$36.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49458713\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+PL%20Construction%20%26%20Renovation%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nconstruction carpenter\nPL Construction & Renovation — Burlington\n$36.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49458713\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+PL%20Construction%20%26%20Renovation%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Halton",
+    "category": "Trades & Manufacturing"
   },
   {
     "date": "2026-05-07",
@@ -2048,7 +2302,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: automotive service technician apprentice at Master Mechanic Oakville",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nautomotive service technician apprentice\nMaster Mechanic Oakville — Oakville\n$20.00-$30.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49474966\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Master%20Mechanic%20Oakville%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nautomotive service technician apprentice\nMaster Mechanic Oakville — Oakville\n$20.00-$30.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49474966\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Master%20Mechanic%20Oakville%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Halton",
+    "category": "Trades & Manufacturing"
   },
   {
     "date": "2026-05-07",
@@ -2064,7 +2320,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: automotive mechanic at Master Mechanic Oakville",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nautomotive mechanic\nMaster Mechanic Oakville — Oakville\n$25.00-$40.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49474961\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Master%20Mechanic%20Oakville%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nautomotive mechanic\nMaster Mechanic Oakville — Oakville\n$25.00-$40.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49474961\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Master%20Mechanic%20Oakville%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Halton",
+    "category": "Trades & Manufacturing"
   },
   {
     "date": "2026-05-08",
@@ -2080,7 +2338,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: cabinetmaker at Finewood Cabinetry",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ncabinetmaker\nFinewood Cabinetry — Oakville\n$36.10/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49492961\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Finewood%20Cabinetry%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ncabinetmaker\nFinewood Cabinetry — Oakville\n$36.10/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49492961\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Finewood%20Cabinetry%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Halton",
+    "category": "Other"
   },
   {
     "date": "2026-05-12",
@@ -2096,7 +2356,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: press brake operator at VAC Developments Ltd",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\npress brake operator\nVAC Developments Ltd — Oakville\n$30.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49497990\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+VAC%20Developments%20Ltd%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\npress brake operator\nVAC Developments Ltd — Oakville\n$30.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49497990\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+VAC%20Developments%20Ltd%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Halton",
+    "category": "Trades & Manufacturing"
   },
   {
     "date": "2026-05-12",
@@ -2112,7 +2374,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: welder-fitter at H&H Manufacturing",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nwelder-fitter\nH&H Manufacturing — Burlington\n$30.56-$32.56/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49500809\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+H%26H%20Manufacturing%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nwelder-fitter\nH&H Manufacturing — Burlington\n$30.56-$32.56/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49500809\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+H%26H%20Manufacturing%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Halton",
+    "category": "Trades & Manufacturing"
   },
   {
     "date": "2026-05-13",
@@ -2128,7 +2392,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: industrial sewing machine operator at Load Covering Solutions",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nindustrial sewing machine operator\nLoad Covering Solutions — Burlington\n$21.00-$29.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49507525\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Load%20Covering%20Solutions%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nindustrial sewing machine operator\nLoad Covering Solutions — Burlington\n$21.00-$29.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49507525\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Load%20Covering%20Solutions%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Halton",
+    "category": "Trades & Manufacturing"
   },
   {
     "date": "2026-05-14",
@@ -2144,7 +2410,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: installer, aluminum doors at Dreamscreens Canada Inc.",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ninstaller, aluminum doors\nDreamscreens Canada Inc. — Oakville\n$37.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49513767\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Dreamscreens%20Canada%20Inc.%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ninstaller, aluminum doors\nDreamscreens Canada Inc. — Oakville\n$37.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49513767\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Dreamscreens%20Canada%20Inc.%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Halton",
+    "category": "Trades & Manufacturing"
   },
   {
     "date": "2026-05-15",
@@ -2160,7 +2428,9 @@ window.HUB_JOBS = [
     "tip_resume": "Highlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
     "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: general labourer - manufacturing at Interprovincial Corrosion Control",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ngeneral labourer - manufacturing\nInterprovincial Corrosion Control — Burlington\n$18.25/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49519230\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Interprovincial%20Corrosion%20Control%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ngeneral labourer - manufacturing\nInterprovincial Corrosion Control — Burlington\n$18.25/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49519230\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Interprovincial%20Corrosion%20Control%20about%20us\n\nRESUME TIPS\nHighlight any physical work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Halton",
+    "category": "General Labour"
   },
   {
     "date": "2026-05-07",
@@ -2176,7 +2446,9 @@ window.HUB_JOBS = [
     "tip_resume": "List every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.",
     "tip_cover": "Show you can work weekends and evenings.",
     "client_subject": "Job opportunity: restaurant manager at Fresh Table",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nrestaurant manager\nFresh Table — Burlington\n$36.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49477113\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Fresh%20Table%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nrestaurant manager\nFresh Table — Burlington\n$36.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49477113\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Fresh%20Table%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Halton",
+    "category": "Food Services"
   },
   {
     "date": "2026-05-07",
@@ -2192,7 +2464,9 @@ window.HUB_JOBS = [
     "tip_resume": "List every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.",
     "tip_cover": "Show you can work weekends and evenings.",
     "client_subject": "Job opportunity: licensed cook at LaSalle Park Retirement Community",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nlicensed cook\nLaSalle Park Retirement Community — Burlington\n$21.22/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49476341\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+LaSalle%20Park%20Retirement%20Community%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nlicensed cook\nLaSalle Park Retirement Community — Burlington\n$21.22/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49476341\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+LaSalle%20Park%20Retirement%20Community%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Halton",
+    "category": "Food Services"
   },
   {
     "date": "2026-05-07",
@@ -2208,7 +2482,9 @@ window.HUB_JOBS = [
     "tip_resume": "List every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.",
     "tip_cover": "Show you can work weekends and evenings.",
     "client_subject": "Job opportunity: sushi chef at Catch Hospitality Group",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nsushi chef\nCatch Hospitality Group — Oakville\n$20.00-$23.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49477216\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Catch%20Hospitality%20Group%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nsushi chef\nCatch Hospitality Group — Oakville\n$20.00-$23.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49477216\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Catch%20Hospitality%20Group%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Halton",
+    "category": "Food Services"
   },
   {
     "date": "2026-05-09",
@@ -2224,7 +2500,9 @@ window.HUB_JOBS = [
     "tip_resume": "List every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.",
     "tip_cover": "Show you can work weekends and evenings.",
     "client_subject": "Job opportunity: first cook at Familia Fine Foods",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nfirst cook\nFamilia Fine Foods — Burlington\n$30.00-$36.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49494155\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Familia%20Fine%20Foods%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nfirst cook\nFamilia Fine Foods — Burlington\n$30.00-$36.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49494155\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Familia%20Fine%20Foods%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Halton",
+    "category": "Food Services"
   },
   {
     "date": "2026-05-09",
@@ -2240,7 +2518,9 @@ window.HUB_JOBS = [
     "tip_resume": "List every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.",
     "tip_cover": "Show you can work weekends and evenings.",
     "client_subject": "Job opportunity: line cook at Kerr Street Cafe",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nline cook\nKerr Street Cafe — Oakville\n$21.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49486532\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Kerr%20Street%20Cafe%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nline cook\nKerr Street Cafe — Oakville\n$21.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49486532\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Kerr%20Street%20Cafe%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Halton",
+    "category": "Food Services"
   },
   {
     "date": "2026-05-12",
@@ -2256,7 +2536,9 @@ window.HUB_JOBS = [
     "tip_resume": "List every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.",
     "tip_cover": "Show you can work weekends and evenings.",
     "client_subject": "Job opportunity: first cook at Loondocks Restaurant",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nfirst cook\nLoondocks Restaurant — Burlington\n$21.00-$23.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49501521\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Loondocks%20Restaurant%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nfirst cook\nLoondocks Restaurant — Burlington\n$21.00-$23.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49501521\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Loondocks%20Restaurant%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Halton",
+    "category": "Food Services"
   },
   {
     "date": "2026-05-14",
@@ -2272,7 +2554,9 @@ window.HUB_JOBS = [
     "tip_resume": "List every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.",
     "tip_cover": "Show you can work weekends and evenings.",
     "client_subject": "Job opportunity: restaurant manager at Soontorn Bahn Thai",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nrestaurant manager\nSoontorn Bahn Thai — Oakville\n$36.25/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49514916\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Soontorn%20Bahn%20Thai%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nrestaurant manager\nSoontorn Bahn Thai — Oakville\n$36.25/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49514916\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Soontorn%20Bahn%20Thai%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Halton",
+    "category": "Food Services"
   },
   {
     "date": "2026-05-14",
@@ -2288,7 +2572,9 @@ window.HUB_JOBS = [
     "tip_resume": "List every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.",
     "tip_cover": "Show you can work weekends and evenings.",
     "client_subject": "Job opportunity: licensed cook at Familia Fine Foods",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nlicensed cook\nFamilia Fine Foods — Burlington\n$19.00-$21.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49515841\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Familia%20Fine%20Foods%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nlicensed cook\nFamilia Fine Foods — Burlington\n$19.00-$21.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49515841\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Familia%20Fine%20Foods%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Halton",
+    "category": "Food Services"
   },
   {
     "date": "2026-05-14",
@@ -2304,7 +2590,9 @@ window.HUB_JOBS = [
     "tip_resume": "List every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.",
     "tip_cover": "Show you can work weekends and evenings.",
     "client_subject": "Job opportunity: licensed cook at Tandur Kitchen and Bar",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nlicensed cook\nTandur Kitchen and Bar — Oakville\n$17.29-$25.56/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49517754\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Tandur%20Kitchen%20and%20Bar%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nlicensed cook\nTandur Kitchen and Bar — Oakville\n$17.29-$25.56/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49517754\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Tandur%20Kitchen%20and%20Bar%20about%20us\n\nRESUME TIPS\nList every food service job. Note Smart Serve / Food Handler. Highlight teamwork, speed, customer interaction.\n\nCOVER LETTER ANGLE\nShow you can work weekends and evenings.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Halton",
+    "category": "Food Services"
   },
   {
     "date": "2026-05-06",
@@ -2320,7 +2608,9 @@ window.HUB_JOBS = [
     "tip_resume": "Forklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.",
     "tip_cover": "Open availability matters. Mention valid driver's licence (G or AZ as relevant).",
     "client_subject": "Job opportunity: warehouse clerk at Got Parts",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nwarehouse clerk\nGot Parts — Burlington\n$21.00-$23.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49464599\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Got%20Parts%20about%20us\n\nRESUME TIPS\nForklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.\n\nCOVER LETTER ANGLE\nOpen availability matters. Mention valid driver's licence (G or AZ as relevant).\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nwarehouse clerk\nGot Parts — Burlington\n$21.00-$23.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49464599\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Got%20Parts%20about%20us\n\nRESUME TIPS\nForklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.\n\nCOVER LETTER ANGLE\nOpen availability matters. Mention valid driver's licence (G or AZ as relevant).\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Halton",
+    "category": "Warehouse & Logistics"
   },
   {
     "date": "2026-05-11",
@@ -2336,7 +2626,9 @@ window.HUB_JOBS = [
     "tip_resume": "Forklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.",
     "tip_cover": "Open availability matters. Mention valid driver's licence (G or AZ as relevant).",
     "client_subject": "Job opportunity: warehouse associate at Throat Threads Apparel",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nwarehouse associate\nThroat Threads Apparel — Burlington\n$18.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49491317\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Throat%20Threads%20Apparel%20about%20us\n\nRESUME TIPS\nForklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.\n\nCOVER LETTER ANGLE\nOpen availability matters. Mention valid driver's licence (G or AZ as relevant).\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nwarehouse associate\nThroat Threads Apparel — Burlington\n$18.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49491317\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Throat%20Threads%20Apparel%20about%20us\n\nRESUME TIPS\nForklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.\n\nCOVER LETTER ANGLE\nOpen availability matters. Mention valid driver's licence (G or AZ as relevant).\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Halton",
+    "category": "Warehouse & Logistics"
   },
   {
     "date": "2026-05-12",
@@ -2352,7 +2644,9 @@ window.HUB_JOBS = [
     "tip_resume": "Forklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.",
     "tip_cover": "Open availability matters. Mention valid driver's licence (G or AZ as relevant).",
     "client_subject": "Job opportunity: material handler at Media Resources",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nmaterial handler\nMedia Resources — Oakville\n$27.39/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49501532\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Media%20Resources%20about%20us\n\nRESUME TIPS\nForklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.\n\nCOVER LETTER ANGLE\nOpen availability matters. Mention valid driver's licence (G or AZ as relevant).\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nmaterial handler\nMedia Resources — Oakville\n$27.39/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49501532\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Media%20Resources%20about%20us\n\nRESUME TIPS\nForklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.\n\nCOVER LETTER ANGLE\nOpen availability matters. Mention valid driver's licence (G or AZ as relevant).\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Halton",
+    "category": "Warehouse & Logistics"
   },
   {
     "date": "2026-05-13",
@@ -2368,7 +2662,9 @@ window.HUB_JOBS = [
     "tip_resume": "Forklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.",
     "tip_cover": "Open availability matters. Mention valid driver's licence (G or AZ as relevant).",
     "client_subject": "Job opportunity: dump truck driver at Burlington Paving Co.",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ndump truck driver\nBurlington Paving Co. — Burlington\n$28.00-$32.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49515617\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Burlington%20Paving%20Co.%20about%20us\n\nRESUME TIPS\nForklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.\n\nCOVER LETTER ANGLE\nOpen availability matters. Mention valid driver's licence (G or AZ as relevant).\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ndump truck driver\nBurlington Paving Co. — Burlington\n$28.00-$32.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49515617\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Burlington%20Paving%20Co.%20about%20us\n\nRESUME TIPS\nForklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.\n\nCOVER LETTER ANGLE\nOpen availability matters. Mention valid driver's licence (G or AZ as relevant).\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Halton",
+    "category": "Driving & Delivery"
   },
   {
     "date": "2026-05-14",
@@ -2384,7 +2680,9 @@ window.HUB_JOBS = [
     "tip_resume": "Forklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.",
     "tip_cover": "Open availability matters. Mention valid driver's licence (G or AZ as relevant).",
     "client_subject": "Job opportunity: delivery driver at Kindling Cannabis",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ndelivery driver\nKindling Cannabis — Burlington\n$10.00-$20.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49515006\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Kindling%20Cannabis%20about%20us\n\nRESUME TIPS\nForklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.\n\nCOVER LETTER ANGLE\nOpen availability matters. Mention valid driver's licence (G or AZ as relevant).\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ndelivery driver\nKindling Cannabis — Burlington\n$10.00-$20.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49515006\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Kindling%20Cannabis%20about%20us\n\nRESUME TIPS\nForklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.\n\nCOVER LETTER ANGLE\nOpen availability matters. Mention valid driver's licence (G or AZ as relevant).\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Halton",
+    "category": "Driving & Delivery"
   },
   {
     "date": "2026-05-15",
@@ -2400,7 +2698,9 @@ window.HUB_JOBS = [
     "tip_resume": "Forklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.",
     "tip_cover": "Open availability matters. Mention valid driver's licence (G or AZ as relevant).",
     "client_subject": "Job opportunity: warehouse worker - material handling at Interprovincial Corrosion Control",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nwarehouse worker - material handling\nInterprovincial Corrosion Control — Burlington\n$18.25/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49519228\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Interprovincial%20Corrosion%20Control%20about%20us\n\nRESUME TIPS\nForklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.\n\nCOVER LETTER ANGLE\nOpen availability matters. Mention valid driver's licence (G or AZ as relevant).\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nwarehouse worker - material handling\nInterprovincial Corrosion Control — Burlington\n$18.25/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49519228\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Interprovincial%20Corrosion%20Control%20about%20us\n\nRESUME TIPS\nForklift licence, WHMIS, pallet jack experience — list at the top. Mention scanners, inventory, fitness, reliability.\n\nCOVER LETTER ANGLE\nOpen availability matters. Mention valid driver's licence (G or AZ as relevant).\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Halton",
+    "category": "Warehouse & Logistics"
   },
   {
     "date": "2026-05-05",
@@ -2416,7 +2716,9 @@ window.HUB_JOBS = [
     "tip_resume": "Customer service experience first. POS, cash handling, merchandising.",
     "tip_cover": "Show you enjoy talking to people. Open availability (evenings, weekends) is gold.",
     "client_subject": "Job opportunity: clerk, retail sales at Red Stone Contracting",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nclerk, retail sales\nRed Stone Contracting — Oakville\n$19.00-$25.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49459752\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Red%20Stone%20Contracting%20about%20us\n\nRESUME TIPS\nCustomer service experience first. POS, cash handling, merchandising.\n\nCOVER LETTER ANGLE\nShow you enjoy talking to people. Open availability (evenings, weekends) is gold.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nclerk, retail sales\nRed Stone Contracting — Oakville\n$19.00-$25.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49459752\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Red%20Stone%20Contracting%20about%20us\n\nRESUME TIPS\nCustomer service experience first. POS, cash handling, merchandising.\n\nCOVER LETTER ANGLE\nShow you enjoy talking to people. Open availability (evenings, weekends) is gold.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Halton",
+    "category": "Retail & Sales"
   },
   {
     "date": "2026-05-08",
@@ -2432,7 +2734,9 @@ window.HUB_JOBS = [
     "tip_resume": "Customer service experience first. POS, cash handling, merchandising.",
     "tip_cover": "Show you enjoy talking to people. Open availability (evenings, weekends) is gold.",
     "client_subject": "Job opportunity: Store manager - retail at EB Games Canada",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nStore manager - retail\nEB Games Canada — Oakville\n$40k-$50k/yr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49481584\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+EB%20Games%20Canada%20about%20us\n\nRESUME TIPS\nCustomer service experience first. POS, cash handling, merchandising.\n\nCOVER LETTER ANGLE\nShow you enjoy talking to people. Open availability (evenings, weekends) is gold.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nStore manager - retail\nEB Games Canada — Oakville\n$40k-$50k/yr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49481584\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+EB%20Games%20Canada%20about%20us\n\nRESUME TIPS\nCustomer service experience first. POS, cash handling, merchandising.\n\nCOVER LETTER ANGLE\nShow you enjoy talking to people. Open availability (evenings, weekends) is gold.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Halton",
+    "category": "Retail & Sales"
   },
   {
     "date": "2026-05-11",
@@ -2448,7 +2752,9 @@ window.HUB_JOBS = [
     "tip_resume": "Customer service experience first. POS, cash handling, merchandising.",
     "tip_cover": "Show you enjoy talking to people. Open availability (evenings, weekends) is gold.",
     "client_subject": "Job opportunity: retail sales representative at COCARS CANADA",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nretail sales representative\nCOCARS CANADA — Oakville\n$54,718/yr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49492295\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+COCARS%20CANADA%20about%20us\n\nRESUME TIPS\nCustomer service experience first. POS, cash handling, merchandising.\n\nCOVER LETTER ANGLE\nShow you enjoy talking to people. Open availability (evenings, weekends) is gold.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nretail sales representative\nCOCARS CANADA — Oakville\n$54,718/yr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49492295\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+COCARS%20CANADA%20about%20us\n\nRESUME TIPS\nCustomer service experience first. POS, cash handling, merchandising.\n\nCOVER LETTER ANGLE\nShow you enjoy talking to people. Open availability (evenings, weekends) is gold.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Halton",
+    "category": "Retail & Sales"
   },
   {
     "date": "2026-05-12",
@@ -2464,7 +2770,9 @@ window.HUB_JOBS = [
     "tip_resume": "Customer service experience first. POS, cash handling, merchandising.",
     "tip_cover": "Show you enjoy talking to people. Open availability (evenings, weekends) is gold.",
     "client_subject": "Job opportunity: cashier at Linen Chest",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ncashier\nLinen Chest — Burlington\n$14.00-$18.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49503954\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Linen%20Chest%20about%20us\n\nRESUME TIPS\nCustomer service experience first. POS, cash handling, merchandising.\n\nCOVER LETTER ANGLE\nShow you enjoy talking to people. Open availability (evenings, weekends) is gold.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ncashier\nLinen Chest — Burlington\n$14.00-$18.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49503954\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Linen%20Chest%20about%20us\n\nRESUME TIPS\nCustomer service experience first. POS, cash handling, merchandising.\n\nCOVER LETTER ANGLE\nShow you enjoy talking to people. Open availability (evenings, weekends) is gold.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Halton",
+    "category": "Retail & Sales"
   },
   {
     "date": "2026-05-13",
@@ -2480,7 +2788,9 @@ window.HUB_JOBS = [
     "tip_resume": "Customer service experience first. POS, cash handling, merchandising.",
     "tip_cover": "Show you enjoy talking to people. Open availability (evenings, weekends) is gold.",
     "client_subject": "Job opportunity: grocery store cashier at Fortinos",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ngrocery store cashier\nFortinos — Burlington\n$17.60-$18.45/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49506858\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Fortinos%20about%20us\n\nRESUME TIPS\nCustomer service experience first. POS, cash handling, merchandising.\n\nCOVER LETTER ANGLE\nShow you enjoy talking to people. Open availability (evenings, weekends) is gold.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ngrocery store cashier\nFortinos — Burlington\n$17.60-$18.45/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49506858\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Fortinos%20about%20us\n\nRESUME TIPS\nCustomer service experience first. POS, cash handling, merchandising.\n\nCOVER LETTER ANGLE\nShow you enjoy talking to people. Open availability (evenings, weekends) is gold.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Halton",
+    "category": "Retail & Sales"
   },
   {
     "date": "2026-05-15",
@@ -2496,7 +2806,9 @@ window.HUB_JOBS = [
     "tip_resume": "Customer service experience first. POS, cash handling, merchandising.",
     "tip_cover": "Show you enjoy talking to people. Open availability (evenings, weekends) is gold.",
     "client_subject": "Job opportunity: retail sales associate at Best Buy Express",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nretail sales associate\nBest Buy Express — Oakville\n$15.00-$28.85/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49518638\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Best%20Buy%20Express%20about%20us\n\nRESUME TIPS\nCustomer service experience first. POS, cash handling, merchandising.\n\nCOVER LETTER ANGLE\nShow you enjoy talking to people. Open availability (evenings, weekends) is gold.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nretail sales associate\nBest Buy Express — Oakville\n$15.00-$28.85/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49518638\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Best%20Buy%20Express%20about%20us\n\nRESUME TIPS\nCustomer service experience first. POS, cash handling, merchandising.\n\nCOVER LETTER ANGLE\nShow you enjoy talking to people. Open availability (evenings, weekends) is gold.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Halton",
+    "category": "Retail & Sales"
   },
   {
     "date": "2026-05-11",
@@ -2512,7 +2824,9 @@ window.HUB_JOBS = [
     "tip_resume": "Lead with reliability and customer-facing experience. List certifications.",
     "tip_cover": "Show you can work the hours required.",
     "client_subject": "Job opportunity: nanny at Sami Alnasser",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nnanny\nSami Alnasser — Oakville\n$20.85-$22.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49494726\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Sami%20Alnasser%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nnanny\nSami Alnasser — Oakville\n$20.85-$22.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49494726\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Sami%20Alnasser%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Halton",
+    "category": "Other"
   },
   {
     "date": "2026-05-11",
@@ -2528,7 +2842,9 @@ window.HUB_JOBS = [
     "tip_resume": "Lead with reliability and customer-facing experience. List certifications.",
     "tip_cover": "Show you can work the hours required.",
     "client_subject": "Job opportunity: dental receptionist at Dental Office Burlington",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ndental receptionist\nDental Office Burlington — Burlington\n$21.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49490672\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Dental%20Office%20Burlington%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ndental receptionist\nDental Office Burlington — Burlington\n$21.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49490672\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Dental%20Office%20Burlington%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Halton",
+    "category": "Office & Admin"
   },
   {
     "date": "2026-05-12",
@@ -2544,7 +2860,9 @@ window.HUB_JOBS = [
     "tip_resume": "Lead with reliability and customer-facing experience. List certifications.",
     "tip_cover": "Show you can work the hours required.",
     "client_subject": "Job opportunity: assistant executive housekeeper at Personal Home",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nassistant executive housekeeper\nPersonal Home — Oakville\n$18.00-$25.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49491958\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Personal%20Home%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nassistant executive housekeeper\nPersonal Home — Oakville\n$18.00-$25.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49491958\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Personal%20Home%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Halton",
+    "category": "Cleaning & Custodial"
   },
   {
     "date": "2026-05-12",
@@ -2560,7 +2878,9 @@ window.HUB_JOBS = [
     "tip_resume": "Lead with reliability and customer-facing experience. List certifications.",
     "tip_cover": "Show you can work the hours required.",
     "client_subject": "Job opportunity: home support worker at The Pawliw Residence",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nhome support worker\nThe Pawliw Residence — Burlington\n$22.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49499960\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+The%20Pawliw%20Residence%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nhome support worker\nThe Pawliw Residence — Burlington\n$22.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49499960\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+The%20Pawliw%20Residence%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Halton",
+    "category": "Healthcare & Personal Support"
   },
   {
     "date": "2026-05-12",
@@ -2576,7 +2896,9 @@ window.HUB_JOBS = [
     "tip_resume": "Lead with reliability and customer-facing experience. List certifications.",
     "tip_cover": "Show you can work the hours required.",
     "client_subject": "Job opportunity: home support worker at CHRYS",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nhome support worker\nCHRYS — Oakville\n$21.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49498660\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+CHRYS%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nhome support worker\nCHRYS — Oakville\n$21.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49498660\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+CHRYS%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Halton",
+    "category": "Healthcare & Personal Support"
   },
   {
     "date": "2026-05-12",
@@ -2592,7 +2914,9 @@ window.HUB_JOBS = [
     "tip_resume": "Lead with reliability and customer-facing experience. List certifications.",
     "tip_cover": "Show you can work the hours required.",
     "client_subject": "Job opportunity: administrative assistant at VR PRO Inc.",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nadministrative assistant\nVR PRO Inc. — Burlington\n$36.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49499083\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+VR%20PRO%20Inc.%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nadministrative assistant\nVR PRO Inc. — Burlington\n$36.00/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49499083\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+VR%20PRO%20Inc.%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Halton",
+    "category": "Office & Admin"
   },
   {
     "date": "2026-05-14",
@@ -2608,7 +2932,9 @@ window.HUB_JOBS = [
     "tip_resume": "Lead with reliability and customer-facing experience. List certifications.",
     "tip_cover": "Show you can work the hours required.",
     "client_subject": "Job opportunity: assistant executive housekeeper at Comfort Inn Burlington",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nassistant executive housekeeper\nComfort Inn Burlington — Burlington\n$17.75/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49508689\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Comfort%20Inn%20Burlington%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nassistant executive housekeeper\nComfort Inn Burlington — Burlington\n$17.75/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49508689\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Comfort%20Inn%20Burlington%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Halton",
+    "category": "Cleaning & Custodial"
   },
   {
     "date": "2026-05-14",
@@ -2624,6 +2950,8 @@ window.HUB_JOBS = [
     "tip_resume": "Lead with reliability and customer-facing experience. List certifications.",
     "tip_cover": "Show you can work the hours required.",
     "client_subject": "Job opportunity: home child care provider at Mona Family",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nhome child care provider\nMona Family — Burlington\n$20.85/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49512829\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Mona%20Family%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n"
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nhome child care provider\nMona Family — Burlington\n$20.85/hr\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49512829\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Mona%20Family%20about%20us\n\nRESUME TIPS\nLead with reliability and customer-facing experience. List certifications.\n\nCOVER LETTER ANGLE\nShow you can work the hours required.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "region": "Halton",
+    "category": "Other"
   }
 ];

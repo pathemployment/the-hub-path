@@ -2,7 +2,6 @@
 (function () {
   'use strict';
 
-  // ---- Mobile nav toggle ----
   const toggle = document.querySelector('.nav__toggle');
   const links = document.querySelector('.nav__links');
   if (toggle && links) {
@@ -15,18 +14,15 @@
     });
   }
 
-  // ---- Active nav link ----
   const path = location.pathname.split('/').pop() || 'index.html';
   document.querySelectorAll('.nav__links a').forEach(a => {
     const href = a.getAttribute('href');
     if (href === path || (path === '' && href === 'index.html')) a.classList.add('is-active');
   });
 
-  // ---- Footer year ----
   const yearEl = document.querySelector('#year');
   if (yearEl) yearEl.textContent = new Date().getFullYear();
 
-  // ---- Cookie / analytics consent ----
   const banner = document.querySelector('#cookie-banner');
   const CONSENT_KEY = 'hub-analytics-consent';
 
@@ -58,50 +54,55 @@
   });
 })();
 
-// ---- Job board (runs only on jobs page) ----
+// ---- Job board ----
 (function () {
   const list = document.querySelector('#job-list');
   if (!list) return;
   const search = document.querySelector('#job-search');
+  const regionSel = document.querySelector('#job-region');
+  const catSel = document.querySelector('#job-category');
   const eduSel = document.querySelector('#job-edu');
   const srcSel = document.querySelector('#job-source');
   const submittedOnly = document.querySelector('#job-submitted-only');
   const empty = document.querySelector('#job-empty');
   const countEl = document.querySelector('#job-count');
   const statsEl = document.querySelector('#jobs-stats');
+  const REGION_ORDER = ['Hamilton', 'Halton', 'Niagara', 'Brantford', 'Haldimand-Norfolk', 'Other'];
 
   const jobs = (window.HUB_JOBS || []).slice();
   const meta = window.HUB_JOBS_META || {};
-  if (!jobs.length) {
-    list.innerHTML = '<p>No jobs posted yet. Check back soon.</p>';
-    return;
-  }
+  if (!jobs.length) { list.innerHTML = '<p>No jobs posted yet. Check back soon.</p>'; return; }
   jobs.sort((a, b) => (b.date || '').localeCompare(a.date || ''));
 
   if (statsEl) {
-    const submittedCount = jobs.filter(j => j.submitted).length;
+    const sub = jobs.filter(j => j.submitted).length;
     statsEl.innerHTML =
       '<span><strong>' + jobs.length + '</strong> listings</span>' +
-      '<span><strong>' + submittedCount + '</strong> submitted by PATH</span>' +
+      '<span><strong>' + sub + '</strong> submitted by PATH</span>' +
       (meta.generated ? '<span>Updated <strong>' + meta.generated + '</strong></span>' : '') +
       (meta.window_days ? '<span>Past <strong>' + meta.window_days + ' days</strong></span>' : '');
   }
 
+  const regions = REGION_ORDER.filter(r => jobs.some(j => j.region === r));
+  const cats = [...new Set(jobs.map(j => j.category).filter(Boolean))].sort();
   const sources = [...new Set(jobs.map(j => j.source).filter(Boolean))].sort();
-  if (srcSel) {
-    srcSel.innerHTML = '<option value="">All sources</option>' +
-      sources.map(s => '<option value="' + esc(s) + '">' + esc(s) + '</option>').join('');
-  }
+  if (regionSel) regionSel.innerHTML = '<option value="">All regions</option>' + regions.map(r => '<option value="' + esc(r) + '">' + esc(r) + '</option>').join('');
+  if (catSel) catSel.innerHTML = '<option value="">All job types</option>' + cats.map(c => '<option value="' + esc(c) + '">' + esc(c) + '</option>').join('');
+  if (srcSel) srcSel.innerHTML = '<option value="">All sources</option>' + sources.map(s => '<option value="' + esc(s) + '">' + esc(s) + '</option>').join('');
 
   render();
-  [search, eduSel, srcSel, submittedOnly].forEach(el => el && el.addEventListener('input', render));
+  [search, regionSel, catSel, eduSel, srcSel, submittedOnly].forEach(el => el && el.addEventListener('input', render));
 
   function render() {
     const q = (search.value || '').trim().toLowerCase();
+    const region = regionSel ? regionSel.value : '';
+    const cat = catSel ? catSel.value : '';
     const edu = eduSel ? eduSel.value : '';
     const src = srcSel ? srcSel.value : '';
     const subOnly = submittedOnly && submittedOnly.checked;
     const filtered = jobs.filter(j => {
+      if (region && j.region !== region) return false;
+      if (cat && j.category !== cat) return false;
       if (edu && j.edu_level !== edu) return false;
       if (src && j.source !== src) return false;
       if (subOnly && !j.submitted) return false;
@@ -116,57 +117,80 @@
         ? 'Showing all ' + jobs.length + ' listings'
         : 'Showing ' + filtered.length + ' of ' + jobs.length + ' listings';
     }
-    list.innerHTML = filtered.map(jobCard).join('');
+    list.innerHTML = renderGrouped(filtered);
     if (empty) empty.classList.toggle('hidden', filtered.length > 0);
+  }
+
+  function renderGrouped(filtered) {
+    const byRegion = {};
+    filtered.forEach(j => {
+      const r = j.region || 'Other';
+      const c = j.category || 'Other';
+      if (!byRegion[r]) byRegion[r] = {};
+      if (!byRegion[r][c]) byRegion[r][c] = [];
+      byRegion[r][c].push(j);
+    });
+    const regionList = REGION_ORDER.filter(r => byRegion[r]);
+    return regionList.map(r => {
+      const catMap = byRegion[r];
+      const catList = Object.keys(catMap).sort();
+      const regionCount = catList.reduce((n, c) => n + catMap[c].length, 0);
+      return (
+        '<section class="region-block">' +
+          '<h2 class="region-heading"><span class="region-heading__name">' + esc(r) + '</span>' +
+          '<span class="region-heading__count">' + regionCount + ' listing' + (regionCount === 1 ? '' : 's') + '</span></h2>' +
+          catList.map(c =>
+            '<div class="category-block">' +
+              '<h3 class="category-heading">' + esc(c) + ' <span class="category-heading__count">(' + catMap[c].length + ')</span></h3>' +
+              catMap[c].map(jobCard).join('') +
+            '</div>'
+          ).join('') +
+        '</section>'
+      );
+    }).join('');
   }
 
   function jobCard(j) {
     const star = j.submitted ? '<span class="star-submitted" title="Submitted by PATH">&#11088; Submitted by PATH</span>' : '';
     const posted = j.date ? 'Posted ' + fmtDate(j.date) : '';
-    const tips = (j.tip_resume || j.tip_cover) ? (
-      '<details class="job-tips"><summary>Resume &amp; cover letter tips</summary>' +
-      (j.tip_resume ? '<div class="tip"><span class="tip-label">Resume</span> ' + esc(j.tip_resume) + '</div>' : '') +
-      (j.tip_cover  ? '<div class="tip"><span class="tip-label">Cover letter</span> ' + esc(j.tip_cover) + '</div>' : '') +
-      '</details>'
-    ) : '';
+    const tips = (j.tip_resume || j.tip_cover)
+      ? '<details class="job-tips"><summary>Resume &amp; cover letter tips</summary>' +
+        (j.tip_resume ? '<div class="tip"><span class="tip-label">Resume</span> ' + esc(j.tip_resume) + '</div>' : '') +
+        (j.tip_cover  ? '<div class="tip"><span class="tip-label">Cover letter</span> ' + esc(j.tip_cover) + '</div>' : '') +
+        '</details>'
+      : '';
     const clientLink = (j.client_subject && j.client_body)
       ? '<a class="btn btn--outline btn--small" href="mailto:?subject=' + encodeURIComponent(j.client_subject) + '&body=' + encodeURIComponent(j.client_body) + '" title="Send to client">&#9993; Send to client</a>'
       : '';
-    return (
-      '<article class="job-card" data-edu="' + esc(j.edu_level || '') + '">' +
-        '<div class="job-card__main">' +
-          '<h3 class="job-card__title">' +
-            (j.url ? '<a href="' + esc(j.url) + '" target="_blank" rel="noopener">' + esc(j.title) + '</a>' : esc(j.title)) +
-            ' ' + star +
-          '</h3>' +
-          '<p class="job-card__meta">' +
-            '<span><strong>' + esc(j.employer || '') + '</strong></span>' +
-            (j.location ? '<span class="sep">&middot;</span><span>' + esc(j.location) + '</span>' : '') +
-            (j.edu_label ? '<span class="sep">&middot;</span><span class="edu-tag edu-' + esc(j.edu_level) + '">' + esc(j.edu_label) + '</span>' : '') +
-          '</p>' +
-          tips +
-        '</div>' +
-        '<div class="job-card__aside">' +
-          '<div class="job-card__salary"><strong>' + esc(j.salary || 'Not listed') + '</strong></div>' +
-          (posted ? '<div class="job-card__posted"><span class="dot"></span>' + esc(posted) + '</div>' : '') +
-          (j.source ? '<span class="source-pill source-pill--' + slug(j.source) + '">' + esc(j.source) + '</span>' : '') +
-          (j.url ? '<a class="btn btn--primary btn--small" href="' + esc(j.url) + '" target="_blank" rel="noopener">Apply &#8599;</a>' : '') +
-          clientLink +
-        '</div>' +
-      '</article>'
-    );
+    return '<article class="job-card" data-edu="' + esc(j.edu_level || '') + '">' +
+      '<div class="job-card__main">' +
+        '<h3 class="job-card__title">' +
+          (j.url ? '<a href="' + esc(j.url) + '" target="_blank" rel="noopener">' + esc(j.title) + '</a>' : esc(j.title)) +
+          ' ' + star +
+        '</h3>' +
+        '<p class="job-card__meta">' +
+          '<span><strong>' + esc(j.employer || '') + '</strong></span>' +
+          (j.location ? '<span class="sep">&middot;</span><span>' + esc(j.location) + '</span>' : '') +
+          (j.edu_label ? '<span class="sep">&middot;</span><span class="edu-tag edu-' + esc(j.edu_level) + '">' + esc(j.edu_label) + '</span>' : '') +
+        '</p>' +
+        tips +
+      '</div>' +
+      '<div class="job-card__aside">' +
+        '<div class="job-card__salary"><strong>' + esc(j.salary || 'Not listed') + '</strong></div>' +
+        (posted ? '<div class="job-card__posted"><span class="dot"></span>' + esc(posted) + '</div>' : '') +
+        (j.source ? '<span class="source-pill source-pill--' + slug(j.source) + '">' + esc(j.source) + '</span>' : '') +
+        (j.url ? '<a class="btn btn--primary btn--small" href="' + esc(j.url) + '" target="_blank" rel="noopener">Apply &#8599;</a>' : '') +
+        clientLink +
+      '</div>' +
+    '</article>';
   }
-  function esc(s) {
-    return String(s == null ? '' : s).replace(/[&<>"']/g, c => ({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' })[c]);
-  }
+
+  function esc(s) { return String(s == null ? '' : s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'})[c]); }
   function slug(s) { return String(s).toLowerCase().replace(/[^a-z0-9]+/g, '-'); }
-  function fmtDate(iso) {
-    try { return new Date(iso).toLocaleDateString('en-CA', { month: 'short', day: 'numeric' }); }
-    catch (e) { return iso; }
-  }
+  function fmtDate(iso) { try { return new Date(iso).toLocaleDateString('en-CA', { month: 'short', day: 'numeric' }); } catch (e) { return iso; } }
 })();
 
-// ---- Events loader ----
+// ---- Events ----
 (function () {
   const featured = document.querySelector('#event-featured');
   const upcoming = document.querySelector('#event-upcoming');
@@ -185,15 +209,9 @@
   const feat = sorted.find(e => e.featured) || sorted[0];
   if (feat && featured) featured.innerHTML = featuredHTML(feat);
   const rest = sorted.filter(e => e !== feat);
-  if (upcoming) {
-    upcoming.innerHTML = rest.length
-      ? rest.map(eventCardHTML).join('')
-      : '<p>No additional events scheduled. Check back soon.</p>';
-  }
+  if (upcoming) upcoming.innerHTML = rest.length ? rest.map(eventCardHTML).join('') : '<p>No additional events scheduled. Check back soon.</p>';
 
-  function fmt(d) {
-    return new Date(d).toLocaleDateString('en-CA', { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' });
-  }
+  function fmt(d) { return new Date(d).toLocaleDateString('en-CA', { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' }); }
   function dateParts(d) {
     const dt = new Date(d);
     return {
@@ -220,31 +238,25 @@
         '<h2>' + e.title + '</h2>' +
         '<p class="lead">' + (e.description || '') + '</p>' +
         (e.location ? '<p><strong>Where:</strong> ' + e.location + '</p>' : '') +
-        (e.time
-          ? '<p><strong>When:</strong> ' + fmt(e.date) + ' &middot; ' + e.time + '</p>'
-          : '<p><strong>When:</strong> ' + fmt(e.date) + '</p>') +
-        (e.registerUrl
-          ? '<a class="btn btn--accent" href="' + e.registerUrl + '"' + (ext ? ' target="_blank" rel="noopener"' : '') + '>Register</a>'
-          : '') +
+        (e.time ? '<p><strong>When:</strong> ' + fmt(e.date) + ' &middot; ' + e.time + '</p>' : '<p><strong>When:</strong> ' + fmt(e.date) + '</p>') +
+        (e.registerUrl ? '<a class="btn btn--accent" href="' + e.registerUrl + '"' + (ext ? ' target="_blank" rel="noopener"' : '') + '>Register</a>' : '') +
       '</div>';
   }
   function eventCardHTML(e) {
     const ext = e.registerUrl && /^https?:/.test(e.registerUrl);
-    return (
-      '<article class="card">' +
-        '<span class="event__date">' + fmt(e.date) + '</span>' +
-        '<h3>' + e.title + '</h3>' +
-        (e.time ? '<p class="card__meta">' + e.time + (e.location ? ' &middot; ' + e.location : '') + '</p>' : '') +
-        '<p>' + (e.description || '') + '</p>' +
-        '<div class="card__footer">' +
-          (e.registerUrl ? '<a class="btn btn--outline" href="' + e.registerUrl + '"' + (ext ? ' target="_blank" rel="noopener"' : '') + '>Register</a>' : '') +
-        '</div>' +
-      '</article>'
-    );
+    return '<article class="card">' +
+      '<span class="event__date">' + fmt(e.date) + '</span>' +
+      '<h3>' + e.title + '</h3>' +
+      (e.time ? '<p class="card__meta">' + e.time + (e.location ? ' &middot; ' + e.location : '') + '</p>' : '') +
+      '<p>' + (e.description || '') + '</p>' +
+      '<div class="card__footer">' +
+        (e.registerUrl ? '<a class="btn btn--outline" href="' + e.registerUrl + '"' + (ext ? ' target="_blank" rel="noopener"' : '') + '>Register</a>' : '') +
+      '</div>' +
+    '</article>';
   }
 })();
 
-// ---- Newsletter sidebar (on article pages) ----
+// ---- Newsletter sidebar ----
 (function () {
   const sidebar = document.querySelector('#newsletter-sidebar-list');
   if (!sidebar) return;

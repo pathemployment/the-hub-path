@@ -447,6 +447,37 @@ p  { margin: 0 0 1em; }
   color: var(--text-muted);
 }
 
+/* ---- Job board: region + category grouping -------------------------- */
+.region-block { margin-bottom: 3rem; }
+.region-heading {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  margin: 0 0 1.25rem;
+  padding-bottom: .5rem;
+  border-bottom: 2px solid var(--path-navy);
+  color: var(--path-navy);
+}
+.region-heading__name { font-size: 1.5rem; font-weight: 700; letter-spacing: -.01em; }
+.region-heading__count {
+  font-size: .75rem;
+  text-transform: uppercase;
+  letter-spacing: .12em;
+  color: var(--text-muted);
+  font-weight: 600;
+}
+.category-block { margin-bottom: 1.5rem; }
+.category-heading {
+  font-size: .85rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .14em;
+  color: var(--hub-blue);
+  margin: 1.25rem 0 .75rem;
+}
+.category-heading__count { color: var(--text-muted); font-weight: 500; letter-spacing: .05em; }
+
 /* ---- Job board native ------------------------------------------------ */
 .jobs-stats {
   display: flex;
