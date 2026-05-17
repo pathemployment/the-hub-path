@@ -447,36 +447,88 @@ p  { margin: 0 0 1em; }
   color: var(--text-muted);
 }
 
-/* ---- Job board: region + category grouping -------------------------- */
-.region-block { margin-bottom: 3rem; }
+/* ---- Job board: region + category grouping (collapsible) ----------- */
+.region-block { margin-bottom: 2rem; }
+.region-block > summary,
 .region-heading {
   display: flex;
-  align-items: baseline;
+  align-items: center;
   justify-content: space-between;
   gap: 1rem;
-  margin: 0 0 1.25rem;
-  padding-bottom: .5rem;
+  padding: .75rem 0 .65rem;
   border-bottom: 2px solid var(--path-navy);
   color: var(--path-navy);
+  cursor: pointer;
+  user-select: none;
+  list-style: none;
+  margin-bottom: 1rem;
 }
-.region-heading__name { font-size: 1.5rem; font-weight: 700; letter-spacing: -.01em; }
+.region-heading::-webkit-details-marker,
+.region-block > summary::-webkit-details-marker { display: none; }
+.region-heading::before,
+.region-block > summary::before {
+  content: "\25B8";
+  display: inline-block;
+  width: 1.1em;
+  color: var(--hub-blue);
+  font-size: 1.1rem;
+  transition: transform .15s;
+}
+.region-block[open] > summary::before { transform: rotate(90deg); }
+.region-heading__name {
+  font-size: 1.5rem;
+  font-weight: 700;
+  letter-spacing: -.01em;
+  flex: 1;
+}
 .region-heading__count {
   font-size: .75rem;
   text-transform: uppercase;
   letter-spacing: .12em;
   color: var(--text-muted);
   font-weight: 600;
+  white-space: nowrap;
 }
-.category-block { margin-bottom: 1.5rem; }
+.region-block > summary:hover { background: rgba(0, 118, 191, 0.04); }
+
+.category-block { margin: 0 0 1.25rem; }
+.category-block > summary,
 .category-heading {
+  display: flex;
+  align-items: center;
+  gap: .5rem;
   font-size: .85rem;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: .14em;
   color: var(--hub-blue);
-  margin: 1.25rem 0 .75rem;
+  margin: 1rem 0 .75rem;
+  padding: .35rem .5rem;
+  cursor: pointer;
+  user-select: none;
+  list-style: none;
+  border-radius: 6px;
+  transition: background .15s;
 }
-.category-heading__count { color: var(--text-muted); font-weight: 500; letter-spacing: .05em; }
+.category-heading::-webkit-details-marker,
+.category-block > summary::-webkit-details-marker { display: none; }
+.category-heading::before,
+.category-block > summary::before {
+  content: "\25B8";
+  display: inline-block;
+  width: 1em;
+  color: var(--hub-blue);
+  font-size: .85rem;
+  transition: transform .15s;
+}
+.category-block[open] > summary::before { transform: rotate(90deg); }
+.category-block > summary:hover { background: rgba(0, 118, 191, 0.06); }
+.category-heading__count {
+  color: var(--text-muted);
+  font-weight: 500;
+  letter-spacing: .05em;
+  margin-left: .35rem;
+}
 
 /* ---- Job board native ------------------------------------------------ */
 .jobs-stats {

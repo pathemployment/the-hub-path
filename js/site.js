@@ -131,21 +131,25 @@
       byRegion[r][c].push(j);
     });
     const regionList = REGION_ORDER.filter(r => byRegion[r]);
-    return regionList.map(r => {
+    return regionList.map((r, idx) => {
       const catMap = byRegion[r];
       const catList = Object.keys(catMap).sort();
       const regionCount = catList.reduce((n, c) => n + catMap[c].length, 0);
+      // First region open by default, rest collapsed
+      const regionOpen = idx === 0 ? ' open' : '';
       return (
-        '<section class="region-block">' +
-          '<h2 class="region-heading"><span class="region-heading__name">' + esc(r) + '</span>' +
-          '<span class="region-heading__count">' + regionCount + ' listing' + (regionCount === 1 ? '' : 's') + '</span></h2>' +
+        '<details class="region-block"' + regionOpen + '>' +
+          '<summary class="region-heading">' +
+            '<span class="region-heading__name">' + esc(r) + '</span>' +
+            '<span class="region-heading__count">' + regionCount + ' listing' + (regionCount === 1 ? '' : 's') + '</span>' +
+          '</summary>' +
           catList.map(c =>
-            '<div class="category-block">' +
-              '<h3 class="category-heading">' + esc(c) + ' <span class="category-heading__count">(' + catMap[c].length + ')</span></h3>' +
+            '<details class="category-block" open>' +
+              '<summary class="category-heading">' + esc(c) + ' <span class="category-heading__count">(' + catMap[c].length + ')</span></summary>' +
               catMap[c].map(jobCard).join('') +
-            '</div>'
+            '</details>'
           ).join('') +
-        '</section>'
+        '</details>'
       );
     }).join('');
   }
