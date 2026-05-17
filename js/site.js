@@ -54,6 +54,32 @@
   });
 })();
 
+// ---- Job board welcome tour ----
+(function () {
+  const overlay = document.querySelector('#tour-overlay');
+  if (!overlay) return;
+  const TOUR_KEY = 'hub-job-tour-seen';
+  const closeBtn = document.querySelector('#tour-close');
+  const dismissBtn = document.querySelector('#tour-dismiss');
+  const showBtn = document.querySelector('#show-tour');
+
+  function open() { overlay.hidden = false; document.body.style.overflow = 'hidden'; }
+  function close() {
+    overlay.hidden = true;
+    document.body.style.overflow = '';
+    try { localStorage.setItem(TOUR_KEY, '1'); } catch (e) {}
+  }
+
+  if (!localStorage.getItem(TOUR_KEY)) {
+    setTimeout(open, 400);
+  }
+  if (closeBtn) closeBtn.addEventListener('click', close);
+  if (dismissBtn) dismissBtn.addEventListener('click', close);
+  if (showBtn) showBtn.addEventListener('click', open);
+  overlay.addEventListener('click', e => { if (e.target === overlay) close(); });
+  document.addEventListener('keydown', e => { if (e.key === 'Escape' && !overlay.hidden) close(); });
+})();
+
 // ---- Job board ----
 (function () {
   const list = document.querySelector('#job-list');
@@ -131,14 +157,13 @@
       byRegion[r][c].push(j);
     });
     const regionList = REGION_ORDER.filter(r => byRegion[r]);
-    return regionList.map((r, idx) => {
+    return regionList.map((r) => {
       const catMap = byRegion[r];
       const catList = Object.keys(catMap).sort();
       const regionCount = catList.reduce((n, c) => n + catMap[c].length, 0);
-      // First region open by default, rest collapsed
-      const regionOpen = idx === 0 ? ' open' : '';
+      // All regions collapsed by default - users open the one they want
       return (
-        '<details class="region-block"' + regionOpen + '>' +
+        '<details class="region-block">' +
           '<summary class="region-heading">' +
             '<span class="region-heading__name">' + esc(r) + '</span>' +
             '<span class="region-heading__count">' + regionCount + ' listing' + (regionCount === 1 ? '' : 's') + '</span>' +

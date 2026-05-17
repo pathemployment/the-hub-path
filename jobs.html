@@ -61,6 +61,10 @@
 
     <section class="section">
       <div class="container">
+        <div class="jobs-actions">
+          <a class="btn btn--accent" href="https://forms.office.com/Pages/ResponsePage.aspx?id=kebrX7LJjk6wisW1-8MqeFVK_HVnUnZBoUlqBsp9qb9UNTIwRDFXMDFFMlVWNDBHUUtDSlA2RDZWVC4u" target="_blank" rel="noopener">&#11088; Submit a job</a>
+          <button class="btn btn--outline btn--small" id="show-tour" type="button">Show tour</button>
+        </div>
         <div class="jobs-toolbar">
           <input type="search" id="job-search" placeholder="Search title, employer, or location" aria-label="Search jobs">
           <select id="job-region" aria-label="Filter by region"></select>
@@ -82,6 +86,32 @@
         <p class="lead center mt-3">Have a role to post? <a href="contact.html">Get in touch</a> and we'll add it to next week's list.</p>
       </div>
     </section>
+
+    <div class="tour-overlay" id="tour-overlay" hidden>
+      <div class="tour-modal" role="dialog" aria-labelledby="tour-title" aria-modal="true">
+        <button class="tour-close" id="tour-close" aria-label="Close tour" type="button">&times;</button>
+        <p class="tagline" style="margin: 0;">Welcome</p>
+        <h2 id="tour-title" style="margin: .25rem 0 .5rem;">Two quick things to know</h2>
+        <p class="lead" style="margin: 0 0 1.5rem;">The Hub job board is built to help you support your clients faster. Here's how to use it:</p>
+        <div class="tour-cards">
+          <div class="tour-card">
+            <div class="tour-icon">&#11088;</div>
+            <h3>Want to submit a job to the board?</h3>
+            <p>If you've come across a great opportunity, drop it here. We review submissions and add them to the next weekly list, marked with a star so others know it came from a counsellor.</p>
+            <a class="btn btn--accent" href="https://forms.office.com/Pages/ResponsePage.aspx?id=kebrX7LJjk6wisW1-8MqeFVK_HVnUnZBoUlqBsp9qb9UNTIwRDFXMDFFMlVWNDBHUUtDSlA2RDZWVC4u" target="_blank" rel="noopener">Click here!</a>
+          </div>
+          <div class="tour-card">
+            <div class="tour-icon">&#9993;</div>
+            <h3>Want to send a job to a client?</h3>
+            <p>Every job card has a <strong>Send to client</strong> button that opens your email with the job details, apply link, and personalized resume tips pre-filled. Just add the client's name and send.</p>
+            <p class="tour-hint">Look for the &#9993; icon on any job below.</p>
+          </div>
+        </div>
+        <div class="tour-footer">
+          <button class="btn btn--primary" id="tour-dismiss" type="button">Got it &mdash; show me the jobs</button>
+        </div>
+      </div>
+    </div>
   </main>
 
   <footer class="site-footer">
