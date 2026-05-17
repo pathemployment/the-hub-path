@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kwestwoodpath.github.io/the-hub-path/sitemap.xml

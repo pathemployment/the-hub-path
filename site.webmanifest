@@ -1,0 +1,13 @@
+{
+  "name": "theHUB @PATH",
+  "short_name": "theHUB",
+  "description": "Building Capacity, Amplifying Success — supporting front-line employment professionals.",
+  "icons": [
+    { "src": "/the-hub-path/assets/favicon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/the-hub-path/assets/favicon-512.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "theme_color": "#0b3954",
+  "background_color": "#0b3954",
+  "display": "browser",
+  "start_url": "/the-hub-path/"
+}

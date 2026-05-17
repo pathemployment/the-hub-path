@@ -369,8 +369,19 @@ p  { margin: 0 0 1em; }
   color: var(--text-muted);
   margin-bottom: .75rem;
 }
-.person__contact { font-size: .95rem; }
-.person__contact a { display: block; margin-top: .25rem; }
+.person__contact { font-size: .9rem; }
+.person__contact a {
+  display: block;
+  margin-top: .25rem;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+.person__cta {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: .5rem 1rem;
+  font-size: .9rem;
+}
 
 /* ---- Job board embed ------------------------------------------------- */
 .job-embed {
@@ -523,8 +534,38 @@ p  { margin: 0 0 1em; }
   text-transform: uppercase;
 }
 .newsletter__date .year { font-size: 1.5rem; font-weight: 700; }
-.newsletter h3 { margin: 0 0 .25rem; color: var(--path-navy); font-size: 1.1rem; }
+.newsletter h3 { margin: 0 0 .35rem; color: var(--path-navy); font-size: 1.1rem; }
 .newsletter p { margin: 0; color: var(--text-muted); font-size: .95rem; }
+.newsletter__author {
+  display: inline-flex;
+  align-items: center;
+  gap: .55rem;
+  margin-bottom: .5rem;
+  font-size: .85rem;
+  color: var(--text-muted);
+}
+.newsletter__avatar {
+  display: inline-block;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background-color: var(--bg-alt);
+  background-size: cover;
+  background-position: center;
+  border: 2px solid var(--hub-blue);
+  flex: 0 0 28px;
+}
+.newsletter__avatar--initials {
+  background: linear-gradient(135deg, var(--hub-blue), var(--path-navy));
+  color: var(--white);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: .65rem;
+  font-weight: 700;
+  letter-spacing: .03em;
+}
+.newsletter__author-name { font-weight: 600; color: var(--path-navy); }
 @media (max-width: 720px) {
   .newsletter {
     grid-template-columns: 80px 1fr;

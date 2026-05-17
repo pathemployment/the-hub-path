@@ -211,6 +211,17 @@
         const pdfLink = (n.page && n.file)
           ? `<a class="btn btn--outline" href="${n.file}" target="_blank" rel="noopener">PDF</a>`
           : '';
+        const initials = n.author && n.author.name
+          ? n.author.name.split(/\s+/).map(s => s[0]).slice(0,2).join('').toUpperCase()
+          : '';
+        const authorBlock = n.author
+          ? `<div class="newsletter__author">
+               ${n.author.photo
+                 ? `<span class="newsletter__avatar" style="background-image:url('${n.author.photo}')" aria-hidden="true"></span>`
+                 : `<span class="newsletter__avatar newsletter__avatar--initials" aria-hidden="true">${initials}</span>`}
+               <span class="newsletter__author-name">${n.author.name}</span>
+             </div>`
+          : '';
         return `
           <article class="newsletter">
             <div class="newsletter__date">
@@ -219,6 +230,7 @@
             </div>
             <div>
               <h3>${n.title}</h3>
+              ${authorBlock}
               <p>${n.summary || ''}</p>
             </div>
             <div style="display:flex; gap:.5rem; flex-wrap:wrap;">${primaryLink}${pdfLink}</div>
