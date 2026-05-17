@@ -1,7 +1,11 @@
 // theHUB @PATH - site interactions
+// Helper: send GA event if gtag is loaded (only after cookie consent)
+function hubTrack(name, params) {
+  try { if (typeof window.gtag === 'function') window.gtag('event', name, params || {}); } catch (e) {}
+}
+
 (function () {
   'use strict';
-
   const toggle = document.querySelector('.nav__toggle');
   const links = document.querySelector('.nav__links');
   if (toggle && links) {
@@ -17,7 +21,10 @@
   const path = location.pathname.split('/').pop() || 'index.html';
   document.querySelectorAll('.nav__links a').forEach(a => {
     const href = a.getAttribute('href');
-    if (href === path || (path === '' && href === 'index.html')) a.classList.add('is-active');
+    if (href === path || (path === '' && href === 'index.html')) {
+      a.classList.add('is-active');
+      a.setAttribute('aria-current', 'page');
+    }
   });
 
   const yearEl = document.querySelector('#year');
@@ -50,7 +57,125 @@
       localStorage.setItem(CONSENT_KEY, choice);
       if (banner) banner.classList.remove('is-visible');
       if (choice === 'accepted') loadAnalytics();
+      hubTrack('cookie_consent', { choice: choice });
     });
+  });
+})();
+
+// ---- Accessibility widget ----
+(function () {
+  const KEY = 'hub-a11y-prefs';
+  const html = document.documentElement;
+  const body = document.body;
+
+  function load() { try { return JSON.parse(localStorage.getItem(KEY) || '{}'); } catch (e) { return {}; } }
+  function save(p) { try { localStorage.setItem(KEY, JSON.stringify(p)); } catch (e) {} }
+
+  function apply(prefs) {
+    html.classList.remove('a11y-size-1', 'a11y-size-2', 'a11y-size-3');
+    if (prefs.size && prefs.size > 1) html.classList.add('a11y-size-' + prefs.size);
+    body.classList.toggle('a11y-contrast', !!prefs.contrast);
+    body.classList.toggle('a11y-underline', !!prefs.underline);
+    body.classList.toggle('a11y-reduce-motion', !!prefs.motion);
+  }
+
+  const prefs = load();
+  apply(prefs);
+
+  // Create the button + panel
+  const btn = document.createElement('button');
+  btn.className = 'a11y-button';
+  btn.setAttribute('aria-label', 'Accessibility options');
+  btn.setAttribute('aria-expanded', 'false');
+  btn.setAttribute('aria-controls', 'a11y-panel');
+  btn.setAttribute('type', 'button');
+  btn.innerHTML = '<span aria-hidden="true">&#9883;</span>';
+  document.body.appendChild(btn);
+
+  const panel = document.createElement('div');
+  panel.className = 'a11y-panel';
+  panel.id = 'a11y-panel';
+  panel.setAttribute('role', 'dialog');
+  panel.setAttribute('aria-label', 'Accessibility options');
+  panel.hidden = true;
+  panel.innerHTML = `
+    <button class="a11y-panel__close" type="button" aria-label="Close accessibility panel">&times;</button>
+    <h3>Accessibility</h3>
+    <div class="a11y-row">
+      <label id="a11y-size-label">Text size</label>
+      <div class="a11y-row__group" role="group" aria-labelledby="a11y-size-label">
+        <button class="a11y-size-btn size-1" data-size="1" aria-label="Default text size">A</button>
+        <button class="a11y-size-btn size-2" data-size="2" aria-label="Larger text">A</button>
+        <button class="a11y-size-btn size-3" data-size="3" aria-label="Largest text">A</button>
+      </div>
+    </div>
+    <div class="a11y-row">
+      <label for="a11y-contrast">High contrast</label>
+      <button class="a11y-toggle" id="a11y-contrast" type="button" aria-pressed="false" aria-label="Toggle high contrast"></button>
+    </div>
+    <div class="a11y-row">
+      <label for="a11y-underline">Underline links</label>
+      <button class="a11y-toggle" id="a11y-underline" type="button" aria-pressed="false" aria-label="Toggle underline links"></button>
+    </div>
+    <div class="a11y-row">
+      <label for="a11y-motion">Reduce motion</label>
+      <button class="a11y-toggle" id="a11y-motion" type="button" aria-pressed="false" aria-label="Toggle reduce motion"></button>
+    </div>
+    <button class="a11y-reset" type="button">Reset to defaults</button>
+  `;
+  document.body.appendChild(panel);
+
+  function refreshUI() {
+    const p = load();
+    panel.querySelectorAll('.a11y-size-btn').forEach(b => {
+      b.classList.toggle('is-active', parseInt(b.dataset.size, 10) === (p.size || 1));
+    });
+    panel.querySelector('#a11y-contrast').setAttribute('aria-pressed', p.contrast ? 'true' : 'false');
+    panel.querySelector('#a11y-underline').setAttribute('aria-pressed', p.underline ? 'true' : 'false');
+    panel.querySelector('#a11y-motion').setAttribute('aria-pressed', p.motion ? 'true' : 'false');
+  }
+  refreshUI();
+
+  function openPanel() {
+    panel.hidden = false;
+    btn.setAttribute('aria-expanded', 'true');
+    refreshUI();
+    hubTrack('a11y_panel_open');
+  }
+  function closePanel() {
+    panel.hidden = true;
+    btn.setAttribute('aria-expanded', 'false');
+  }
+
+  btn.addEventListener('click', () => panel.hidden ? openPanel() : closePanel());
+  panel.querySelector('.a11y-panel__close').addEventListener('click', closePanel);
+  document.addEventListener('keydown', e => { if (e.key === 'Escape' && !panel.hidden) closePanel(); });
+  document.addEventListener('click', e => {
+    if (!panel.hidden && !panel.contains(e.target) && e.target !== btn && !btn.contains(e.target)) closePanel();
+  });
+
+  panel.querySelectorAll('.a11y-size-btn').forEach(b => {
+    b.addEventListener('click', () => {
+      const p = load();
+      p.size = parseInt(b.dataset.size, 10);
+      save(p); apply(p); refreshUI();
+      hubTrack('a11y_change', { setting: 'size', value: p.size });
+    });
+  });
+
+  const toggleMap = { 'a11y-contrast': 'contrast', 'a11y-underline': 'underline', 'a11y-motion': 'motion' };
+  Object.entries(toggleMap).forEach(([id, key]) => {
+    panel.querySelector('#' + id).addEventListener('click', () => {
+      const p = load();
+      p[key] = !p[key];
+      save(p); apply(p); refreshUI();
+      hubTrack('a11y_change', { setting: key, value: p[key] });
+    });
+  });
+
+  panel.querySelector('.a11y-reset').addEventListener('click', () => {
+    save({}); apply({}); refreshUI();
+    hubTrack('a11y_reset');
   });
 })();
 
@@ -64,20 +189,21 @@
   const showBtn = document.querySelector('#show-tour');
 
   function open() { overlay.hidden = false; document.body.style.overflow = 'hidden'; }
-  function close() {
+  function close(reason) {
     overlay.hidden = true;
     document.body.style.overflow = '';
     try { localStorage.setItem(TOUR_KEY, '1'); } catch (e) {}
+    hubTrack('tour_close', { reason: reason || 'unknown' });
   }
 
   if (!localStorage.getItem(TOUR_KEY)) {
-    setTimeout(open, 400);
+    setTimeout(() => { open(); hubTrack('tour_shown', { trigger: 'first_visit' }); }, 400);
   }
-  if (closeBtn) closeBtn.addEventListener('click', close);
-  if (dismissBtn) dismissBtn.addEventListener('click', close);
-  if (showBtn) showBtn.addEventListener('click', open);
-  overlay.addEventListener('click', e => { if (e.target === overlay) close(); });
-  document.addEventListener('keydown', e => { if (e.key === 'Escape' && !overlay.hidden) close(); });
+  if (closeBtn) closeBtn.addEventListener('click', () => close('x'));
+  if (dismissBtn) dismissBtn.addEventListener('click', () => close('got_it'));
+  if (showBtn) showBtn.addEventListener('click', () => { open(); hubTrack('tour_shown', { trigger: 'manual' }); });
+  overlay.addEventListener('click', e => { if (e.target === overlay) close('outside'); });
+  document.addEventListener('keydown', e => { if (e.key === 'Escape' && !overlay.hidden) close('escape'); });
 })();
 
 // ---- Job board ----
@@ -109,6 +235,9 @@
       (meta.window_days ? '<span>Past <strong>' + meta.window_days + ' days</strong></span>' : '');
   }
 
+  // Inject JobPosting structured data (top 30 jobs, freshest first)
+  injectJobPostingSchema(jobs.slice(0, 30));
+
   const regions = REGION_ORDER.filter(r => jobs.some(j => j.region === r));
   const cats = [...new Set(jobs.map(j => j.category).filter(Boolean))].sort();
   const sources = [...new Set(jobs.map(j => j.source).filter(Boolean))].sort();
@@ -117,7 +246,34 @@
   if (srcSel) srcSel.innerHTML = '<option value="">All sources</option>' + sources.map(s => '<option value="' + esc(s) + '">' + esc(s) + '</option>').join('');
 
   render();
-  [search, regionSel, catSel, eduSel, srcSel, submittedOnly].forEach(el => el && el.addEventListener('input', render));
+  [search, regionSel, catSel, eduSel, srcSel, submittedOnly].forEach(el => {
+    if (!el) return;
+    let debounce;
+    el.addEventListener('input', () => {
+      render();
+      clearTimeout(debounce);
+      debounce = setTimeout(() => hubTrack('job_filter', {
+        field: el.id || el.name || 'unknown',
+        value: el.type === 'checkbox' ? (el.checked ? 'on' : 'off') : (el.value || 'cleared')
+      }), 800);
+    });
+  });
+
+  // Delegate clicks for apply + send-to-client
+  list.addEventListener('click', e => {
+    const applyBtn = e.target.closest('a.btn--primary[href*="://"]');
+    if (applyBtn) {
+      const card = applyBtn.closest('.job-card');
+      const title = card ? card.querySelector('.job-card__title')?.textContent.trim() : '';
+      hubTrack('apply_click', { job_title: title.slice(0, 80), employer: card?.querySelector('.job-card__meta strong')?.textContent || '', source: applyBtn.href.split('/')[2] || '' });
+    }
+    const sendBtn = e.target.closest('a.btn--outline[href^="mailto:"]');
+    if (sendBtn && sendBtn.title === 'Send to client') {
+      const card = sendBtn.closest('.job-card');
+      const title = card ? card.querySelector('.job-card__title')?.textContent.trim() : '';
+      hubTrack('send_to_client', { job_title: title.slice(0, 80) });
+    }
+  });
 
   function render() {
     const q = (search.value || '').trim().toLowerCase();
@@ -161,21 +317,14 @@
       const catMap = byRegion[r];
       const catList = Object.keys(catMap).sort();
       const regionCount = catList.reduce((n, c) => n + catMap[c].length, 0);
-      // All regions collapsed by default - users open the one they want
-      return (
-        '<details class="region-block">' +
-          '<summary class="region-heading">' +
-            '<span class="region-heading__name">' + esc(r) + '</span>' +
-            '<span class="region-heading__count">' + regionCount + ' listing' + (regionCount === 1 ? '' : 's') + '</span>' +
-          '</summary>' +
-          catList.map(c =>
-            '<details class="category-block" open>' +
-              '<summary class="category-heading">' + esc(c) + ' <span class="category-heading__count">(' + catMap[c].length + ')</span></summary>' +
-              catMap[c].map(jobCard).join('') +
-            '</details>'
-          ).join('') +
-        '</details>'
-      );
+      return '<details class="region-block">' +
+        '<summary class="region-heading"><span class="region-heading__name">' + esc(r) + '</span>' +
+        '<span class="region-heading__count">' + regionCount + ' listing' + (regionCount === 1 ? '' : 's') + '</span></summary>' +
+        catList.map(c => '<details class="category-block" open>' +
+          '<summary class="category-heading">' + esc(c) + ' <span class="category-heading__count">(' + catMap[c].length + ')</span></summary>' +
+          catMap[c].map(jobCard).join('') +
+        '</details>').join('') +
+      '</details>';
     }).join('');
   }
 
@@ -214,6 +363,31 @@
     '</article>';
   }
 
+  function injectJobPostingSchema(jobsSubset) {
+    const baseUrl = location.origin + location.pathname.replace(/[^\/]*$/, '');
+    const items = jobsSubset.filter(j => j.title && j.employer).map(j => {
+      const valid = j.date ? new Date(new Date(j.date).getTime() + 30 * 86400000).toISOString().split('T')[0] : null;
+      return {
+        '@context': 'https://schema.org/',
+        '@type': 'JobPosting',
+        title: j.title,
+        description: (j.tip_resume ? j.tip_resume + ' ' : '') + 'Apply through our job board at theHUB @PATH.',
+        datePosted: j.date || undefined,
+        validThrough: valid || undefined,
+        employmentType: 'FULL_TIME',
+        hiringOrganization: { '@type': 'Organization', name: j.employer },
+        jobLocation: { '@type': 'Place', address: { '@type': 'PostalAddress', addressLocality: j.location || 'Hamilton', addressRegion: 'ON', addressCountry: 'CA' } },
+        directApply: false,
+        url: j.url
+      };
+    });
+    if (!items.length) return;
+    const script = document.createElement('script');
+    script.type = 'application/ld+json';
+    script.textContent = JSON.stringify(items);
+    document.head.appendChild(script);
+  }
+
   function esc(s) { return String(s == null ? '' : s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'})[c]); }
   function slug(s) { return String(s).toLowerCase().replace(/[^a-z0-9]+/g, '-'); }
   function fmtDate(iso) { try { return new Date(iso).toLocaleDateString('en-CA', { month: 'short', day: 'numeric' }); } catch (e) { return iso; } }
@@ -239,6 +413,8 @@
   if (feat && featured) featured.innerHTML = featuredHTML(feat);
   const rest = sorted.filter(e => e !== feat);
   if (upcoming) upcoming.innerHTML = rest.length ? rest.map(eventCardHTML).join('') : '<p>No additional events scheduled. Check back soon.</p>';
+
+  injectEventSchema(sorted);
 
   function fmt(d) { return new Date(d).toLocaleDateString('en-CA', { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' }); }
   function dateParts(d) {
@@ -283,6 +459,25 @@
       '</div>' +
     '</article>';
   }
+
+  function injectEventSchema(events) {
+    const items = events.filter(e => e.title && e.date).map(e => ({
+      '@context': 'https://schema.org/',
+      '@type': 'Event',
+      name: e.title,
+      startDate: e.date,
+      description: e.description || e.title,
+      eventAttendanceMode: 'https://schema.org/OnlineEventAttendanceMode',
+      eventStatus: 'https://schema.org/EventScheduled',
+      location: { '@type': 'VirtualLocation', url: location.href },
+      organizer: { '@type': 'Organization', name: 'theHUB @PATH', url: 'https://kwestwoodpath.github.io/the-hub-path/' }
+    }));
+    if (!items.length) return;
+    const s = document.createElement('script');
+    s.type = 'application/ld+json';
+    s.textContent = JSON.stringify(items);
+    document.head.appendChild(s);
+  }
 })();
 
 // ---- Newsletter sidebar ----
@@ -299,4 +494,15 @@
     const current = (n.page && href === here) ? ' is-current' : '';
     return '<li><a href="' + href + '" class="' + current.trim() + '"><span class="sidebar-date">' + label + '</span><span class="sidebar-title">' + n.title + '</span></a></li>';
   }).join('');
+})();
+
+// ---- Track external nav events (Calendly, MS Forms) ----
+(function () {
+  document.addEventListener('click', e => {
+    const a = e.target.closest('a[href]');
+    if (!a) return;
+    const href = a.href || '';
+    if (href.includes('calendly.com')) hubTrack('calendly_click', { url: href });
+    else if (href.includes('forms.office.com')) hubTrack('form_open', { url: href });
+  });
 })();
