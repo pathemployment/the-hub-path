@@ -320,7 +320,7 @@ function hubTrack(name, params) {
       return '<details class="region-block">' +
         '<summary class="region-heading"><span class="region-heading__name">' + esc(r) + '</span>' +
         '<span class="region-heading__count">' + regionCount + ' listing' + (regionCount === 1 ? '' : 's') + '</span></summary>' +
-        catList.map(c => '<details class="category-block" open>' +
+        catList.map(c => '<details class="category-block">' +
           '<summary class="category-heading">' + esc(c) + ' <span class="category-heading__count">(' + catMap[c].length + ')</span></summary>' +
           catMap[c].map(jobCard).join('') +
         '</details>').join('') +
