@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Sample Job Title — Replace this list with your real postings",
+    "employer": "Sample Employer Inc.",
+    "location": "Hamilton, ON",
+    "type": "Full-time",
+    "category": "General Labour",
+    "posted": "2026-05-12",
+    "url": "https://pathemployment.com"
+  },
+  {
+    "title": "Customer Service Representative",
+    "employer": "Local Partner Co.",
+    "location": "Burlington, ON",
+    "type": "Part-time",
+    "category": "Customer Service",
+    "posted": "2026-05-10",
+    "url": "https://pathemployment.com"
+  },
+  {
+    "title": "Warehouse Associate",
+    "employer": "Distribution Centre",
+    "location": "Stoney Creek, ON",
+    "type": "Full-time",
+    "category": "Warehouse / Logistics",
+    "posted": "2026-05-08",
+    "url": "https://pathemployment.com"
+  },
+  {
+    "title": "Administrative Assistant",
+    "employer": "Community Services Org",
+    "location": "Hamilton, ON",
+    "type": "Contract",
+    "category": "Administrative",
+    "posted": "2026-05-04",
+    "url": "https://pathemployment.com"
+  }
+]

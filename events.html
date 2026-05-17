@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Events — theHUB @PATH</title>
+  <meta name="description" content="Workshops, case conferences, and PD sessions from theHUB @PATH.">
+  <link rel="icon" type="image/png" href="assets/logos/logo-mark.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <a class="sr-only" href="#main">Skip to main content</a>
+
+  <header class="site-header">
+    <div class="container">
+      <nav class="nav" aria-label="Primary">
+        <a class="nav__brand" href="index.html"><img src="assets/logos/logo-full.png" alt="theHUB @PATH logo"></a>
+        <button class="nav__toggle" aria-expanded="false" aria-controls="primary-nav" aria-label="Open menu"><span></span></button>
+        <ul class="nav__links" id="primary-nav">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="jobs.html">Job Board</a></li>
+          <li><a href="events.html">Events</a></li>
+          <li><a href="newsletters.html">Newsletters</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="section section--navy">
+      <div class="container">
+        <p class="tagline" style="color: var(--capacity-sage);">Events</p>
+        <h1>What's coming up</h1>
+        <p class="lead" style="color: rgba(255,255,255,0.85);">Case conferences, professional development sessions, and other gatherings from theHUB.</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <article class="event--featured" id="event-featured" aria-live="polite"></article>
+
+        <h2>More upcoming events</h2>
+        <div class="grid" id="event-upcoming" aria-live="polite"></div>
+
+        <p class="lead center mt-3">Want to suggest a topic or host a session? <a href="contact.html">Let us know.</a></p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer__grid">
+        <div class="footer__brand">
+          <span class="footer__brand-logo">
+            <img src="assets/logos/logo-full.png" alt="theHUB @PATH">
+          </span>
+          <p>A program of PATH Employment Services, Hamilton, Ontario.</p>
+        </div>
+        <div><h4>Explore</h4><ul class="footer__list">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="jobs.html">Job Board</a></li>
+          <li><a href="events.html">Events</a></li>
+          <li><a href="newsletters.html">Newsletters</a></li>
+        </ul></div>
+        <div><h4>Connect</h4><ul class="footer__list">
+          <li><a href="contact.html">Contact us</a></li>
+          <li><a href="https://pathemployment.com" target="_blank" rel="noopener">PATH Employment</a></li>
+        </ul></div>
+        <div><h4>Legal</h4><ul class="footer__list">
+          <li><a href="privacy.html">Privacy Policy</a></li>
+        </ul></div>
+      </div>
+      <div class="footer__bottom">
+        <span>&copy; <span id="year"></span> PATH Employment Services. Building Capacity, Amplifying Success.</span>
+        <span>905.528.6611</span>
+      </div>
+    </div>
+  </footer>
+
+  <div class="cookie-banner" id="cookie-banner" role="dialog" aria-labelledby="cookie-title">
+    <p id="cookie-title"><strong>We use cookies.</strong> theHUB uses Google Analytics to understand how visitors use this site. Analytics cookies only load if you accept. See our <a href="privacy.html">Privacy Policy</a>.</p>
+    <div class="cookie-banner__actions">
+      <button class="btn btn--primary" data-consent="accepted">Accept</button>
+      <button class="btn btn--outline" data-consent="declined">Decline</button>
+    </div>
+  </div>
+
+  <script src="data/events.js"></script>
+  <script src="js/site.js"></script>
+</body>
+</html>

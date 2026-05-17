@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact — theHUB @PATH</title>
+  <meta name="description" content="Contact theHUB @PATH for case consultations, professional development, occupational therapy assessments, and more.">
+  <link rel="icon" type="image/png" href="assets/logos/logo-mark.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <a class="sr-only" href="#main">Skip to main content</a>
+
+  <header class="site-header">
+    <div class="container">
+      <nav class="nav" aria-label="Primary">
+        <a class="nav__brand" href="index.html"><img src="assets/logos/logo-full.png" alt="theHUB @PATH logo"></a>
+        <button class="nav__toggle" aria-expanded="false" aria-controls="primary-nav" aria-label="Open menu"><span></span></button>
+        <ul class="nav__links" id="primary-nav">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="jobs.html">Job Board</a></li>
+          <li><a href="events.html">Events</a></li>
+          <li><a href="newsletters.html">Newsletters</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="section section--navy">
+      <div class="container">
+        <p class="tagline" style="color: var(--capacity-sage);">Contact</p>
+        <h1>Let's figure it out together.</h1>
+        <p class="lead" style="color: rgba(255,255,255,0.85);">Reach out for a case consultation, a PD session, an OT assessment, or just to talk something through.</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <h2 class="section-title center">The team</h2>
+        <div class="people">
+          <article class="person">
+            <div class="person__photo" style="background-image: url('assets/people/mateja-mihelcic.jpg');" aria-hidden="true"></div>
+            <h3>Mateja Mihelcic</h3>
+            <p class="person__role">theHUB</p>
+            <p class="person__contact">
+              <a href="tel:9055286611,245">905.528.6611 ext. 245</a>
+              <a href="mailto:mateja.mihelcic@pathemployment.com">mateja.mihelcic@pathemployment.com</a>
+            </p>
+          </article>
+          <article class="person">
+            <div class="person__photo person__photo--initials" aria-hidden="true">SM</div>
+            <h3>Shannon McCracken</h3>
+            <p class="person__role">theHUB</p>
+            <p class="person__contact">
+              <a href="tel:9055286611,234">905.528.6611 ext. 234</a>
+              <a href="mailto:shannon.mccracken@pathemployment.com">shannon.mccracken@pathemployment.com</a>
+            </p>
+          </article>
+          <article class="person">
+            <div class="person__photo" style="background-image: url('assets/people/sri.jpg');" aria-hidden="true"></div>
+            <h3>Sri Prasad</h3>
+            <p class="person__role">Occupational Therapist</p>
+            <p class="person__contact">
+              <!-- TODO: add Sri's extension and email -->
+              <a href="tel:9055286611">905.528.6611</a>
+            </p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section--alt">
+      <div class="container">
+        <h2 class="section-title center">Request a service</h2>
+        <p class="lead center" style="margin: 0 auto 2.5rem;">Pick the form that fits what you need. We'll follow up within two business days.</p>
+
+        <div class="grid" style="grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));">
+
+          <article class="card">
+            <h3>1:1 Case Consultation</h3>
+            <p>Confidential, collaborative session on a specific case you're working through.</p>
+            <form class="form mt-2" onsubmit="event.preventDefault(); alert('Form not yet connected. Form handler will be wired up in a future update.');" style="padding: 1rem; box-shadow: none; border: 0;">
+              <p class="form__notice">Form placeholder — backend not yet connected.</p>
+              <div class="form__row">
+                <div><label for="cc-name">Your name</label><input id="cc-name" name="name" required></div>
+                <div><label for="cc-org">Organization</label><input id="cc-org" name="org"></div>
+              </div>
+              <div class="form__row">
+                <div><label for="cc-email">Email</label><input id="cc-email" type="email" name="email" required></div>
+                <div><label for="cc-phone">Phone</label><input id="cc-phone" type="tel" name="phone"></div>
+              </div>
+              <div style="margin-bottom: 1rem;">
+                <label for="cc-details">Briefly describe the situation</label>
+                <textarea id="cc-details" name="details" required></textarea>
+              </div>
+              <button class="btn btn--primary" type="submit">Submit request</button>
+            </form>
+          </article>
+
+          <article class="card">
+            <h3>Professional Development Session</h3>
+            <p>Request a PD session for your team or organization.</p>
+            <form class="form mt-2" onsubmit="event.preventDefault(); alert('Form not yet connected. Form handler will be wired up in a future update.');" style="padding: 1rem; box-shadow: none; border: 0;">
+              <p class="form__notice">Form placeholder — backend not yet connected.</p>
+              <div class="form__row">
+                <div><label for="pd-name">Your name</label><input id="pd-name" required></div>
+                <div><label for="pd-org">Organization</label><input id="pd-org" required></div>
+              </div>
+              <div class="form__row">
+                <div><label for="pd-email">Email</label><input id="pd-email" type="email" required></div>
+                <div><label for="pd-topic">Topic of interest</label>
+                  <select id="pd-topic">
+                    <option>Barriers to employment</option>
+                    <option>Disability disclosure</option>
+                    <option>Accommodation strategies</option>
+                    <option>Caseload management</option>
+                    <option>Assessment</option>
+                    <option>Other (please specify below)</option>
+                  </select>
+                </div>
+              </div>
+              <div style="margin-bottom: 1rem;">
+                <label for="pd-notes">Group size, preferred dates, anything else</label>
+                <textarea id="pd-notes"></textarea>
+              </div>
+              <button class="btn btn--primary" type="submit">Submit request</button>
+            </form>
+          </article>
+
+          <article class="card">
+            <h3>Occupational Therapy Assessment</h3>
+            <p>Refer a jobseeker for a cognitive and functional assessment.</p>
+            <form class="form mt-2" onsubmit="event.preventDefault(); alert('Form not yet connected. Form handler will be wired up in a future update.');" style="padding: 1rem; box-shadow: none; border: 0;">
+              <p class="form__notice">Form placeholder — backend not yet connected. Do not include client identifying details until the form is wired to a secure backend.</p>
+              <div class="form__row">
+                <div><label for="ot-name">Referring professional</label><input id="ot-name" required></div>
+                <div><label for="ot-org">Organization</label><input id="ot-org" required></div>
+              </div>
+              <div class="form__row">
+                <div><label for="ot-email">Email</label><input id="ot-email" type="email" required></div>
+                <div><label for="ot-phone">Phone</label><input id="ot-phone" type="tel"></div>
+              </div>
+              <div style="margin-bottom: 1rem;">
+                <label for="ot-context">Reason for referral (no personal client details)</label>
+                <textarea id="ot-context" required></textarea>
+              </div>
+              <button class="btn btn--primary" type="submit">Submit referral</button>
+            </form>
+          </article>
+
+          <article class="card">
+            <h3>General Inquiry</h3>
+            <p>Something else? Send a note and we'll route it to the right person.</p>
+            <form class="form mt-2" onsubmit="event.preventDefault(); alert('Form not yet connected. Form handler will be wired up in a future update.');" style="padding: 1rem; box-shadow: none; border: 0;">
+              <p class="form__notice">Form placeholder — backend not yet connected.</p>
+              <div class="form__row">
+                <div><label for="gi-name">Your name</label><input id="gi-name" required></div>
+                <div><label for="gi-email">Email</label><input id="gi-email" type="email" required></div>
+              </div>
+              <div style="margin-bottom: 1rem;">
+                <label for="gi-message">Your message</label>
+                <textarea id="gi-message" required></textarea>
+              </div>
+              <button class="btn btn--primary" type="submit">Send</button>
+            </form>
+          </article>
+
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer__grid">
+        <div class="footer__brand">
+          <span class="footer__brand-logo">
+            <img src="assets/logos/logo-full.png" alt="theHUB @PATH">
+          </span>
+          <p>A program of PATH Employment Services, Hamilton, Ontario.</p>
+        </div>
+        <div><h4>Explore</h4><ul class="footer__list">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="jobs.html">Job Board</a></li>
+          <li><a href="events.html">Events</a></li>
+          <li><a href="newsletters.html">Newsletters</a></li>
+        </ul></div>
+        <div><h4>Connect</h4><ul class="footer__list">
+          <li><a href="contact.html">Contact us</a></li>
+          <li><a href="https://pathemployment.com" target="_blank" rel="noopener">PATH Employment</a></li>
+        </ul></div>
+        <div><h4>Legal</h4><ul class="footer__list">
+          <li><a href="privacy.html">Privacy Policy</a></li>
+        </ul></div>
+      </div>
+      <div class="footer__bottom">
+        <span>&copy; <span id="year"></span> PATH Employment Services. Building Capacity, Amplifying Success.</span>
+        <span>905.528.6611</span>
+      </div>
+    </div>
+  </footer>
+
+  <div class="cookie-banner" id="cookie-banner" role="dialog" aria-labelledby="cookie-title">
+    <p id="cookie-title"><strong>We use cookies.</strong> theHUB uses Google Analytics to understand how visitors use this site. Analytics cookies only load if you accept. See our <a href="privacy.html">Privacy Policy</a>.</p>
+    <div class="cookie-banner__actions">
+      <button class="btn btn--primary" data-consent="accepted">Accept</button>
+      <button class="btn btn--outline" data-consent="declined">Decline</button>
+    </div>
+  </div>
+
+  <script src="js/site.js"></script>
+</body>
+</html>
