@@ -21,7 +21,7 @@ window.HUB_JOBS = [
     "category": "Food Service",
     "transit_accessible": true,
     "transit_agency": "Oakville Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Oakville+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Squires+Gastro+Pub+Burlington+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-17",
@@ -42,7 +42,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "Niagara Region Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Sonic+Tattoo+St.+Catharines+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-17",
@@ -63,7 +63,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "HSR",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=HSR+Hamilton+Street+Railway"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=HD+TRANSPORT+INC+Hamilton+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-17",
@@ -84,7 +84,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "HSR",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=HSR+Hamilton+Street+Railway"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=HD+Transport+Hamilton+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-17",
@@ -105,7 +105,7 @@ window.HUB_JOBS = [
     "category": "Food Service",
     "transit_accessible": true,
     "transit_agency": "HSR",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=HSR+Hamilton+Street+Railway"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Denninger%27s+Foods+of+the+World+Hamilton+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-17",
@@ -126,7 +126,7 @@ window.HUB_JOBS = [
     "category": "Warehouse/Logistics",
     "transit_accessible": true,
     "transit_agency": "HSR",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=HSR+Hamilton+Street+Railway"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Empowerment+Technologies+Inc.+Stoney+Creek+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-16",
@@ -147,7 +147,7 @@ window.HUB_JOBS = [
     "category": "Custodial/Cleaning",
     "transit_accessible": true,
     "transit_agency": "Oakville Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Oakville+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Best+Western+Halton+Hills+Georgetown+Georgetown+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-16",
@@ -168,7 +168,7 @@ window.HUB_JOBS = [
     "category": "Skilled Trades",
     "transit_accessible": true,
     "transit_agency": "HSR",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=HSR+Hamilton+Street+Railway"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=ACTIVE+GREEN+%2B+ROSS+Hamilton+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-16",
@@ -189,7 +189,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "Oakville Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Oakville+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Freshouse+Foods+Ltd.+Georgetown+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-16",
@@ -210,7 +210,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "Oakville Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Oakville+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Akal+Optical+Oakville+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-16",
@@ -231,7 +231,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "Oakville Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Oakville+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Akal+Optical+Milton+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-16",
@@ -252,7 +252,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "Oakville Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Oakville+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Akal+Optical+Burlington+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-16",
@@ -265,12 +265,12 @@ window.HUB_JOBS = [
     "edu_label": "No formal / On-the-job",
     "salary": "$17.60 hourly",
     "source": "Job Bank",
-    "tip_resume": "Lead with reliability and any transferable experience. List certifications, training, or tickets you have.",
-    "tip_cover": "Show you're interested in this specific employer and what you bring to the role. Keep it focused.",
+    "tip_resume": "Highlight any physical-work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
+    "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: tobacco farm worker at Matthew Sobczyk",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ntobacco farm worker\nMatthew Sobczyk — Burford (ON)  $17.60 hourly\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49527419\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Matthew+Sobczyk+about+us\n\nRESUME TIPS\nLead with reliability and any transferable experience. List certifications, training, or tickets you have.\n\nCOVER LETTER ANGLE\nShow you're interested in this specific employer and what you bring to the role. Keep it focused.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ntobacco farm worker\nMatthew Sobczyk — Burford (ON)  $17.60 hourly\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49527419\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Matthew+Sobczyk+about+us\n\nRESUME TIPS\nHighlight any physical-work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
     "region": "Brantford",
-    "category": "Other",
+    "category": "General Labour",
     "transit_accessible": false
   },
   {
@@ -292,7 +292,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "Oakville Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Oakville+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=pooja%27s+beauty+spa+Oakville+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-16",
@@ -313,7 +313,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "Oakville Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Oakville+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=EmbroidMe+Oakville+Oakville+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-16",
@@ -334,7 +334,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "Brantford Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Brantford+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Cambridge+Pro+Fab+Brantford+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-16",
@@ -374,7 +374,7 @@ window.HUB_JOBS = [
     "category": "Skilled Trades",
     "transit_accessible": true,
     "transit_agency": "Brantford Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Brantford+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Wessuc+Inc.+Brantford+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-16",
@@ -387,15 +387,15 @@ window.HUB_JOBS = [
     "edu_label": "No formal / On-the-job",
     "salary": "$30.00 hourly",
     "source": "Job Bank",
-    "tip_resume": "Lead with reliability and any transferable experience. List certifications, training, or tickets you have.",
-    "tip_cover": "Show you're interested in this specific employer and what you bring to the role. Keep it focused.",
+    "tip_resume": "List driver's licence class, clean abstract, and any delivery experience (personal or work). Customer-service experience helps for delivery roles.",
+    "tip_cover": "Mention licence class, clean record, and familiarity with the local area.",
     "client_subject": "Job opportunity: truck operator at Wessuc Inc.",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ntruck operator\nWessuc Inc. — Brantford (ON)  $30.00 hourly\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49531880\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Wessuc+Inc.+about+us\n\nRESUME TIPS\nLead with reliability and any transferable experience. List certifications, training, or tickets you have.\n\nCOVER LETTER ANGLE\nShow you're interested in this specific employer and what you bring to the role. Keep it focused.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ntruck operator\nWessuc Inc. — Brantford (ON)  $30.00 hourly\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49531880\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Wessuc+Inc.+about+us\n\nRESUME TIPS\nList driver's licence class, clean abstract, and any delivery experience (personal or work). Customer-service experience helps for delivery roles.\n\nCOVER LETTER ANGLE\nMention licence class, clean record, and familiarity with the local area.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
     "region": "Brantford",
-    "category": "Other",
+    "category": "Driving/Delivery",
     "transit_accessible": true,
     "transit_agency": "Brantford Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Brantford+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Wessuc+Inc.+Brantford+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-15",
@@ -416,7 +416,7 @@ window.HUB_JOBS = [
     "category": "Food Service",
     "transit_accessible": true,
     "transit_agency": "HSR",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=HSR+Hamilton+Street+Railway"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Brothers+Grimm+Bistro+Hamilton+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-15",
@@ -437,7 +437,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "Ride Norfolk",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Ride+Norfolk+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Dennis+Searles+Chevrolet+Caledonia+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-15",
@@ -458,7 +458,7 @@ window.HUB_JOBS = [
     "category": "Skilled Trades",
     "transit_accessible": true,
     "transit_agency": "Oakville Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Oakville+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Bespoke+Contracting+Burlington+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-15",
@@ -490,15 +490,15 @@ window.HUB_JOBS = [
     "edu_label": "No formal / On-the-job",
     "salary": "$30.00 hourly",
     "source": "Job Bank",
-    "tip_resume": "Lead with reliability and any transferable experience. List certifications, training, or tickets you have.",
-    "tip_cover": "Show you're interested in this specific employer and what you bring to the role. Keep it focused.",
+    "tip_resume": "Cash handling, customer-facing volunteer work, helping at a family business — list it. Mention reliability and weekend availability.",
+    "tip_cover": "Show you're friendly, dependable, and can stay positive on a busy day.",
     "client_subject": "Job opportunity: inside sales representative at Beaver Biodiesel Inc.",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ninside sales representative\nBeaver Biodiesel Inc. — Hamilton (ON)  $30.00 hourly\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49522936\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Beaver+Biodiesel+Inc.+about+us\n\nRESUME TIPS\nLead with reliability and any transferable experience. List certifications, training, or tickets you have.\n\nCOVER LETTER ANGLE\nShow you're interested in this specific employer and what you bring to the role. Keep it focused.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ninside sales representative\nBeaver Biodiesel Inc. — Hamilton (ON)  $30.00 hourly\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49522936\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Beaver+Biodiesel+Inc.+about+us\n\nRESUME TIPS\nCash handling, customer-facing volunteer work, helping at a family business — list it. Mention reliability and weekend availability.\n\nCOVER LETTER ANGLE\nShow you're friendly, dependable, and can stay positive on a busy day.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
     "region": "Hamilton",
-    "category": "Other",
+    "category": "Retail/Cashier",
     "transit_accessible": true,
     "transit_agency": "HSR",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=HSR+Hamilton+Street+Railway"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Beaver+Biodiesel+Inc.+Hamilton+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-15",
@@ -511,15 +511,15 @@ window.HUB_JOBS = [
     "edu_label": "No formal / On-the-job",
     "salary": "$70,000.00 annually",
     "source": "Job Bank",
-    "tip_resume": "Lead with reliability and any transferable experience. List certifications, training, or tickets you have.",
-    "tip_cover": "Show you're interested in this specific employer and what you bring to the role. Keep it focused.",
+    "tip_resume": "Cash handling, customer-facing volunteer work, helping at a family business — list it. Mention reliability and weekend availability.",
+    "tip_cover": "Show you're friendly, dependable, and can stay positive on a busy day.",
     "client_subject": "Job opportunity: outside sales representative at Beaver Biodiesel Inc.",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\noutside sales representative\nBeaver Biodiesel Inc. — Hamilton (ON)  $70,000.00 annually\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49522987\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Beaver+Biodiesel+Inc.+about+us\n\nRESUME TIPS\nLead with reliability and any transferable experience. List certifications, training, or tickets you have.\n\nCOVER LETTER ANGLE\nShow you're interested in this specific employer and what you bring to the role. Keep it focused.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\noutside sales representative\nBeaver Biodiesel Inc. — Hamilton (ON)  $70,000.00 annually\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49522987\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Beaver+Biodiesel+Inc.+about+us\n\nRESUME TIPS\nCash handling, customer-facing volunteer work, helping at a family business — list it. Mention reliability and weekend availability.\n\nCOVER LETTER ANGLE\nShow you're friendly, dependable, and can stay positive on a busy day.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
     "region": "Hamilton",
-    "category": "Other",
+    "category": "Retail/Cashier",
     "transit_accessible": true,
     "transit_agency": "HSR",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=HSR+Hamilton+Street+Railway"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Beaver+Biodiesel+Inc.+Hamilton+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-15",
@@ -532,15 +532,15 @@ window.HUB_JOBS = [
     "edu_label": "No formal / On-the-job",
     "salary": "$30.00 hourly",
     "source": "Job Bank",
-    "tip_resume": "Cash handling, customer-facing volunteer work, helping at a family business — list it. Mention reliability and weekend availability.",
-    "tip_cover": "Show you're friendly, dependable, and can stay positive on a busy day.",
+    "tip_resume": "Highlight any computer, organizing, or phone-answering experience — even informal. Mention typing speed and software comfort.",
+    "tip_cover": "Show reliability, attention to detail, and friendly phone manner.",
     "client_subject": "Job opportunity: customer service representative - call centre at Beaver Biodiesel Inc.",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ncustomer service representative - call centre\nBeaver Biodiesel Inc. — Hamilton (ON)  $30.00 hourly\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49523047\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Beaver+Biodiesel+Inc.+about+us\n\nRESUME TIPS\nCash handling, customer-facing volunteer work, helping at a family business — list it. Mention reliability and weekend availability.\n\nCOVER LETTER ANGLE\nShow you're friendly, dependable, and can stay positive on a busy day.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ncustomer service representative - call centre\nBeaver Biodiesel Inc. — Hamilton (ON)  $30.00 hourly\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49523047\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Beaver+Biodiesel+Inc.+about+us\n\nRESUME TIPS\nHighlight any computer, organizing, or phone-answering experience — even informal. Mention typing speed and software comfort.\n\nCOVER LETTER ANGLE\nShow reliability, attention to detail, and friendly phone manner.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
     "region": "Hamilton",
-    "category": "Retail/Cashier",
+    "category": "Admin/Reception",
     "transit_accessible": true,
     "transit_agency": "HSR",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=HSR+Hamilton+Street+Railway"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Beaver+Biodiesel+Inc.+Hamilton+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-17",
@@ -561,7 +561,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "Niagara Region Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Hill+%26+Hollow+Wellness+Welland+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-16",
@@ -582,7 +582,7 @@ window.HUB_JOBS = [
     "category": "Food Service",
     "transit_accessible": true,
     "transit_agency": "Niagara Region Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=de+la+terre+bakery+Inc.+St.+Catharines+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-15",
@@ -603,7 +603,7 @@ window.HUB_JOBS = [
     "category": "Retail/Cashier",
     "transit_accessible": true,
     "transit_agency": "Niagara Region Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Big+Red+Markets+Thorold+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-15",
@@ -624,7 +624,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "HSR",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=HSR+Hamilton+Street+Railway"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=MK+Precision+Renovation+and+Construction+Hamilton+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-15",
@@ -645,7 +645,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "Oakville Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Oakville+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Midnight+Marketing+Canada+Inc.+Burlington+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-15",
@@ -666,7 +666,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "Brantford Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Brantford+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Craft+Property+Group+Brantford+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-15",
@@ -687,7 +687,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "Oakville Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Oakville+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Suffah+Academy+Milton+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-15",
@@ -708,7 +708,7 @@ window.HUB_JOBS = [
     "category": "Manufacturing/Production",
     "transit_accessible": true,
     "transit_agency": "Brantford Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Brantford+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=JD+Trans+Inc.+Brantford+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-17",
@@ -721,12 +721,12 @@ window.HUB_JOBS = [
     "edu_label": "No formal / On-the-job",
     "salary": "$23.00 to $30.00 hourly",
     "source": "Job Bank",
-    "tip_resume": "Lead with reliability and any transferable experience. List certifications, training, or tickets you have.",
-    "tip_cover": "Show you're interested in this specific employer and what you bring to the role. Keep it focused.",
+    "tip_resume": "Highlight caregiving experience — family, neighbours, volunteer. List any First Aid, CPR, or training certificates. Mention compassion and physical capability.",
+    "tip_cover": "Show empathy and patience. One specific example of caring for someone vulnerable resonates.",
     "client_subject": "Job opportunity: dental assistant at Dr. Thomas Zhou",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ndental assistant\nDr. Thomas Zhou — Port Colborne (ON)  $23.00 to $30.00 hourly\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49532935\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Dr.+Thomas+Zhou+about+us\n\nRESUME TIPS\nLead with reliability and any transferable experience. List certifications, training, or tickets you have.\n\nCOVER LETTER ANGLE\nShow you're interested in this specific employer and what you bring to the role. Keep it focused.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ndental assistant\nDr. Thomas Zhou — Port Colborne (ON)  $23.00 to $30.00 hourly\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49532935\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Dr.+Thomas+Zhou+about+us\n\nRESUME TIPS\nHighlight caregiving experience — family, neighbours, volunteer. List any First Aid, CPR, or training certificates. Mention compassion and physical capability.\n\nCOVER LETTER ANGLE\nShow empathy and patience. One specific example of caring for someone vulnerable resonates.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
     "region": "Niagara",
-    "category": "Other",
+    "category": "Personal Care/PSW",
     "transit_accessible": false
   },
   {
@@ -748,7 +748,7 @@ window.HUB_JOBS = [
     "category": "Food Service",
     "transit_accessible": true,
     "transit_agency": "Niagara Region Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Blind+Pig+Niagara+Niagara+Falls+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-15",
@@ -769,7 +769,7 @@ window.HUB_JOBS = [
     "category": "Food Service",
     "transit_accessible": true,
     "transit_agency": "Niagara Region Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=The+Secret+Garden+Restaurant%2FGift+Shop+Niagara+Falls+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-15",
@@ -809,7 +809,7 @@ window.HUB_JOBS = [
     "category": "Skilled Trades",
     "transit_accessible": true,
     "transit_agency": "Niagara Region Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Get+Harts+St.+Catharines+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-15",
@@ -830,7 +830,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "HSR",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=HSR+Hamilton+Street+Railway"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Catholic+Children%27s+Aid+Society+of+Hamilton+Hamilton+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-15",
@@ -851,7 +851,7 @@ window.HUB_JOBS = [
     "category": "Food Service",
     "transit_accessible": true,
     "transit_agency": "Niagara Region Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=43+North+Restaurant+Group+Thorold+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-15",
@@ -872,7 +872,7 @@ window.HUB_JOBS = [
     "category": "Personal Care/PSW",
     "transit_accessible": true,
     "transit_agency": "Oakville Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Oakville+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Access+Personal+Support%2C+Ltd+Burlington+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-15",
@@ -885,12 +885,12 @@ window.HUB_JOBS = [
     "edu_label": "No formal / On-the-job",
     "salary": "$18.50 hourly",
     "source": "Job Bank",
-    "tip_resume": "Lead with reliability and any transferable experience. List certifications, training, or tickets you have.",
-    "tip_cover": "Show you're interested in this specific employer and what you bring to the role. Keep it focused.",
+    "tip_resume": "Highlight any physical-work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.",
+    "tip_cover": "Lead with availability. Show you've done physical work before. Keep it short.",
     "client_subject": "Job opportunity: general farm worker at Two Sisters Vineyards",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ngeneral farm worker\nTwo Sisters Vineyards — Niagara-on-the-Lake (ON)  $18.50 hourly\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49519920\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Two+Sisters+Vineyards+about+us\n\nRESUME TIPS\nLead with reliability and any transferable experience. List certifications, training, or tickets you have.\n\nCOVER LETTER ANGLE\nShow you're interested in this specific employer and what you bring to the role. Keep it focused.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ngeneral farm worker\nTwo Sisters Vineyards — Niagara-on-the-Lake (ON)  $18.50 hourly\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49519920\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Two+Sisters+Vineyards+about+us\n\nRESUME TIPS\nHighlight any physical-work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability.\n\nCOVER LETTER ANGLE\nLead with availability. Show you've done physical work before. Keep it short.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
     "region": "Niagara",
-    "category": "Other",
+    "category": "General Labour",
     "transit_accessible": false
   },
   {
@@ -912,7 +912,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "Niagara Region Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Milestone+Millwork+St.+Catharines+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-15",
@@ -933,7 +933,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "Niagara Region Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Milestone+Millwork+St.+Catharines+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-15",
@@ -954,7 +954,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "Niagara Region Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Milestone+Millwork+St.+Catharines+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-15",
@@ -975,7 +975,7 @@ window.HUB_JOBS = [
     "category": "General Labour",
     "transit_accessible": true,
     "transit_agency": "Oakville Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Oakville+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Interprovincial+Corrosion+Control+Company+Limited+Burlington+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-15",
@@ -996,7 +996,7 @@ window.HUB_JOBS = [
     "category": "Warehouse/Logistics",
     "transit_accessible": true,
     "transit_agency": "Oakville Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Oakville+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Interprovincial+Corrosion+Control+Company+Limited+Burlington+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-15",
@@ -1017,7 +1017,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "Oakville Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Oakville+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=White+Birch+Clinic+Oakville+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-15",
@@ -1038,7 +1038,7 @@ window.HUB_JOBS = [
     "category": "Food Service",
     "transit_accessible": true,
     "transit_agency": "Oakville Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Oakville+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Napoleons+Steak+House+Burlington+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-15",
@@ -1059,7 +1059,7 @@ window.HUB_JOBS = [
     "category": "Retail/Cashier",
     "transit_accessible": true,
     "transit_agency": "Oakville Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Oakville+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Best+Buy+Express+Oakville+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-15",
@@ -1080,7 +1080,7 @@ window.HUB_JOBS = [
     "category": "Skilled Trades",
     "transit_accessible": true,
     "transit_agency": "Oakville Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Oakville+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=TechElectric+Automation+Inc.+Burlington+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-15",
@@ -1101,7 +1101,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "Niagara Region Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Billyard+Insurance+Group+Welland+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-15",
@@ -1122,7 +1122,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "Niagara Region Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Welland+SPCA+Welland+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-15",
@@ -1143,7 +1143,7 @@ window.HUB_JOBS = [
     "category": "Food Service",
     "transit_accessible": true,
     "transit_agency": "Niagara Region Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Teatro+Restaurant+and+bar+St.+Catharines+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-15",
@@ -1164,7 +1164,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "Oakville Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Oakville+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Elby+Professional+Recruitment+Inc+Oakville+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-14",
@@ -1204,7 +1204,7 @@ window.HUB_JOBS = [
     "category": "Food Service",
     "transit_accessible": true,
     "transit_agency": "Niagara Region Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Queen%27s+Coach+Restaurant+Niagara+Falls+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-14",
@@ -1217,15 +1217,15 @@ window.HUB_JOBS = [
     "edu_label": "No formal / On-the-job",
     "salary": "$19.00 hourly",
     "source": "Job Bank",
-    "tip_resume": "Highlight any computer, organizing, or phone-answering experience — even informal. Mention typing speed and software comfort.",
-    "tip_cover": "Show reliability, attention to detail, and friendly phone manner.",
+    "tip_resume": "Highlight caregiving experience — family, neighbours, volunteer. List any First Aid, CPR, or training certificates. Mention compassion and physical capability.",
+    "tip_cover": "Show empathy and patience. One specific example of caring for someone vulnerable resonates.",
     "client_subject": "Job opportunity: medical receptionist at BeshayMD Clinic",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nmedical receptionist\nBeshayMD Clinic — Welland (ON)  $19.00 hourly\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49516097\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+BeshayMD+Clinic+about+us\n\nRESUME TIPS\nHighlight any computer, organizing, or phone-answering experience — even informal. Mention typing speed and software comfort.\n\nCOVER LETTER ANGLE\nShow reliability, attention to detail, and friendly phone manner.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nmedical receptionist\nBeshayMD Clinic — Welland (ON)  $19.00 hourly\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49516097\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+BeshayMD+Clinic+about+us\n\nRESUME TIPS\nHighlight caregiving experience — family, neighbours, volunteer. List any First Aid, CPR, or training certificates. Mention compassion and physical capability.\n\nCOVER LETTER ANGLE\nShow empathy and patience. One specific example of caring for someone vulnerable resonates.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
     "region": "Niagara",
-    "category": "Admin/Reception",
+    "category": "Personal Care/PSW",
     "transit_accessible": true,
     "transit_agency": "Niagara Region Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=BeshayMD+Clinic+Welland+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-14",
@@ -1246,7 +1246,7 @@ window.HUB_JOBS = [
     "category": "Food Service",
     "transit_accessible": true,
     "transit_agency": "Oakville Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Oakville+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Familia+Fine+Foods+Burlington+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-14",
@@ -1259,15 +1259,15 @@ window.HUB_JOBS = [
     "edu_label": "No formal / On-the-job",
     "salary": "$50,000.00 to $60,000.00 annually",
     "source": "Job Bank",
-    "tip_resume": "Lead with reliability and any transferable experience. List certifications, training, or tickets you have.",
-    "tip_cover": "Show you're interested in this specific employer and what you bring to the role. Keep it focused.",
+    "tip_resume": "Highlight any computer, organizing, or phone-answering experience — even informal. Mention typing speed and software comfort.",
+    "tip_cover": "Show reliability, attention to detail, and friendly phone manner.",
     "client_subject": "Job opportunity: accounting clerk at Pioneer Food Services Limited",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\naccounting clerk\nPioneer Food Services Limited — Burlington (ON)  $50,000.00 to $60,000.00 annually\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49515843\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Pioneer+Food+Services+Limited+about+us\n\nRESUME TIPS\nLead with reliability and any transferable experience. List certifications, training, or tickets you have.\n\nCOVER LETTER ANGLE\nShow you're interested in this specific employer and what you bring to the role. Keep it focused.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\naccounting clerk\nPioneer Food Services Limited — Burlington (ON)  $50,000.00 to $60,000.00 annually\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49515843\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Pioneer+Food+Services+Limited+about+us\n\nRESUME TIPS\nHighlight any computer, organizing, or phone-answering experience — even informal. Mention typing speed and software comfort.\n\nCOVER LETTER ANGLE\nShow reliability, attention to detail, and friendly phone manner.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
     "region": "Halton",
-    "category": "Other",
+    "category": "Admin/Reception",
     "transit_accessible": true,
     "transit_agency": "Oakville Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Oakville+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Pioneer+Food+Services+Limited+Burlington+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-14",
@@ -1280,15 +1280,15 @@ window.HUB_JOBS = [
     "edu_label": "No formal / On-the-job",
     "salary": "$39.00 to $42.00 hourly",
     "source": "Job Bank",
-    "tip_resume": "Lead with reliability and any transferable experience. List certifications, training, or tickets you have.",
-    "tip_cover": "Show you're interested in this specific employer and what you bring to the role. Keep it focused.",
+    "tip_resume": "Highlight caregiving experience — family, neighbours, volunteer. List any First Aid, CPR, or training certificates. Mention compassion and physical capability.",
+    "tip_cover": "Show empathy and patience. One specific example of caring for someone vulnerable resonates.",
     "client_subject": "Job opportunity: ultrasound technologist at Gam Diagnostic Imaging",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nultrasound technologist\nGam Diagnostic Imaging — Oakville (ON)  $39.00 to $42.00 hourly\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49515738\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Gam+Diagnostic+Imaging+about+us\n\nRESUME TIPS\nLead with reliability and any transferable experience. List certifications, training, or tickets you have.\n\nCOVER LETTER ANGLE\nShow you're interested in this specific employer and what you bring to the role. Keep it focused.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nultrasound technologist\nGam Diagnostic Imaging — Oakville (ON)  $39.00 to $42.00 hourly\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49515738\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Gam+Diagnostic+Imaging+about+us\n\nRESUME TIPS\nHighlight caregiving experience — family, neighbours, volunteer. List any First Aid, CPR, or training certificates. Mention compassion and physical capability.\n\nCOVER LETTER ANGLE\nShow empathy and patience. One specific example of caring for someone vulnerable resonates.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
     "region": "Halton",
-    "category": "Other",
+    "category": "Personal Care/PSW",
     "transit_accessible": true,
     "transit_agency": "Oakville Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Oakville+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Gam+Diagnostic+Imaging+Oakville+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-14",
@@ -1301,15 +1301,15 @@ window.HUB_JOBS = [
     "edu_label": "No formal / On-the-job",
     "salary": "$17.61 to $21.27 hourly",
     "source": "Job Bank",
-    "tip_resume": "Lead with reliability and any transferable experience. List certifications, training, or tickets you have.",
-    "tip_cover": "Show you're interested in this specific employer and what you bring to the role. Keep it focused.",
+    "tip_resume": "Lead with reliability and any customer-facing experience — volunteer, sports/coaching, or cash-handling count. List availability for evenings, weekends, and holidays. If you have WHMIS or Safe Food Handler, list them; if not, both are free online and worth getting.",
+    "tip_cover": "Show you can handle a busy room and weekend shifts. One specific example of working under pressure (school cafeteria, family event, any service moment) goes a long way.",
     "client_subject": "Job opportunity: cake decorator at BAKEWELL MAGICAKES",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ncake decorator\nBAKEWELL MAGICAKES — Niagara Falls (ON)  $17.61 to $21.27 hourly\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49515893\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+BAKEWELL+MAGICAKES+about+us\n\nRESUME TIPS\nLead with reliability and any transferable experience. List certifications, training, or tickets you have.\n\nCOVER LETTER ANGLE\nShow you're interested in this specific employer and what you bring to the role. Keep it focused.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ncake decorator\nBAKEWELL MAGICAKES — Niagara Falls (ON)  $17.61 to $21.27 hourly\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49515893\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+BAKEWELL+MAGICAKES+about+us\n\nRESUME TIPS\nLead with reliability and any customer-facing experience — volunteer, sports/coaching, or cash-handling count. List availability for evenings, weekends, and holidays. If you have WHMIS or Safe Food Handler, list them; if not, both are free online and worth getting.\n\nCOVER LETTER ANGLE\nShow you can handle a busy room and weekend shifts. One specific example of working under pressure (school cafeteria, family event, any service moment) goes a long way.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
     "region": "Niagara",
-    "category": "Other",
+    "category": "Food Service",
     "transit_accessible": true,
     "transit_agency": "Niagara Region Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=BAKEWELL+MAGICAKES+Niagara+Falls+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-14",
@@ -1322,15 +1322,15 @@ window.HUB_JOBS = [
     "edu_label": "No formal / On-the-job",
     "salary": "$48.00 to $52.00 hourly",
     "source": "Job Bank",
-    "tip_resume": "Lead with reliability and any transferable experience. List certifications, training, or tickets you have.",
-    "tip_cover": "Show you're interested in this specific employer and what you bring to the role. Keep it focused.",
+    "tip_resume": "Highlight caregiving experience — family, neighbours, volunteer. List any First Aid, CPR, or training certificates. Mention compassion and physical capability.",
+    "tip_cover": "Show empathy and patience. One specific example of caring for someone vulnerable resonates.",
     "client_subject": "Job opportunity: registered dental hygienist at Foxcreek Dental",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nregistered dental hygienist\nFoxcreek Dental — Oakville (ON)  $48.00 to $52.00 hourly\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49515455\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Foxcreek+Dental+about+us\n\nRESUME TIPS\nLead with reliability and any transferable experience. List certifications, training, or tickets you have.\n\nCOVER LETTER ANGLE\nShow you're interested in this specific employer and what you bring to the role. Keep it focused.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nregistered dental hygienist\nFoxcreek Dental — Oakville (ON)  $48.00 to $52.00 hourly\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49515455\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Foxcreek+Dental+about+us\n\nRESUME TIPS\nHighlight caregiving experience — family, neighbours, volunteer. List any First Aid, CPR, or training certificates. Mention compassion and physical capability.\n\nCOVER LETTER ANGLE\nShow empathy and patience. One specific example of caring for someone vulnerable resonates.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
     "region": "Halton",
-    "category": "Other",
+    "category": "Personal Care/PSW",
     "transit_accessible": true,
     "transit_agency": "Oakville Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Oakville+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Foxcreek+Dental+Oakville+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-14",
@@ -1343,15 +1343,15 @@ window.HUB_JOBS = [
     "edu_label": "No formal / On-the-job",
     "salary": "$44.00 to $46.00 hourly",
     "source": "Job Bank",
-    "tip_resume": "Lead with reliability and any transferable experience. List certifications, training, or tickets you have.",
-    "tip_cover": "Show you're interested in this specific employer and what you bring to the role. Keep it focused.",
+    "tip_resume": "Highlight caregiving experience — family, neighbours, volunteer. List any First Aid, CPR, or training certificates. Mention compassion and physical capability.",
+    "tip_cover": "Show empathy and patience. One specific example of caring for someone vulnerable resonates.",
     "client_subject": "Job opportunity: dental hygienist at Northern Niagara Dentistry",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ndental hygienist\nNorthern Niagara Dentistry — St. Catharines (ON)  $44.00 to $46.00 hourly\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49515515\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Northern+Niagara+Dentistry+about+us\n\nRESUME TIPS\nLead with reliability and any transferable experience. List certifications, training, or tickets you have.\n\nCOVER LETTER ANGLE\nShow you're interested in this specific employer and what you bring to the role. Keep it focused.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ndental hygienist\nNorthern Niagara Dentistry — St. Catharines (ON)  $44.00 to $46.00 hourly\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49515515\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Northern+Niagara+Dentistry+about+us\n\nRESUME TIPS\nHighlight caregiving experience — family, neighbours, volunteer. List any First Aid, CPR, or training certificates. Mention compassion and physical capability.\n\nCOVER LETTER ANGLE\nShow empathy and patience. One specific example of caring for someone vulnerable resonates.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
     "region": "Niagara",
-    "category": "Other",
+    "category": "Personal Care/PSW",
     "transit_accessible": true,
     "transit_agency": "Niagara Region Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Northern+Niagara+Dentistry+St.+Catharines+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-14",
@@ -1372,7 +1372,7 @@ window.HUB_JOBS = [
     "category": "Driving/Delivery",
     "transit_accessible": true,
     "transit_agency": "Oakville Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Oakville+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Kindling+Cannabis+Burlington+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-14",
@@ -1393,7 +1393,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "Oakville Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Oakville+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Global+Health+Physio+Inc.+Oakville+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-14",
@@ -1414,7 +1414,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "Oakville Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Oakville+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Soontorn+Bahn+Thai+Oakville+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-14",
@@ -1435,7 +1435,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "Niagara Region Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Hilton+Hotel+and+Suites+Niagara+Falls%2FFallsview+Niagara+Falls+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-14",
@@ -1456,7 +1456,7 @@ window.HUB_JOBS = [
     "category": "Food Service",
     "transit_accessible": true,
     "transit_agency": "Niagara Region Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Queen%27s+Coach+Restaurant+Niagara+Falls+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-14",
@@ -1469,15 +1469,15 @@ window.HUB_JOBS = [
     "edu_label": "No formal / On-the-job",
     "salary": "$36.00 hourly",
     "source": "Job Bank",
-    "tip_resume": "Lead with reliability and any transferable experience. List certifications, training, or tickets you have.",
-    "tip_cover": "Show you're interested in this specific employer and what you bring to the role. Keep it focused.",
+    "tip_resume": "List any tickets, certifications, or trades exposure (school shop, family help, summer labour). Show willingness to apprentice and learn.",
+    "tip_cover": "Lead with willingness to learn the trade properly, plus any related hands-on experience.",
     "client_subject": "Job opportunity: steel stud framer - carpentry at KING CONSTRUCTION INC",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nsteel stud framer - carpentry\nKING CONSTRUCTION INC — Niagara Falls (ON)  $36.00 hourly\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49514318\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+KING+CONSTRUCTION+INC+about+us\n\nRESUME TIPS\nLead with reliability and any transferable experience. List certifications, training, or tickets you have.\n\nCOVER LETTER ANGLE\nShow you're interested in this specific employer and what you bring to the role. Keep it focused.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nsteel stud framer - carpentry\nKING CONSTRUCTION INC — Niagara Falls (ON)  $36.00 hourly\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49514318\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+KING+CONSTRUCTION+INC+about+us\n\nRESUME TIPS\nList any tickets, certifications, or trades exposure (school shop, family help, summer labour). Show willingness to apprentice and learn.\n\nCOVER LETTER ANGLE\nLead with willingness to learn the trade properly, plus any related hands-on experience.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
     "region": "Niagara",
-    "category": "Other",
+    "category": "Skilled Trades",
     "transit_accessible": true,
     "transit_agency": "Niagara Region Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=KING+CONSTRUCTION+INC+Niagara+Falls+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-14",
@@ -1498,7 +1498,7 @@ window.HUB_JOBS = [
     "category": "General Labour",
     "transit_accessible": true,
     "transit_agency": "Niagara Region Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=KING+CONSTRUCTION+INC+Niagara+Falls+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-14",
@@ -1519,7 +1519,7 @@ window.HUB_JOBS = [
     "category": "General Labour",
     "transit_accessible": true,
     "transit_agency": "Niagara Region Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=KING+CONSTRUCTION+INC+Niagara+Falls+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-14",
@@ -1532,15 +1532,15 @@ window.HUB_JOBS = [
     "edu_label": "No formal / On-the-job",
     "salary": "$18.00 hourly",
     "source": "Job Bank",
-    "tip_resume": "Highlight any computer, organizing, or phone-answering experience — even informal. Mention typing speed and software comfort.",
-    "tip_cover": "Show reliability, attention to detail, and friendly phone manner.",
+    "tip_resume": "Highlight caregiving experience — family, neighbours, volunteer. List any First Aid, CPR, or training certificates. Mention compassion and physical capability.",
+    "tip_cover": "Show empathy and patience. One specific example of caring for someone vulnerable resonates.",
     "client_subject": "Job opportunity: receptionist at Niagara Health & Rehab Centre",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nreceptionist\nNiagara Health & Rehab Centre — St. Catharines (ON)  $18.00 hourly\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49513871\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Niagara+Health+%26+Rehab+Centre+about+us\n\nRESUME TIPS\nHighlight any computer, organizing, or phone-answering experience — even informal. Mention typing speed and software comfort.\n\nCOVER LETTER ANGLE\nShow reliability, attention to detail, and friendly phone manner.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nreceptionist\nNiagara Health & Rehab Centre — St. Catharines (ON)  $18.00 hourly\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49513871\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Niagara+Health+%26+Rehab+Centre+about+us\n\nRESUME TIPS\nHighlight caregiving experience — family, neighbours, volunteer. List any First Aid, CPR, or training certificates. Mention compassion and physical capability.\n\nCOVER LETTER ANGLE\nShow empathy and patience. One specific example of caring for someone vulnerable resonates.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
     "region": "Niagara",
-    "category": "Admin/Reception",
+    "category": "Personal Care/PSW",
     "transit_accessible": true,
     "transit_agency": "Niagara Region Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Niagara+Health+%26+Rehab+Centre+St.+Catharines+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-14",
@@ -1561,7 +1561,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "Oakville Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Oakville+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Dreamscreens+Canada+Inc.+Oakville+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-14",
@@ -1574,15 +1574,15 @@ window.HUB_JOBS = [
     "edu_label": "No formal / On-the-job",
     "salary": "$20.00 to $30.00 hourly",
     "source": "Job Bank",
-    "tip_resume": "Highlight any computer, organizing, or phone-answering experience — even informal. Mention typing speed and software comfort.",
-    "tip_cover": "Show reliability, attention to detail, and friendly phone manner.",
+    "tip_resume": "Highlight caregiving experience — family, neighbours, volunteer. List any First Aid, CPR, or training certificates. Mention compassion and physical capability.",
+    "tip_cover": "Show empathy and patience. One specific example of caring for someone vulnerable resonates.",
     "client_subject": "Job opportunity: dental receptionist at St. Catharines Oral Surgery",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ndental receptionist\nSt. Catharines Oral Surgery — St. Catharines (ON)  $20.00 to $30.00 hourly\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49513289\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+St.+Catharines+Oral+Surgery+about+us\n\nRESUME TIPS\nHighlight any computer, organizing, or phone-answering experience — even informal. Mention typing speed and software comfort.\n\nCOVER LETTER ANGLE\nShow reliability, attention to detail, and friendly phone manner.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ndental receptionist\nSt. Catharines Oral Surgery — St. Catharines (ON)  $20.00 to $30.00 hourly\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49513289\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+St.+Catharines+Oral+Surgery+about+us\n\nRESUME TIPS\nHighlight caregiving experience — family, neighbours, volunteer. List any First Aid, CPR, or training certificates. Mention compassion and physical capability.\n\nCOVER LETTER ANGLE\nShow empathy and patience. One specific example of caring for someone vulnerable resonates.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
     "region": "Niagara",
-    "category": "Admin/Reception",
+    "category": "Personal Care/PSW",
     "transit_accessible": true,
     "transit_agency": "Niagara Region Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=St.+Catharines+Oral+Surgery+St.+Catharines+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-14",
@@ -1603,7 +1603,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "Oakville Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Oakville+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Peak+Home+Health+Care+Oakville+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-14",
@@ -1624,7 +1624,7 @@ window.HUB_JOBS = [
     "category": "Retail/Cashier",
     "transit_accessible": true,
     "transit_agency": "HSR",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=HSR+Hamilton+Street+Railway"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Devrew+Merchandising+Hamilton+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-14",
@@ -1637,15 +1637,15 @@ window.HUB_JOBS = [
     "edu_label": "No formal / On-the-job",
     "salary": "$20.85 hourly",
     "source": "Job Bank",
-    "tip_resume": "Lead with reliability and any transferable experience. List certifications, training, or tickets you have.",
-    "tip_cover": "Show you're interested in this specific employer and what you bring to the role. Keep it focused.",
+    "tip_resume": "Highlight caregiving experience — family, neighbours, volunteer. List any First Aid, CPR, or training certificates. Mention compassion and physical capability.",
+    "tip_cover": "Show empathy and patience. One specific example of caring for someone vulnerable resonates.",
     "client_subject": "Job opportunity: home child care provider at Mona Family",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nhome child care provider\nMona Family — Burlington (ON)  $20.85 hourly\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49512829\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Mona+Family+about+us\n\nRESUME TIPS\nLead with reliability and any transferable experience. List certifications, training, or tickets you have.\n\nCOVER LETTER ANGLE\nShow you're interested in this specific employer and what you bring to the role. Keep it focused.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nhome child care provider\nMona Family — Burlington (ON)  $20.85 hourly\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49512829\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Mona+Family+about+us\n\nRESUME TIPS\nHighlight caregiving experience — family, neighbours, volunteer. List any First Aid, CPR, or training certificates. Mention compassion and physical capability.\n\nCOVER LETTER ANGLE\nShow empathy and patience. One specific example of caring for someone vulnerable resonates.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
     "region": "Halton",
-    "category": "Other",
+    "category": "Personal Care/PSW",
     "transit_accessible": true,
     "transit_agency": "Oakville Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Oakville+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Mona+Family+Burlington+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-14",
@@ -1666,7 +1666,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "Oakville Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Oakville+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Burlington+Sports+Therapy+Burlington+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-14",
@@ -1706,7 +1706,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "Oakville Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Oakville+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=RE%2FMAX+Burlington+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-14",
@@ -1727,7 +1727,7 @@ window.HUB_JOBS = [
     "category": "Skilled Trades",
     "transit_accessible": true,
     "transit_agency": "Niagara Region Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=NORTH+FRAMING+SERVICES+INC.+Niagara+Falls+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-14",
@@ -1786,7 +1786,7 @@ window.HUB_JOBS = [
     "category": "Driving/Delivery",
     "transit_accessible": true,
     "transit_agency": "Niagara Region Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Gales+Gas+Bars+Limited+Niagara+Falls+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-13",
@@ -1826,7 +1826,7 @@ window.HUB_JOBS = [
     "category": "Food Service",
     "transit_accessible": true,
     "transit_agency": "Ride Norfolk",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Ride+Norfolk+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Tim+Hortons+Dunnville+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-13",
@@ -1847,7 +1847,7 @@ window.HUB_JOBS = [
     "category": "General Labour",
     "transit_accessible": true,
     "transit_agency": "Niagara Region Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Tessier+Pools+St.+Catharines+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-13",
@@ -1868,7 +1868,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "Niagara Region Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Maria%27s+Household+Niagara+Falls+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-13",
@@ -1908,7 +1908,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "Niagara Region Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Healthmedica+St.+Catharines+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-13",
@@ -1921,15 +1921,15 @@ window.HUB_JOBS = [
     "edu_label": "No formal / On-the-job",
     "salary": "$18.00 hourly",
     "source": "Job Bank",
-    "tip_resume": "Highlight any computer, organizing, or phone-answering experience — even informal. Mention typing speed and software comfort.",
-    "tip_cover": "Show reliability, attention to detail, and friendly phone manner.",
+    "tip_resume": "Highlight caregiving experience — family, neighbours, volunteer. List any First Aid, CPR, or training certificates. Mention compassion and physical capability.",
+    "tip_cover": "Show empathy and patience. One specific example of caring for someone vulnerable resonates.",
     "client_subject": "Job opportunity: medical receptionist at Greater Niagara Medical Imaging",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nmedical receptionist\nGreater Niagara Medical Imaging — St. Catharines (ON)  $18.00 hourly\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49506192\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Greater+Niagara+Medical+Imaging+about+us\n\nRESUME TIPS\nHighlight any computer, organizing, or phone-answering experience — even informal. Mention typing speed and software comfort.\n\nCOVER LETTER ANGLE\nShow reliability, attention to detail, and friendly phone manner.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nmedical receptionist\nGreater Niagara Medical Imaging — St. Catharines (ON)  $18.00 hourly\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49506192\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Greater+Niagara+Medical+Imaging+about+us\n\nRESUME TIPS\nHighlight caregiving experience — family, neighbours, volunteer. List any First Aid, CPR, or training certificates. Mention compassion and physical capability.\n\nCOVER LETTER ANGLE\nShow empathy and patience. One specific example of caring for someone vulnerable resonates.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
     "region": "Niagara",
-    "category": "Admin/Reception",
+    "category": "Personal Care/PSW",
     "transit_accessible": true,
     "transit_agency": "Niagara Region Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Greater+Niagara+Medical+Imaging+St.+Catharines+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-13",
@@ -1969,7 +1969,7 @@ window.HUB_JOBS = [
     "category": "Food Service",
     "transit_accessible": true,
     "transit_agency": "Niagara Region Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Gifted+Hands+Health+Services+St.+Catharines+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-13",
@@ -1990,7 +1990,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "Niagara Region Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Nadlan-Harris+Property+Management+Inc.+Welland+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-13",
@@ -2003,12 +2003,12 @@ window.HUB_JOBS = [
     "edu_label": "No formal / On-the-job",
     "salary": "$17.60 hourly",
     "source": "Job Bank",
-    "tip_resume": "Lead with reliability and any transferable experience. List certifications, training, or tickets you have.",
-    "tip_cover": "Show you're interested in this specific employer and what you bring to the role. Keep it focused.",
+    "tip_resume": "Highlight cleaning experience — residential, volunteer, or paid. List WHMIS if you have it. Mention attention to detail and reliability.",
+    "tip_cover": "Lead with reliability, attention to detail, and shift flexibility (evenings, weekends).",
     "client_subject": "Job opportunity: laundry attendant at Holiday Inn Express Niagara-on-the-Lake",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nlaundry attendant\nHoliday Inn Express Niagara-on-the-Lake — Niagara-on-the-Lake (ON)  $17.60 hourly\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49505554\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Holiday+Inn+Express+Niagara-on-the-Lake+about+us\n\nRESUME TIPS\nLead with reliability and any transferable experience. List certifications, training, or tickets you have.\n\nCOVER LETTER ANGLE\nShow you're interested in this specific employer and what you bring to the role. Keep it focused.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nlaundry attendant\nHoliday Inn Express Niagara-on-the-Lake — Niagara-on-the-Lake (ON)  $17.60 hourly\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49505554\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Holiday+Inn+Express+Niagara-on-the-Lake+about+us\n\nRESUME TIPS\nHighlight cleaning experience — residential, volunteer, or paid. List WHMIS if you have it. Mention attention to detail and reliability.\n\nCOVER LETTER ANGLE\nLead with reliability, attention to detail, and shift flexibility (evenings, weekends).\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
     "region": "Niagara",
-    "category": "Other",
+    "category": "Custodial/Cleaning",
     "transit_accessible": false
   },
   {
@@ -2030,7 +2030,7 @@ window.HUB_JOBS = [
     "category": "Skilled Trades",
     "transit_accessible": true,
     "transit_agency": "Niagara Region Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Q-Tires+Plus+Inc.+St.+Catharines+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-13",
@@ -2070,7 +2070,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "Niagara Region Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=The+Barber+Nation+Niagara+Falls+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-13",
@@ -2091,7 +2091,7 @@ window.HUB_JOBS = [
     "category": "Admin/Reception",
     "transit_accessible": true,
     "transit_agency": "Niagara Region Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=MedCare+Clinics+Niagara+Falls+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-13",
@@ -2112,7 +2112,7 @@ window.HUB_JOBS = [
     "category": "Skilled Trades",
     "transit_accessible": true,
     "transit_agency": "Niagara Region Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Niagara+Auto+Electric+%26+Complete+Service+Centre+Niagara+Falls+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-13",
@@ -2133,7 +2133,7 @@ window.HUB_JOBS = [
     "category": "Retail/Cashier",
     "transit_accessible": true,
     "transit_agency": "Niagara Region Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Best+Buy+Express+St.+Catharines+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-13",
@@ -2173,7 +2173,7 @@ window.HUB_JOBS = [
     "category": "Food Service",
     "transit_accessible": true,
     "transit_agency": "Niagara Region Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Park+Place+Seniors+Living+Niagara+Falls+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-12",
@@ -2213,7 +2213,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "HSR",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=HSR+Hamilton+Street+Railway"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Elisa+Beraldo+Stoney+Creek+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-12",
@@ -2234,7 +2234,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "Niagara Region Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Synergy+Protection+Group+Inc.+Niagara+Falls+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-12",
@@ -2255,7 +2255,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "Niagara Region Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=The+Hope+Centre+Welland+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-14",
@@ -2276,7 +2276,7 @@ window.HUB_JOBS = [
     "category": "Driving/Delivery",
     "transit_accessible": true,
     "transit_agency": "HSR",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=HSR+Hamilton+Street+Railway"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=STEEL+HUB+TRANSPORT+Stoney+Creek+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-12",
@@ -2297,7 +2297,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "Niagara Region Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Rose+City+Chrysler+Dodge+Jeep+Ram+Fiat+Welland+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-12",
@@ -2318,7 +2318,7 @@ window.HUB_JOBS = [
     "category": "Food Service",
     "transit_accessible": true,
     "transit_agency": "Niagara Region Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Ilforno+Restobar+%26+Lounge+Welland+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-12",
@@ -2339,7 +2339,7 @@ window.HUB_JOBS = [
     "category": "Food Service",
     "transit_accessible": true,
     "transit_agency": "Niagara Region Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Ilforno+Restobar+%26+Lounge+Welland+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-15",
@@ -2379,7 +2379,7 @@ window.HUB_JOBS = [
     "category": "Skilled Trades",
     "transit_accessible": true,
     "transit_agency": "Brantford Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Brantford+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Cargill+Brantford+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-15",
@@ -2457,7 +2457,7 @@ window.HUB_JOBS = [
     "category": "Skilled Trades",
     "transit_accessible": true,
     "transit_agency": "Brantford Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Brantford+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Cargill+Brantford+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-15",
@@ -2478,7 +2478,7 @@ window.HUB_JOBS = [
     "category": "Skilled Trades",
     "transit_accessible": true,
     "transit_agency": "Brantford Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Brantford+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Cargill+Brantford+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-15",
@@ -2499,7 +2499,7 @@ window.HUB_JOBS = [
     "category": "Skilled Trades",
     "transit_accessible": true,
     "transit_agency": "Brantford Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Brantford+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Cargill+Brantford+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-15",
@@ -2531,12 +2531,12 @@ window.HUB_JOBS = [
     "edu_label": "No formal / On-the-job",
     "salary": "$30.00 to $45.00 hourly (to be negotiated)",
     "source": "Job Bank",
-    "tip_resume": "Lead with reliability and any transferable experience. List certifications, training, or tickets you have.",
-    "tip_cover": "Show you're interested in this specific employer and what you bring to the role. Keep it focused.",
+    "tip_resume": "List any tickets, certifications, or trades exposure (school shop, family help, summer labour). Show willingness to apprentice and learn.",
+    "tip_cover": "Lead with willingness to learn the trade properly, plus any related hands-on experience.",
     "client_subject": "Job opportunity: bricklayer at Fix My Brick",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nbricklayer\nFix My Brick — Mount Hope (ON)  $30.00 to $45.00 hourly (to be negotiated)\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49521686\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Fix+My+Brick+about+us\n\nRESUME TIPS\nLead with reliability and any transferable experience. List certifications, training, or tickets you have.\n\nCOVER LETTER ANGLE\nShow you're interested in this specific employer and what you bring to the role. Keep it focused.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nbricklayer\nFix My Brick — Mount Hope (ON)  $30.00 to $45.00 hourly (to be negotiated)\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49521686\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Fix+My+Brick+about+us\n\nRESUME TIPS\nList any tickets, certifications, or trades exposure (school shop, family help, summer labour). Show willingness to apprentice and learn.\n\nCOVER LETTER ANGLE\nLead with willingness to learn the trade properly, plus any related hands-on experience.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
     "region": "Hamilton",
-    "category": "Other",
+    "category": "Skilled Trades",
     "transit_accessible": false
   },
   {
@@ -2550,15 +2550,15 @@ window.HUB_JOBS = [
     "edu_label": "No formal / On-the-job",
     "salary": "$45.00 to $50.00 hourly",
     "source": "Job Bank",
-    "tip_resume": "Lead with reliability and any transferable experience. List certifications, training, or tickets you have.",
-    "tip_cover": "Show you're interested in this specific employer and what you bring to the role. Keep it focused.",
+    "tip_resume": "Highlight caregiving experience — family, neighbours, volunteer. List any First Aid, CPR, or training certificates. Mention compassion and physical capability.",
+    "tip_cover": "Show empathy and patience. One specific example of caring for someone vulnerable resonates.",
     "client_subject": "Job opportunity: registered dental hygienist at Fraccaro Dental Group",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nregistered dental hygienist\nFraccaro Dental Group — Hamilton (ON)  $45.00 to $50.00 hourly\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49520992\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Fraccaro+Dental+Group+about+us\n\nRESUME TIPS\nLead with reliability and any transferable experience. List certifications, training, or tickets you have.\n\nCOVER LETTER ANGLE\nShow you're interested in this specific employer and what you bring to the role. Keep it focused.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nregistered dental hygienist\nFraccaro Dental Group — Hamilton (ON)  $45.00 to $50.00 hourly\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49520992\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Fraccaro+Dental+Group+about+us\n\nRESUME TIPS\nHighlight caregiving experience — family, neighbours, volunteer. List any First Aid, CPR, or training certificates. Mention compassion and physical capability.\n\nCOVER LETTER ANGLE\nShow empathy and patience. One specific example of caring for someone vulnerable resonates.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
     "region": "Hamilton",
-    "category": "Other",
+    "category": "Personal Care/PSW",
     "transit_accessible": true,
     "transit_agency": "HSR",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=HSR+Hamilton+Street+Railway"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Fraccaro+Dental+Group+Hamilton+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-15",
@@ -2579,7 +2579,7 @@ window.HUB_JOBS = [
     "category": "Warehouse/Logistics",
     "transit_accessible": true,
     "transit_agency": "Brantford Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Brantford+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=GoCold+Solutions+Brantford+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-15",
@@ -2600,7 +2600,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "HSR",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=HSR+Hamilton+Street+Railway"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Parkdale+Pharmasave+Hamilton+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-15",
@@ -2621,7 +2621,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "Ride Norfolk",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Ride+Norfolk+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Norfolk+County+Simcoe+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-14",
@@ -2661,7 +2661,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "Ride Norfolk",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Ride+Norfolk+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Aroh+Inc+Simcoe+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-14",
@@ -2674,15 +2674,15 @@ window.HUB_JOBS = [
     "edu_label": "No formal / On-the-job",
     "salary": "$36.00 hourly",
     "source": "Job Bank",
-    "tip_resume": "Lead with reliability and any transferable experience. List certifications, training, or tickets you have.",
-    "tip_cover": "Show you're interested in this specific employer and what you bring to the role. Keep it focused.",
+    "tip_resume": "Lead with reliability and any customer-facing experience — volunteer, sports/coaching, or cash-handling count. List availability for evenings, weekends, and holidays. If you have WHMIS or Safe Food Handler, list them; if not, both are free online and worth getting.",
+    "tip_cover": "Show you can handle a busy room and weekend shifts. One specific example of working under pressure (school cafeteria, family event, any service moment) goes a long way.",
     "client_subject": "Job opportunity: catering service manager at TAAL FINE INDIAN CUISINE",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ncatering service manager\nTAAL FINE INDIAN CUISINE — Brantford (ON)  $36.00 hourly\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49513033\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+TAAL+FINE+INDIAN+CUISINE+about+us\n\nRESUME TIPS\nLead with reliability and any transferable experience. List certifications, training, or tickets you have.\n\nCOVER LETTER ANGLE\nShow you're interested in this specific employer and what you bring to the role. Keep it focused.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\ncatering service manager\nTAAL FINE INDIAN CUISINE — Brantford (ON)  $36.00 hourly\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49513033\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+TAAL+FINE+INDIAN+CUISINE+about+us\n\nRESUME TIPS\nLead with reliability and any customer-facing experience — volunteer, sports/coaching, or cash-handling count. List availability for evenings, weekends, and holidays. If you have WHMIS or Safe Food Handler, list them; if not, both are free online and worth getting.\n\nCOVER LETTER ANGLE\nShow you can handle a busy room and weekend shifts. One specific example of working under pressure (school cafeteria, family event, any service moment) goes a long way.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
     "region": "Brantford",
-    "category": "Other",
+    "category": "Food Service",
     "transit_accessible": true,
     "transit_agency": "Brantford Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Brantford+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=TAAL+FINE+INDIAN+CUISINE+Brantford+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-14",
@@ -2703,7 +2703,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "Brantford Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Brantford+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=KIAN+CREATIONS+Brantford+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-14",
@@ -2724,7 +2724,7 @@ window.HUB_JOBS = [
     "category": "Skilled Trades",
     "transit_accessible": true,
     "transit_agency": "Brantford Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Brantford+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Bell+CT+Trucking+Brantford+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-14",
@@ -2745,7 +2745,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "Brantford Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Brantford+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Englobe+Corp.+Brantford+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-14",
@@ -2766,7 +2766,7 @@ window.HUB_JOBS = [
     "category": "Driving/Delivery",
     "transit_accessible": true,
     "transit_agency": "Ride Norfolk",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Ride+Norfolk+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Securiguard+Simcoe+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-14",
@@ -2787,7 +2787,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "Brantford Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Brantford+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=166+Lynden+Rd+Brantford+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-13",
@@ -2857,15 +2857,15 @@ window.HUB_JOBS = [
     "edu_label": "No formal / On-the-job",
     "salary": "$31.40 hourly",
     "source": "Job Bank",
-    "tip_resume": "Lead with reliability and any transferable experience. List certifications, training, or tickets you have.",
-    "tip_cover": "Show you're interested in this specific employer and what you bring to the role. Keep it focused.",
+    "tip_resume": "List any tickets, certifications, or trades exposure (school shop, family help, summer labour). Show willingness to apprentice and learn.",
+    "tip_cover": "Lead with willingness to learn the trade properly, plus any related hands-on experience.",
     "client_subject": "Job opportunity: heavy equipment operator at Gedco Excavating Ltd.",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nheavy equipment operator\nGedco Excavating Ltd. — Brantford (ON)  $31.40 hourly\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49505700\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Gedco+Excavating+Ltd.+about+us\n\nRESUME TIPS\nLead with reliability and any transferable experience. List certifications, training, or tickets you have.\n\nCOVER LETTER ANGLE\nShow you're interested in this specific employer and what you bring to the role. Keep it focused.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nheavy equipment operator\nGedco Excavating Ltd. — Brantford (ON)  $31.40 hourly\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49505700\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Gedco+Excavating+Ltd.+about+us\n\nRESUME TIPS\nList any tickets, certifications, or trades exposure (school shop, family help, summer labour). Show willingness to apprentice and learn.\n\nCOVER LETTER ANGLE\nLead with willingness to learn the trade properly, plus any related hands-on experience.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
     "region": "Brantford",
-    "category": "Other",
+    "category": "Skilled Trades",
     "transit_accessible": true,
     "transit_agency": "Brantford Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Brantford+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Gedco+Excavating+Ltd.+Brantford+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-13",
@@ -2878,15 +2878,15 @@ window.HUB_JOBS = [
     "edu_label": "No formal / On-the-job",
     "salary": "$46.00 to $52.00 hourly",
     "source": "Job Bank",
-    "tip_resume": "Lead with reliability and any transferable experience. List certifications, training, or tickets you have.",
-    "tip_cover": "Show you're interested in this specific employer and what you bring to the role. Keep it focused.",
+    "tip_resume": "Highlight caregiving experience — family, neighbours, volunteer. List any First Aid, CPR, or training certificates. Mention compassion and physical capability.",
+    "tip_cover": "Show empathy and patience. One specific example of caring for someone vulnerable resonates.",
     "client_subject": "Job opportunity: registered dental hygienist at Ancaster",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nregistered dental hygienist\nAncaster — Ancaster (ON)  $46.00 to $52.00 hourly\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49504346\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Ancaster+about+us\n\nRESUME TIPS\nLead with reliability and any transferable experience. List certifications, training, or tickets you have.\n\nCOVER LETTER ANGLE\nShow you're interested in this specific employer and what you bring to the role. Keep it focused.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nregistered dental hygienist\nAncaster — Ancaster (ON)  $46.00 to $52.00 hourly\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49504346\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Ancaster+about+us\n\nRESUME TIPS\nHighlight caregiving experience — family, neighbours, volunteer. List any First Aid, CPR, or training certificates. Mention compassion and physical capability.\n\nCOVER LETTER ANGLE\nShow empathy and patience. One specific example of caring for someone vulnerable resonates.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
     "region": "Hamilton",
-    "category": "Other",
+    "category": "Personal Care/PSW",
     "transit_accessible": true,
     "transit_agency": "HSR",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=HSR+Hamilton+Street+Railway"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Ancaster+Ancaster+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-13",
@@ -2907,7 +2907,7 @@ window.HUB_JOBS = [
     "category": "Custodial/Cleaning",
     "transit_accessible": true,
     "transit_agency": "Brantford Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Brantford+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Verde+Cleaning+Brantford+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-13",
@@ -2947,7 +2947,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "Brantford Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Brantford+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Brantford+Painters+Brantford+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-13",
@@ -2987,7 +2987,7 @@ window.HUB_JOBS = [
     "category": "General Labour",
     "transit_accessible": true,
     "transit_agency": "Ride Norfolk",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Ride+Norfolk+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=VG+Meats+Simcoe+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-15",
@@ -3008,7 +3008,7 @@ window.HUB_JOBS = [
     "category": "Food Service",
     "transit_accessible": true,
     "transit_agency": "HSR",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=HSR+Hamilton+Street+Railway"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Sheraton+Hamilton+Hamilton+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-15",
@@ -3029,7 +3029,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "HSR",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=HSR+Hamilton+Street+Railway"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=BMO+Financial+Hamilton+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-15",
@@ -3050,7 +3050,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "HSR",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=HSR+Hamilton+Street+Railway"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Liburdi+Dimetrics+Corporation+Dundas+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-15",
@@ -3071,7 +3071,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "HSR",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=HSR+Hamilton+Street+Railway"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=AMW+Pest+Control+Hamilton+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-15",
@@ -3092,7 +3092,7 @@ window.HUB_JOBS = [
     "category": "Retail/Cashier",
     "transit_accessible": true,
     "transit_agency": "HSR",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=HSR+Hamilton+Street+Railway"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Connect6+Group+Inc.+Hamilton+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-15",
@@ -3113,7 +3113,7 @@ window.HUB_JOBS = [
     "category": "Food Service",
     "transit_accessible": true,
     "transit_agency": "HSR",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=HSR+Hamilton+Street+Railway"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Carmen%27s+Group+Hamilton+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-14",
@@ -3134,7 +3134,7 @@ window.HUB_JOBS = [
     "category": "Food Service",
     "transit_accessible": true,
     "transit_agency": "HSR",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=HSR+Hamilton+Street+Railway"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Glen+Drummond+Farm+Dundas+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-14",
@@ -3155,7 +3155,7 @@ window.HUB_JOBS = [
     "category": "Food Service",
     "transit_accessible": true,
     "transit_agency": "HSR",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=HSR+Hamilton+Street+Railway"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Big+League+Food+Company+Retail+Inc.+Hamilton+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-14",
@@ -3176,7 +3176,7 @@ window.HUB_JOBS = [
     "category": "Retail/Cashier",
     "transit_accessible": true,
     "transit_agency": "HSR",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=HSR+Hamilton+Street+Railway"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=AutoShack.com+Hamilton+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-14",
@@ -3197,7 +3197,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "HSR",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=HSR+Hamilton+Street+Railway"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Autism+Day+Program+Hamilton+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-14",
@@ -3218,7 +3218,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "Oakville Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Oakville+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=My+Smart+Automotive+Service+Centre+Inc+Burlington+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-14",
@@ -3239,7 +3239,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "HSR",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=HSR+Hamilton+Street+Railway"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Ontario+Public+Service+Hamilton+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-14",
@@ -3260,7 +3260,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "HSR",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=HSR+Hamilton+Street+Railway"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Vrancor+Hamilton+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-14",
@@ -3281,7 +3281,7 @@ window.HUB_JOBS = [
     "category": "Other",
     "transit_accessible": true,
     "transit_agency": "HSR",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=HSR+Hamilton+Street+Railway"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=SCP+Stamped+Concrete+Pros+Inc.+Hamilton+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-14",
@@ -3302,7 +3302,7 @@ window.HUB_JOBS = [
     "category": "Custodial/Cleaning",
     "transit_accessible": true,
     "transit_agency": "Oakville Transit",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=Oakville+Transit"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Comfort+Inn+Burlington+Hotel+Burlington+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-14",
@@ -3315,15 +3315,15 @@ window.HUB_JOBS = [
     "edu_label": "No formal / On-the-job",
     "salary": "$19.00 to $22.00 hourly",
     "source": "Job Bank",
-    "tip_resume": "Lead with reliability and any transferable experience. List certifications, training, or tickets you have.",
-    "tip_cover": "Show you're interested in this specific employer and what you bring to the role. Keep it focused.",
+    "tip_resume": "Lead with reliability and any customer-facing experience — volunteer, sports/coaching, or cash-handling count. List availability for evenings, weekends, and holidays. If you have WHMIS or Safe Food Handler, list them; if not, both are free online and worth getting.",
+    "tip_cover": "Show you can handle a busy room and weekend shifts. One specific example of working under pressure (school cafeteria, family event, any service moment) goes a long way.",
     "client_subject": "Job opportunity: bread baker at Big League Food Company Wholesale Inc.",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nbread baker\nBig League Food Company Wholesale Inc. — Hamilton (ON)  $19.00 to $22.00 hourly\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49518170\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Big+League+Food+Company+Wholesale+Inc.+about+us\n\nRESUME TIPS\nLead with reliability and any transferable experience. List certifications, training, or tickets you have.\n\nCOVER LETTER ANGLE\nShow you're interested in this specific employer and what you bring to the role. Keep it focused.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nbread baker\nBig League Food Company Wholesale Inc. — Hamilton (ON)  $19.00 to $22.00 hourly\n\nAPPLY HERE\nhttps://www.jobbank.gc.ca/jobsearch/jobposting/49518170\n\nABOUT THE EMPLOYER\nhttps://duckduckgo.com/?q=%21ducky+Big+League+Food+Company+Wholesale+Inc.+about+us\n\nRESUME TIPS\nLead with reliability and any customer-facing experience — volunteer, sports/coaching, or cash-handling count. List availability for evenings, weekends, and holidays. If you have WHMIS or Safe Food Handler, list them; if not, both are free online and worth getting.\n\nCOVER LETTER ANGLE\nShow you can handle a busy room and weekend shifts. One specific example of working under pressure (school cafeteria, family event, any service moment) goes a long way.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
     "region": "Hamilton",
-    "category": "Other",
+    "category": "Food Service",
     "transit_accessible": true,
     "transit_agency": "HSR",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=HSR+Hamilton+Street+Railway"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Big+League+Food+Company+Wholesale+Inc.+Hamilton+%28ON%29&travelmode=transit"
   },
   {
     "date": "2026-05-17",
@@ -3345,7 +3345,7 @@ window.HUB_JOBS = [
     "company_url": "https://www.hamiltonhealthsciences.ca",
     "transit_accessible": true,
     "transit_agency": "HSR",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=HSR+Hamilton+Street+Railway"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Hamilton+Health+Sciences+Hamilton&travelmode=transit"
   },
   {
     "date": "2026-05-17",
@@ -3367,7 +3367,7 @@ window.HUB_JOBS = [
     "company_url": "https://www.hamiltonhealthsciences.ca",
     "transit_accessible": true,
     "transit_agency": "HSR",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=HSR+Hamilton+Street+Railway"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Hamilton+Health+Sciences+Hamilton&travelmode=transit"
   },
   {
     "date": "2026-05-17",
@@ -3380,16 +3380,16 @@ window.HUB_JOBS = [
     "edu_label": "No formal / On-the-job",
     "salary": "Not listed",
     "source": "Employer Website",
-    "tip_resume": "Lead with reliability and any transferable experience. List certifications, training, or tickets you have.",
-    "tip_cover": "Show you're interested in this specific employer and what you bring to the role. Keep it focused.",
+    "tip_resume": "Highlight caregiving experience — family, neighbours, volunteer. List any First Aid, CPR, or training certificates. Mention compassion and physical capability.",
+    "tip_cover": "Show empathy and patience. One specific example of caring for someone vulnerable resonates.",
     "client_subject": "Job opportunity: Nurse Practitioner, Neurosurgery/Spine Program at Hamilton Health Sciences",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nNurse Practitioner, Neurosurgery/Spine Program\nHamilton Health Sciences — Hamilton\n\nAPPLY HERE\nhttps://hhsc.taleo.net/careersection/2/jobdetail.ftl?job=124886&lang=en\n\nABOUT THE EMPLOYER\nhttps://www.hamiltonhealthsciences.ca\n\nRESUME TIPS\nLead with reliability and any transferable experience. List certifications, training, or tickets you have.\n\nCOVER LETTER ANGLE\nShow you're interested in this specific employer and what you bring to the role. Keep it focused.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nNurse Practitioner, Neurosurgery/Spine Program\nHamilton Health Sciences — Hamilton\n\nAPPLY HERE\nhttps://hhsc.taleo.net/careersection/2/jobdetail.ftl?job=124886&lang=en\n\nABOUT THE EMPLOYER\nhttps://www.hamiltonhealthsciences.ca\n\nRESUME TIPS\nHighlight caregiving experience — family, neighbours, volunteer. List any First Aid, CPR, or training certificates. Mention compassion and physical capability.\n\nCOVER LETTER ANGLE\nShow empathy and patience. One specific example of caring for someone vulnerable resonates.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
     "region": "Hamilton",
-    "category": "Other",
+    "category": "Personal Care/PSW",
     "company_url": "https://www.hamiltonhealthsciences.ca",
     "transit_accessible": true,
     "transit_agency": "HSR",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=HSR+Hamilton+Street+Railway"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Hamilton+Health+Sciences+Hamilton&travelmode=transit"
   },
   {
     "date": "2026-05-17",
@@ -3402,16 +3402,16 @@ window.HUB_JOBS = [
     "edu_label": "No formal / On-the-job",
     "salary": "Not listed",
     "source": "Employer Website",
-    "tip_resume": "Lead with reliability and any transferable experience. List certifications, training, or tickets you have.",
-    "tip_cover": "Show you're interested in this specific employer and what you bring to the role. Keep it focused.",
+    "tip_resume": "Highlight caregiving experience — family, neighbours, volunteer. List any First Aid, CPR, or training certificates. Mention compassion and physical capability.",
+    "tip_cover": "Show empathy and patience. One specific example of caring for someone vulnerable resonates.",
     "client_subject": "Job opportunity: MRI Technologist at Hamilton Health Sciences",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nMRI Technologist\nHamilton Health Sciences — Hamilton\n\nAPPLY HERE\nhttps://hhsc.taleo.net/careersection/2/jobdetail.ftl?job=124996&lang=en\n\nABOUT THE EMPLOYER\nhttps://www.hamiltonhealthsciences.ca\n\nRESUME TIPS\nLead with reliability and any transferable experience. List certifications, training, or tickets you have.\n\nCOVER LETTER ANGLE\nShow you're interested in this specific employer and what you bring to the role. Keep it focused.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nMRI Technologist\nHamilton Health Sciences — Hamilton\n\nAPPLY HERE\nhttps://hhsc.taleo.net/careersection/2/jobdetail.ftl?job=124996&lang=en\n\nABOUT THE EMPLOYER\nhttps://www.hamiltonhealthsciences.ca\n\nRESUME TIPS\nHighlight caregiving experience — family, neighbours, volunteer. List any First Aid, CPR, or training certificates. Mention compassion and physical capability.\n\nCOVER LETTER ANGLE\nShow empathy and patience. One specific example of caring for someone vulnerable resonates.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
     "region": "Hamilton",
-    "category": "Other",
+    "category": "Personal Care/PSW",
     "company_url": "https://www.hamiltonhealthsciences.ca",
     "transit_accessible": true,
     "transit_agency": "HSR",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=HSR+Hamilton+Street+Railway"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Hamilton+Health+Sciences+Hamilton&travelmode=transit"
   },
   {
     "date": "2026-05-17",
@@ -3424,16 +3424,16 @@ window.HUB_JOBS = [
     "edu_label": "No formal / On-the-job",
     "salary": "Not listed",
     "source": "Employer Website",
-    "tip_resume": "Lead with reliability and any transferable experience. List certifications, training, or tickets you have.",
-    "tip_cover": "Show you're interested in this specific employer and what you bring to the role. Keep it focused.",
+    "tip_resume": "Highlight caregiving experience — family, neighbours, volunteer. List any First Aid, CPR, or training certificates. Mention compassion and physical capability.",
+    "tip_cover": "Show empathy and patience. One specific example of caring for someone vulnerable resonates.",
     "client_subject": "Job opportunity: Nurse Practitioner, Neonatal Intensive Care Unit at Hamilton Health Sciences",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nNurse Practitioner, Neonatal Intensive Care Unit\nHamilton Health Sciences — Hamilton\n\nAPPLY HERE\nhttps://hhsc.taleo.net/careersection/2/jobdetail.ftl?job=119759&lang=en\n\nABOUT THE EMPLOYER\nhttps://www.hamiltonhealthsciences.ca\n\nRESUME TIPS\nLead with reliability and any transferable experience. List certifications, training, or tickets you have.\n\nCOVER LETTER ANGLE\nShow you're interested in this specific employer and what you bring to the role. Keep it focused.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nNurse Practitioner, Neonatal Intensive Care Unit\nHamilton Health Sciences — Hamilton\n\nAPPLY HERE\nhttps://hhsc.taleo.net/careersection/2/jobdetail.ftl?job=119759&lang=en\n\nABOUT THE EMPLOYER\nhttps://www.hamiltonhealthsciences.ca\n\nRESUME TIPS\nHighlight caregiving experience — family, neighbours, volunteer. List any First Aid, CPR, or training certificates. Mention compassion and physical capability.\n\nCOVER LETTER ANGLE\nShow empathy and patience. One specific example of caring for someone vulnerable resonates.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
     "region": "Hamilton",
-    "category": "Other",
+    "category": "Personal Care/PSW",
     "company_url": "https://www.hamiltonhealthsciences.ca",
     "transit_accessible": true,
     "transit_agency": "HSR",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=HSR+Hamilton+Street+Railway"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Hamilton+Health+Sciences+Hamilton&travelmode=transit"
   },
   {
     "date": "2026-05-17",
@@ -3455,7 +3455,7 @@ window.HUB_JOBS = [
     "company_url": "https://www.hamilton.ca",
     "transit_accessible": true,
     "transit_agency": "HSR",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=HSR+Hamilton+Street+Railway"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=City+of+Hamilton+Hamilton&travelmode=transit"
   },
   {
     "date": "2026-05-17",
@@ -3468,12 +3468,12 @@ window.HUB_JOBS = [
     "edu_label": "No formal / On-the-job",
     "salary": "Not listed",
     "source": "Employer Website",
-    "tip_resume": "Lead with reliability and any transferable experience. List certifications, training, or tickets you have.",
-    "tip_cover": "Show you're interested in this specific employer and what you bring to the role. Keep it focused.",
+    "tip_resume": "Highlight any repetitive or assembly experience — factory, packing, kitchen line, even hobby crafts. List safety tickets and reliability.",
+    "tip_cover": "Show willingness to do shift work and follow a process precisely.",
     "client_subject": "Job opportunity: GA Process Engineer at General Motors St. Catharines",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nGA Process Engineer\nGeneral Motors St. Catharines — Niagara\n\nAPPLY HERE\nhttps://search-careers.gm.com/en/jobs/jr-202610762/ga-process-engineer/\n\nABOUT THE EMPLOYER\nhttps://search-careers.gm.com\n\nRESUME TIPS\nLead with reliability and any transferable experience. List certifications, training, or tickets you have.\n\nCOVER LETTER ANGLE\nShow you're interested in this specific employer and what you bring to the role. Keep it focused.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nGA Process Engineer\nGeneral Motors St. Catharines — Niagara\n\nAPPLY HERE\nhttps://search-careers.gm.com/en/jobs/jr-202610762/ga-process-engineer/\n\nABOUT THE EMPLOYER\nhttps://search-careers.gm.com\n\nRESUME TIPS\nHighlight any repetitive or assembly experience — factory, packing, kitchen line, even hobby crafts. List safety tickets and reliability.\n\nCOVER LETTER ANGLE\nShow willingness to do shift work and follow a process precisely.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
     "region": "Niagara",
-    "category": "Other",
+    "category": "Manufacturing/Production",
     "company_url": "https://search-careers.gm.com",
     "transit_accessible": false
   },
@@ -3528,12 +3528,12 @@ window.HUB_JOBS = [
     "edu_label": "No formal / On-the-job",
     "salary": "Not listed",
     "source": "Employer Website",
-    "tip_resume": "Lead with reliability and any transferable experience. List certifications, training, or tickets you have.",
-    "tip_cover": "Show you're interested in this specific employer and what you bring to the role. Keep it focused.",
+    "tip_resume": "Highlight caregiving experience — family, neighbours, volunteer. List any First Aid, CPR, or training certificates. Mention compassion and physical capability.",
+    "tip_cover": "Show empathy and patience. One specific example of caring for someone vulnerable resonates.",
     "client_subject": "Job opportunity: Registered Nurse (RN), NSWOC - Full-time at Haldimand War Memorial Hospital",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nRegistered Nurse (RN), NSWOC - Full-time\nHaldimand War Memorial Hospital — Haldimand-Norfolk\n\nAPPLY HERE\nhttps://www.hnhbhealthline.ca/healthCareerNetwork/jobdetails.aspx?id=67941\n\nABOUT THE EMPLOYER\nhttps://www.hnhbhealthline.ca\n\nRESUME TIPS\nLead with reliability and any transferable experience. List certifications, training, or tickets you have.\n\nCOVER LETTER ANGLE\nShow you're interested in this specific employer and what you bring to the role. Keep it focused.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nRegistered Nurse (RN), NSWOC - Full-time\nHaldimand War Memorial Hospital — Haldimand-Norfolk\n\nAPPLY HERE\nhttps://www.hnhbhealthline.ca/healthCareerNetwork/jobdetails.aspx?id=67941\n\nABOUT THE EMPLOYER\nhttps://www.hnhbhealthline.ca\n\nRESUME TIPS\nHighlight caregiving experience — family, neighbours, volunteer. List any First Aid, CPR, or training certificates. Mention compassion and physical capability.\n\nCOVER LETTER ANGLE\nShow empathy and patience. One specific example of caring for someone vulnerable resonates.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
     "region": "Haldimand-Norfolk",
-    "category": "Other",
+    "category": "Personal Care/PSW",
     "company_url": "https://www.hnhbhealthline.ca",
     "transit_accessible": false
   },
@@ -3548,12 +3548,12 @@ window.HUB_JOBS = [
     "edu_label": "No formal / On-the-job",
     "salary": "Not listed",
     "source": "Employer Website",
-    "tip_resume": "Lead with reliability and any transferable experience. List certifications, training, or tickets you have.",
-    "tip_cover": "Show you're interested in this specific employer and what you bring to the role. Keep it focused.",
+    "tip_resume": "Highlight caregiving experience — family, neighbours, volunteer. List any First Aid, CPR, or training certificates. Mention compassion and physical capability.",
+    "tip_cover": "Show empathy and patience. One specific example of caring for someone vulnerable resonates.",
     "client_subject": "Job opportunity: Registered Nurse (RN), NSWOC - Part-time at Haldimand War Memorial Hospital",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nRegistered Nurse (RN), NSWOC - Part-time\nHaldimand War Memorial Hospital — Haldimand-Norfolk\n\nAPPLY HERE\nhttps://www.hnhbhealthline.ca/healthCareerNetwork/jobdetails.aspx?id=67942\n\nABOUT THE EMPLOYER\nhttps://www.hnhbhealthline.ca\n\nRESUME TIPS\nLead with reliability and any transferable experience. List certifications, training, or tickets you have.\n\nCOVER LETTER ANGLE\nShow you're interested in this specific employer and what you bring to the role. Keep it focused.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nRegistered Nurse (RN), NSWOC - Part-time\nHaldimand War Memorial Hospital — Haldimand-Norfolk\n\nAPPLY HERE\nhttps://www.hnhbhealthline.ca/healthCareerNetwork/jobdetails.aspx?id=67942\n\nABOUT THE EMPLOYER\nhttps://www.hnhbhealthline.ca\n\nRESUME TIPS\nHighlight caregiving experience — family, neighbours, volunteer. List any First Aid, CPR, or training certificates. Mention compassion and physical capability.\n\nCOVER LETTER ANGLE\nShow empathy and patience. One specific example of caring for someone vulnerable resonates.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
     "region": "Haldimand-Norfolk",
-    "category": "Other",
+    "category": "Personal Care/PSW",
     "company_url": "https://www.hnhbhealthline.ca",
     "transit_accessible": false
   },
@@ -3568,12 +3568,12 @@ window.HUB_JOBS = [
     "edu_label": "No formal / On-the-job",
     "salary": "Not listed",
     "source": "Employer Website",
-    "tip_resume": "Lead with reliability and any transferable experience. List certifications, training, or tickets you have.",
-    "tip_cover": "Show you're interested in this specific employer and what you bring to the role. Keep it focused.",
+    "tip_resume": "Highlight caregiving experience — family, neighbours, volunteer. List any First Aid, CPR, or training certificates. Mention compassion and physical capability.",
+    "tip_cover": "Show empathy and patience. One specific example of caring for someone vulnerable resonates.",
     "client_subject": "Job opportunity: Registered Nurse (RN), NSWOC - Full-time at Haldimand War Memorial Hospital",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nRegistered Nurse (RN), NSWOC - Full-time\nHaldimand War Memorial Hospital — Haldimand-Norfolk\n\nAPPLY HERE\nhttps://www.hnhbhealthline.ca/healthCareerNetwork/jobdetails.aspx?id=67943\n\nABOUT THE EMPLOYER\nhttps://www.hnhbhealthline.ca\n\nRESUME TIPS\nLead with reliability and any transferable experience. List certifications, training, or tickets you have.\n\nCOVER LETTER ANGLE\nShow you're interested in this specific employer and what you bring to the role. Keep it focused.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\nRegistered Nurse (RN), NSWOC - Full-time\nHaldimand War Memorial Hospital — Haldimand-Norfolk\n\nAPPLY HERE\nhttps://www.hnhbhealthline.ca/healthCareerNetwork/jobdetails.aspx?id=67943\n\nABOUT THE EMPLOYER\nhttps://www.hnhbhealthline.ca\n\nRESUME TIPS\nHighlight caregiving experience — family, neighbours, volunteer. List any First Aid, CPR, or training certificates. Mention compassion and physical capability.\n\nCOVER LETTER ANGLE\nShow empathy and patience. One specific example of caring for someone vulnerable resonates.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
     "region": "Haldimand-Norfolk",
-    "category": "Other",
+    "category": "Personal Care/PSW",
     "company_url": "https://www.hnhbhealthline.ca",
     "transit_accessible": false
   },
@@ -3717,7 +3717,7 @@ window.HUB_JOBS = [
     "company_url": "https://careers.walmart.ca",
     "transit_accessible": true,
     "transit_agency": "HSR",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=HSR+Hamilton+Street+Railway"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Walmart+Canada+Hamilton&travelmode=transit"
   },
   {
     "date": "2026-05-17",
@@ -3739,7 +3739,7 @@ window.HUB_JOBS = [
     "company_url": "https://careers.walmart.ca",
     "transit_accessible": true,
     "transit_agency": "HSR",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=HSR+Hamilton+Street+Railway"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Walmart+Canada+Hamilton&travelmode=transit"
   },
   {
     "date": "2026-05-17",
@@ -3752,16 +3752,16 @@ window.HUB_JOBS = [
     "edu_label": "No formal / On-the-job",
     "salary": "Not listed",
     "source": "Employer Website",
-    "tip_resume": "Lead with reliability and any transferable experience. List certifications, training, or tickets you have.",
-    "tip_cover": "Show you're interested in this specific employer and what you bring to the role. Keep it focused.",
+    "tip_resume": "Highlight any work involving lifting, sorting, or stocking — retail back-of-house counts. Safety tickets (forklift, WHMIS) make a big difference; mention them prominently.",
+    "tip_cover": "Lead with availability for shift work and physical capability.",
     "client_subject": "Job opportunity: (CAN) OMNI Customer Fulfillment Associate at Walmart Canada",
-    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\n(CAN) OMNI Customer Fulfillment Associate\nWalmart Canada — Hamilton\n\nAPPLY HERE\nhttps://careers.walmart.ca/job/surrey/can-omni-customer-fulfillment-associate/4853/95231541728\n\nABOUT THE EMPLOYER\nhttps://careers.walmart.ca\n\nRESUME TIPS\nLead with reliability and any transferable experience. List certifications, training, or tickets you have.\n\nCOVER LETTER ANGLE\nShow you're interested in this specific employer and what you bring to the role. Keep it focused.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
+    "client_body": "Hi [client name],\n\nI came across this job and thought it might be a good fit. Take a look:\n\nTHE JOB\n(CAN) OMNI Customer Fulfillment Associate\nWalmart Canada — Hamilton\n\nAPPLY HERE\nhttps://careers.walmart.ca/job/surrey/can-omni-customer-fulfillment-associate/4853/95231541728\n\nABOUT THE EMPLOYER\nhttps://careers.walmart.ca\n\nRESUME TIPS\nHighlight any work involving lifting, sorting, or stocking — retail back-of-house counts. Safety tickets (forklift, WHMIS) make a big difference; mention them prominently.\n\nCOVER LETTER ANGLE\nLead with availability for shift work and physical capability.\n\nWant to apply, or talk through whether it is a fit? Let me know.\n\n—\n",
     "region": "Hamilton",
-    "category": "Other",
+    "category": "Warehouse/Logistics",
     "company_url": "https://careers.walmart.ca",
     "transit_accessible": true,
     "transit_agency": "HSR",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=HSR+Hamilton+Street+Railway"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=Walmart+Canada+Hamilton&travelmode=transit"
   },
   {
     "date": "2026-05-17",
@@ -3821,7 +3821,7 @@ window.HUB_JOBS = [
     "category": "Driving/Delivery",
     "transit_accessible": true,
     "transit_agency": "HSR",
-    "transit_agency_url": "https://www.google.com/maps/search/?api=1&query=HSR+Hamilton+Street+Railway"
+    "transit_agency_url": "https://www.google.com/maps/dir/?api=1&destination=of+Hamilton+Waste+Facility+site.&travelmode=transit"
   },
   {
     "date": "2026-05-15",
