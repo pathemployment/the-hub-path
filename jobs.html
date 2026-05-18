@@ -28,7 +28,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/styles.css?v=20260517">
+  <link rel="stylesheet" href="css/styles.css?v=20260517-2">
 </head>
 <body>
   <a class="sr-only" href="#main">Skip to main content</a>
@@ -83,6 +83,12 @@
         <p class="lead center mt-3">Have a role to post? <a href="contact.html">Get in touch</a> and we'll add it to next week's list.</p>
       </div>
     </section>
+
+    <div class="multi-select-bar" id="multi-select-bar" role="region" aria-label="Multi-select actions" aria-live="polite">
+      <span class="multi-select-bar__label"><strong id="multi-select-count">0</strong> selected</span>
+      <button class="btn btn--outline btn--small" id="multi-select-clear" type="button">Clear</button>
+      <button class="btn btn--primary btn--small" id="multi-select-send" type="button">&#9993; Email selected to client</button>
+    </div>
 
     <div class="tour-overlay" id="tour-overlay" hidden>
       <div class="tour-modal" role="dialog" aria-labelledby="tour-title" aria-modal="true">
@@ -143,7 +149,7 @@
     </div>
   </div>
 
-  <script src="data/jobs.js?v=20260517"></script>
-  <script src="js/site.js?v=20260517"></script>
+  <script src="data/jobs.js?v=20260517-2"></script>
+  <script src="js/site.js?v=20260517-2"></script>
 </body>
 </html>

@@ -245,6 +245,48 @@ function hubTrack(name, params) {
   if (catSel) catSel.innerHTML = '<option value="">All job types</option>' + cats.map(c => '<option value="' + esc(c) + '">' + esc(c) + '</option>').join('');
   if (srcSel) srcSel.innerHTML = '<option value="">All sources</option>' + sources.map(s => '<option value="' + esc(s) + '">' + esc(s) + '</option>').join('');
 
+  // ---- Multi-select state ----
+  const selectedJobs = new Set();
+  const multiBar = document.querySelector('#multi-select-bar');
+  const multiBarCount = document.querySelector('#multi-select-count');
+  const multiBarSend = document.querySelector('#multi-select-send');
+  const multiBarClear = document.querySelector('#multi-select-clear');
+
+  function updateMultiBar() {
+    if (!multiBar) return;
+    const n = selectedJobs.size;
+    if (multiBarCount) multiBarCount.textContent = String(n);
+    multiBar.classList.toggle('is-visible', n > 0);
+  }
+
+  if (multiBarSend) {
+    multiBarSend.addEventListener('click', () => {
+      const items = jobs.filter(j => selectedJobs.has(jobId(j)));
+      if (!items.length) return;
+      hubTrack('multi_send_to_client', { count: items.length });
+      window.location.href = buildMultiMailto(items);
+    });
+  }
+
+  if (multiBarClear) {
+    multiBarClear.addEventListener('click', () => {
+      selectedJobs.clear();
+      list.querySelectorAll('input.job-select').forEach(cb => { cb.checked = false; });
+      updateMultiBar();
+    });
+  }
+
+  list.addEventListener('change', e => {
+    const cb = e.target.closest('input.job-select');
+    if (!cb) return;
+    const card = cb.closest('.job-card');
+    if (!card) return;
+    const id = card.dataset.jobId;
+    if (cb.checked) selectedJobs.add(id);
+    else selectedJobs.delete(id);
+    updateMultiBar();
+  });
+
   render();
   [search, regionSel, catSel, eduSel, srcSel, submittedOnly].forEach(el => {
     if (!el) return;
@@ -329,8 +371,14 @@ function hubTrack(name, params) {
   }
 
   function jobCard(j) {
+    const id = jobId(j);
+    const checked = selectedJobs.has(id) ? ' checked' : '';
     const star = j.submitted ? '<span class="star-submitted" title="Submitted by PATH">&#11088; Submitted by PATH</span>' : '';
     const posted = j.date ? 'Posted ' + fmtDate(j.date) : '';
+    const employerHtml = j.company_url
+      ? '<a href="' + esc(j.company_url) + '" target="_blank" rel="noopener"><strong>' + esc(j.employer || '') + '</strong></a>'
+      : '<strong>' + esc(j.employer || '') + '</strong>';
+    const transit = renderTransit(j);
     const tips = (j.tip_resume || j.tip_cover)
       ? '<details class="job-tips"><summary>Resume &amp; cover letter tips</summary>' +
         (j.tip_resume ? '<div class="tip"><span class="tip-label">Resume</span> ' + esc(j.tip_resume) + '</div>' : '') +
@@ -340,16 +388,18 @@ function hubTrack(name, params) {
     const clientLink = (j.client_subject && j.client_body)
       ? '<a class="btn btn--outline btn--small" href="mailto:?subject=' + encodeURIComponent(j.client_subject) + '&body=' + encodeURIComponent(j.client_body) + '" title="Send to client">&#9993; Send to client</a>'
       : '';
-    return '<article class="job-card" data-edu="' + esc(j.edu_level || '') + '">' +
+    return '<article class="job-card" data-edu="' + esc(j.edu_level || '') + '" data-job-id="' + esc(id) + '">' +
+      '<label class="job-card__select" title="Select to email multiple jobs to a client"><input type="checkbox" class="job-select"' + checked + ' aria-label="Select this job for multi-send"></label>' +
       '<div class="job-card__main">' +
         '<h3 class="job-card__title">' +
           (j.url ? '<a href="' + esc(j.url) + '" target="_blank" rel="noopener">' + esc(j.title) + '</a>' : esc(j.title)) +
           ' ' + star +
         '</h3>' +
         '<p class="job-card__meta">' +
-          '<span><strong>' + esc(j.employer || '') + '</strong></span>' +
+          '<span>' + employerHtml + '</span>' +
           (j.location ? '<span class="sep">&middot;</span><span>' + esc(j.location) + '</span>' : '') +
           (j.edu_label ? '<span class="sep">&middot;</span><span class="edu-tag edu-' + esc(j.edu_level) + '">' + esc(j.edu_label) + '</span>' : '') +
+          (transit ? '<span class="sep">&middot;</span>' + transit : '') +
         '</p>' +
         tips +
       '</div>' +
@@ -361,6 +411,59 @@ function hubTrack(name, params) {
         clientLink +
       '</div>' +
     '</article>';
+  }
+
+  function jobId(j) {
+    return j.url || ((j.title || '') + '|' + (j.employer || '') + '|' + (j.location || ''));
+  }
+
+  function renderTransit(j) {
+    if (j.transit_accessible === true) {
+      const agency = j.transit_agency || 'Transit nearby';
+      const url = j.transit_agency_url || '';
+      const label = url
+        ? '<a href="' + esc(url) + '" target="_blank" rel="noopener">' + esc(agency) + '</a>'
+        : esc(agency);
+      return '<span class="transit transit--bus" title="Bus stop within 10-min walk">' +
+        '<span class="transit-icon" aria-hidden="true">&#128652;</span>' +
+        '<span class="transit-label">' + label + '</span>' +
+        '</span>';
+    }
+    if (j.transit_accessible === false) {
+      return '<span class="transit transit--car" title="No bus stop within 10-min walk">' +
+        '<span class="transit-icon" aria-hidden="true">&#128663;</span>' +
+        '<span class="transit-label">Car needed</span>' +
+        '</span>';
+    }
+    return '';
+  }
+
+  function buildMultiMailto(items) {
+    const subject = items.length === 1
+      ? (items[0].client_subject || ('Job opportunity: ' + items[0].title))
+      : items.length + ' job opportunities for you';
+    const intro = items.length === 1
+      ? 'I came across this job and thought it might be a good fit. Take a look:'
+      : 'I came across these ' + items.length + ' jobs and thought they might be a good fit. Take a look:';
+    const outro = items.length === 1
+      ? 'Want to apply, or talk through whether it is a fit? Let me know.'
+      : 'Want to apply to any of these, or talk through whether any are a fit? Let me know.';
+    const divider = '\n\n--------------------------------------\n\n';
+    const blocks = items.map(buildJobBlock).join(divider);
+    const body = 'Hi [client name],\n\n' + intro + divider + blocks + divider + outro + '\n\n—\n';
+    return 'mailto:?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(body);
+  }
+
+  function buildJobBlock(j) {
+    const employerLink = j.company_url || ('https://duckduckgo.com/?q=%21ducky+' + encodeURIComponent((j.employer || '') + ' about us'));
+    const salaryLine = (j.salary && j.salary !== 'Not listed') ? '  ' + j.salary : '';
+    return 'THE JOB\n' +
+      (j.title || '') + '\n' +
+      (j.employer || '') + (j.location ? ' — ' + j.location : '') + salaryLine + '\n\n' +
+      'APPLY HERE\n' + (j.url || '(see source)') + '\n\n' +
+      'ABOUT THE EMPLOYER\n' + employerLink + '\n\n' +
+      (j.tip_resume ? 'RESUME TIPS\n' + j.tip_resume + '\n\n' : '') +
+      (j.tip_cover  ? 'COVER LETTER ANGLE\n' + j.tip_cover : '');
   }
 
   function injectJobPostingSchema(jobsSubset) {

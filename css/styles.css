@@ -1658,3 +1658,84 @@ body.newsletter-page { background: #faf8f3; }
   padding-top: 1.5rem;
   border-top: 1px solid var(--border);
 }
+
+/* ---- Job card multi-select + transit ---- */
+.job-card { position: relative; }
+.job-card__select {
+  position: absolute;
+  top: .65rem;
+  right: .65rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.75rem;
+  height: 1.75rem;
+  border-radius: 6px;
+  cursor: pointer;
+  z-index: 2;
+  background: rgba(255, 255, 255, 0.9);
+  border: 1px solid var(--border);
+  transition: border-color .15s ease, background .15s ease;
+}
+.job-card__select:hover { border-color: var(--hub-blue); background: #fff; }
+.job-card__select input[type="checkbox"] {
+  width: 1.1rem;
+  height: 1.1rem;
+  cursor: pointer;
+  accent-color: var(--hub-blue);
+  margin: 0;
+}
+
+.transit {
+  display: inline-flex;
+  align-items: center;
+  gap: .3rem;
+  font-size: .95em;
+  white-space: nowrap;
+}
+.transit-icon { font-size: 1.15em; line-height: 1; }
+.transit--bus { color: var(--hub-blue); }
+.transit--bus a { color: var(--hub-blue); text-decoration: underline; }
+.transit--bus a:hover { color: var(--path-navy); }
+.transit--car { color: #7a7a7a; }
+
+/* ---- Multi-select sticky bar ---- */
+.multi-select-bar {
+  position: fixed;
+  bottom: 1.25rem;
+  left: 50%;
+  transform: translateX(-50%) translateY(160%);
+  background: var(--path-navy);
+  color: #fff;
+  padding: .65rem 1rem;
+  border-radius: 999px;
+  box-shadow: var(--shadow-md);
+  display: flex;
+  align-items: center;
+  gap: .75rem;
+  z-index: 1000;
+  transition: transform .25s ease, opacity .25s ease;
+  opacity: 0;
+  pointer-events: none;
+  font-size: .95rem;
+  max-width: calc(100vw - 2rem);
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.multi-select-bar.is-visible {
+  transform: translateX(-50%) translateY(0);
+  opacity: 1;
+  pointer-events: auto;
+}
+.multi-select-bar__label { white-space: nowrap; }
+.multi-select-bar__label strong { color: var(--capacity-sage); font-size: 1.05em; }
+.multi-select-bar .btn { white-space: nowrap; }
+.multi-select-bar .btn--outline {
+  border-color: rgba(255, 255, 255, 0.5);
+  color: #fff;
+}
+.multi-select-bar .btn--outline:hover {
+  background: rgba(255, 255, 255, 0.1);
+  border-color: #fff;
+  color: #fff;
+}
