@@ -1589,6 +1589,47 @@ body.newsletter-page { background: #faf8f3; }
   margin: 1.5rem 0;
 }
 .session-card h3 { color: var(--path-navy); margin-bottom: .5rem; font-size: 1.1rem; }
+.session-card--closed {
+  opacity: .75;
+  border-left-color: var(--text-muted);
+  position: relative;
+}
+.session-card--closed::before {
+  content: "Past event";
+  position: absolute;
+  top: -.6rem;
+  right: 1rem;
+  background: var(--text-muted);
+  color: var(--white);
+  font-size: .65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .14em;
+  padding: .25rem .6rem;
+  border-radius: 3px;
+}
+.session-card--closed h3 { color: var(--text-muted); }
+.session-card--closed dd { color: var(--text-muted); }
+.session-card__closed-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: .4rem;
+  background: var(--bg-alt);
+  color: var(--text-muted);
+  font-size: .85rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .08em;
+  padding: .55rem 1rem;
+  border-radius: 6px;
+  border: 1px dashed var(--border);
+  margin-top: .5rem;
+}
+.session-card__closed-badge::before {
+  content: "\2715";
+  font-size: 1rem;
+  font-weight: 400;
+}
 .session-card__detail {
   display: grid;
   grid-template-columns: 110px 1fr;

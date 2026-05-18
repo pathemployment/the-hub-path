@@ -480,6 +480,26 @@ function hubTrack(name, params) {
   }
 })();
 
+// ---- Newsletter past-session detection ----
+(function () {
+  const cards = document.querySelectorAll('.session-card[data-last-date]');
+  if (!cards.length) return;
+  const today = new Date(new Date().toDateString());
+  cards.forEach(card => {
+    const last = new Date(card.dataset.lastDate);
+    if (isNaN(last.getTime()) || last >= today) return;
+    card.classList.add('session-card--closed');
+    const btn = card.querySelector('a.btn, button.btn');
+    if (btn) {
+      const badge = document.createElement('span');
+      badge.className = 'session-card__closed-badge';
+      badge.textContent = 'Registration closed';
+      badge.setAttribute('aria-label', 'Registration closed - session date has passed');
+      btn.replaceWith(badge);
+    }
+  });
+})();
+
 // ---- Newsletter sidebar ----
 (function () {
   const sidebar = document.querySelector('#newsletter-sidebar-list');
