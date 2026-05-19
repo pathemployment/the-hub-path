@@ -1,0 +1,21 @@
+# Workforce Planning Boards covering our 5 regions.
+# Each entry: { url, name }. If a board hosts job listings, point at that page.
+# These URLs need verification on first run — page structures vary.
+
+Hamilton:
+  name: "Workforce Planning Hamilton"
+  url: "https://www.workforceplanninghamilton.ca/"
+
+Niagara:
+  name: "Niagara Workforce Planning Board"
+  url: "https://niagaraworkforceboard.ca/"
+
+Brantford-and-Haldimand-Norfolk:
+  name: "Workforce Planning Board of Grand Erie"
+  url: "https://workforceplanningboard.org/"
+  # Covers both Brantford and Haldimand-Norfolk; jobs auto-route to a region
+  # by the parser's region inference from each job's location field.
+
+Halton:
+  name: "Workforce Planning Board of Peel-Halton-Dufferin"
+  url: "https://wpb.ca/"

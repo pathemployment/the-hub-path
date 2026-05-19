@@ -1,0 +1,152 @@
+# Pre-written resume + cover-letter tips, keyed by cluster -> education level.
+# Used as the default enrichment (no API cost). Edit freely.
+#
+# Education levels: none, hs, college. If a job's cluster isn't found, the
+# "_default" entry is used.
+
+"Food Service":
+  none:
+    resume: "Lead with reliability and any customer-facing experience — volunteer, sports/coaching, or cash-handling count. List availability for evenings, weekends, and holidays. If you have WHMIS or Safe Food Handler, list them; if not, both are free online and worth getting."
+    cover: "Show you can handle a busy room and weekend shifts. One specific example of working under pressure (school cafeteria, family event, any service moment) goes a long way."
+  hs:
+    resume: "All of the above, plus food and nutrition classes if any. Team-based extracurriculars (sports, drama, student council) show you can work shoulder-to-shoulder."
+    cover: "Lead with shift availability and tie to a moment you stayed calm under pressure. If you have Smart Serve, mention it."
+  college:
+    resume: "Combine hospitality or culinary training with any front-of-house or back-of-house experience. Highlight food handling certs (Smart Serve, Safe Food Handler) and POS familiarity."
+    cover: "Connect what you studied to one specific aspect of this employer's menu, brand, or service style."
+
+"General Labour":
+  none:
+    resume: "Highlight any physical-work history — landscaping, moving, stocking, sports/coaching. List safety tickets (WHMIS, working at heights, forklift). Mention reliability and shift availability."
+    cover: "Lead with availability. Show you've done physical work before. Keep it short."
+  hs:
+    resume: "All of the above, plus shop class or trades electives. Physical activity (sports, manual hobbies) speaks to stamina — say so."
+    cover: "Show up early, work hard, ready for shift work. One line."
+  college:
+    resume: "Combine trade-related training with any hands-on experience. Highlight safety certs and equipment operation experience."
+    cover: "Lead with what you're certified to operate and your willingness to learn the rest on the job."
+
+"Warehouse/Logistics":
+  none:
+    resume: "Highlight any work involving lifting, sorting, or stocking — retail back-of-house counts. Safety tickets (forklift, WHMIS) make a big difference; mention them prominently."
+    cover: "Lead with availability for shift work and physical capability."
+  hs:
+    resume: "All of the above, plus any school co-op or work-experience placements. Math and basic computer comfort are worth mentioning."
+    cover: "Show shift flexibility and that you can handle repetitive work without dropping pace."
+  college:
+    resume: "Pull out logistics-relevant coursework and any inventory, scheduling, or operations work. WMS/ERP exposure belongs high on the page."
+    cover: "Connect your training to what this warehouse moves — products, scale, speed."
+
+"Retail/Cashier":
+  none:
+    resume: "Cash handling, customer-facing volunteer work, helping at a family business — list it. Mention reliability and weekend availability."
+    cover: "Show you're friendly, dependable, and can stay positive on a busy day."
+  hs:
+    resume: "All of the above. Add any school-based selling or service (bake sales, fundraisers, helping in the school store)."
+    cover: "Lead with weekend availability and one example of staying calm with a difficult customer."
+  college:
+    resume: "Tie any retail or hospitality experience to your studies. POS and basic accounting knowledge are worth listing."
+    cover: "Show you understand this retailer's customer and how you'd contribute."
+
+"Custodial/Cleaning":
+  none:
+    resume: "Highlight cleaning experience — residential, volunteer, or paid. List WHMIS if you have it. Mention attention to detail and reliability."
+    cover: "Lead with reliability, attention to detail, and shift flexibility (evenings, weekends)."
+  hs:
+    resume: "All of the above, plus school-based service or maintenance. Comfort using cleaning chemicals safely is worth a sentence."
+    cover: "Show you take pride in clean, well-kept spaces and can work independently."
+  college:
+    resume: "Combine training with cleaning or maintenance experience. Floor-care equipment and chemistry training matters."
+    cover: "Connect your training to industrial or institutional cleaning standards."
+
+"Driving/Delivery":
+  none:
+    resume: "List driver's licence class, clean abstract, and any delivery experience (personal or work). Customer-service experience helps for delivery roles."
+    cover: "Mention licence class, clean record, and familiarity with the local area."
+  hs:
+    resume: "All of the above. Driver's training and tracked driving record show responsibility."
+    cover: "Lead with licence class, clean record, and reliability."
+  college:
+    resume: "Combine logistics or transport-related training with driving experience. Note specialized licences (Z endorsement, etc.)."
+    cover: "Connect licence endorsements to the role's specific requirements."
+
+"Personal Care/PSW":
+  none:
+    resume: "Highlight caregiving experience — family, neighbours, volunteer. List any First Aid, CPR, or training certificates. Mention compassion and physical capability."
+    cover: "Show empathy and patience. One specific example of caring for someone vulnerable resonates."
+  hs:
+    resume: "All of the above, plus school-based volunteering at senior centres, hospitals, or with younger kids."
+    cover: "Lead with empathy and dependability. Mention any health-care studies you're pursuing."
+  college:
+    resume: "Highlight your PSW or related training. Practical placements/clinical hours go front and centre. List specific care skills."
+    cover: "Tie your training to this employer's care population (long-term care, home care, etc.)."
+
+"Admin/Reception":
+  none:
+    resume: "Highlight any computer, organizing, or phone-answering experience — even informal. Mention typing speed and software comfort."
+    cover: "Show reliability, attention to detail, and friendly phone manner."
+  hs:
+    resume: "All of the above, plus school-based admin work or co-op. Microsoft Office competence is worth listing."
+    cover: "Lead with software comfort and one example of staying organized under pressure."
+  college:
+    resume: "Combine business or office admin training with any practicum experience. List specific software (Office, Google Workspace, any industry-specific tools)."
+    cover: "Show you understand the role's specific industry context (legal, medical, etc.)."
+
+"Security":
+  none:
+    resume: "List any security guard licensing (or willingness to get it), First Aid, and prior security or supervisory work. Mention reliability and overnight shift availability."
+    cover: "Lead with licensing status, calm demeanour, and willingness to do overnight shifts."
+  hs:
+    resume: "All of the above. Athletic or martial-arts background is worth mentioning. Cadet programs (police, military) are gold."
+    cover: "Show you handle confrontation calmly and can stand a long shift."
+  college:
+    resume: "Highlight law, policing, or security studies. Specialty licences or training (firearms, K9) go high if relevant."
+    cover: "Connect your training to the specific security setting (corporate, retail, healthcare)."
+
+"Skilled Trades":
+  none:
+    resume: "List any tickets, certifications, or trades exposure (school shop, family help, summer labour). Show willingness to apprentice and learn."
+    cover: "Lead with willingness to learn the trade properly, plus any related hands-on experience."
+  hs:
+    resume: "All of the above, plus shop classes, OYAP (Ontario Youth Apprenticeship Program) if applicable, and hands-on summer work."
+    cover: "Show you're serious about the trade as a career, not just a job."
+  college:
+    resume: "Highlight apprenticeship status, ticket(s) held, and equipment proficiency. Specific tools and machines you've operated belong on the resume."
+    cover: "Connect your skills directly to what this employer's projects need."
+
+"Landscaping/Grounds":
+  none:
+    resume: "Highlight outdoor work — yard work, gardening, volunteer cleanups, sports field maintenance. List comfort with hand tools and small equipment."
+    cover: "Show you don't mind weather, early starts, or physical work."
+  hs:
+    resume: "All of the above, plus horticulture or environmental science classes."
+    cover: "Lead with early availability (most landscaping starts at sunrise) and physical readiness."
+  college:
+    resume: "Highlight horticulture, turf management, or arboriculture training. List equipment you can operate (mowers, chainsaws, irrigation systems)."
+    cover: "Connect training to the employer's portfolio (residential, commercial, golf, municipal)."
+
+"Manufacturing/Production":
+  none:
+    resume: "Highlight any repetitive or assembly experience — factory, packing, kitchen line, even hobby crafts. List safety tickets and reliability."
+    cover: "Show willingness to do shift work and follow a process precisely."
+  hs:
+    resume: "All of the above, plus shop class or co-op experience. Comfort with measuring tools and following written instructions matters."
+    cover: "Lead with shift availability and one example of staying focused on a repetitive task."
+  college:
+    resume: "Highlight manufacturing or engineering training. List specific machines and processes you've worked with, plus any quality control or lean exposure."
+    cover: "Connect your training to this employer's product line and processes."
+
+"Other":
+  none:
+    resume: "Lead with reliability and any transferable experience. List certifications, training, or tickets you have."
+    cover: "Show you're interested in this specific employer and what you bring to the role. Keep it focused."
+  hs:
+    resume: "Same as above, plus any specific high school courses or co-op that relate to the role."
+    cover: "Show interest in the employer and connect one skill from your background to what the role needs."
+  college:
+    resume: "Tie your studies and practicum experience to the role. List relevant software, tools, or methods you've used."
+    cover: "Connect your training directly to the employer's work."
+
+_default:
+  resume: "Lead with reliability and any transferable experience. List certifications, training, or tickets you have. Mention shift availability if relevant."
+  cover: "Show you're interested in this specific employer and what you bring. One concrete example, then close."

@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+data/gtfs_cache/
+data/jobs-test.js
+data/run-log.txt
+.DS_Store
+Thumbs.db
+run-log.txt

@@ -1,0 +1,326 @@
+# Keyword rules for occupation cluster classification.
+# Substring matching, case-insensitive. Highest hit count wins; ties resolved by order.
+# Add more keywords any time — re-running the pipeline reclassifies existing data.
+
+"Food Service":
+  - cook
+  - chef
+  - server
+  - waitress
+  - waiter
+  - waitstaff
+  - barista
+  - bartender
+  - dishwasher
+  - kitchen
+  - line cook
+  - prep cook
+  - food prep
+  - food service
+  - food counter
+  - food handler
+  - food packing
+  - food processing
+  - kitchen helper
+  - kitchen assistant
+  - drive-thru
+  - drive thru
+  - fast food
+  - sandwich
+  - sandwich artist
+  - coffee
+  - espresso
+  - juice
+  - smoothie
+  - host (restaurant)
+  - hostess
+  - busser
+  - busboy
+  - bus person
+  - dietary aide
+  - cafeteria
+  - banquet
+  - catering
+  - baker
+  - bakery
+  - cake decorator
+  - pastry
+  - pizza
+  - sushi
+  - meat cutter
+
+"General Labour":
+  - general labour
+  - general labourer
+  - general laborer
+  - general helper
+  - shop helper
+  - shop hand
+  - yard helper
+  - yard hand
+  - utility worker
+  - material handler
+  - production helper
+  - farm worker
+  - farm hand
+  - farmhand
+  - farm labourer
+  - tobacco
+  - harvest
+  - fruit picker
+  - vegetable picker
+  - greenhouse
+  - nursery worker
+  - dairy worker
+  - dairy farm
+  - egg grader
+  - egg grading
+  - poultry
+  - livestock
+  - construction labourer
+  - construction helper
+  - day labour
+  - manual labour
+  - field worker
+  - packing house
+
+"Warehouse/Logistics":
+  - warehouse
+  - warehouse associate
+  - forklift
+  - order picker
+  - order selector
+  - shipper
+  - receiver
+  - shipping
+  - receiving
+  - picker
+  - packer
+  - loader
+  - unloader
+  - dock worker
+  - materials handler
+  - inventory clerk
+  - inventory associate
+  - distribution
+  - fulfillment
+  - logistics
+
+"Retail/Cashier":
+  - retail
+  - cashier
+  - sales associate
+  - store clerk
+  - stocker
+  - shelf stocker
+  - merchandiser
+  - sales floor
+  - customer service rep
+  - sales clerk
+  - store associate
+  - cart attendant
+  - bagger
+  - dairy clerk
+  - deli clerk
+  - produce clerk
+  - meat clerk
+  - bakery clerk
+  - grocery clerk
+  - grocery worker
+  - department clerk
+  - beauty advisor
+  - beauty consultant
+  - garden centre associate
+  - department associate
+  - night stocker
+  - overnight stocker
+  - clothier
+  - sales rep
+  - customer experience associate
+
+"Custodial/Cleaning":
+  - custodian
+  - janitor
+  - cleaner
+  - cleaning
+  - housekeeper
+  - housekeeping
+  - room attendant
+  - sanitation
+  - environmental services
+  - evs
+  - laundry attendant
+  - linen runner
+  - night cleaner
+  - office cleaner
+  - industrial cleaner
+
+"Driving/Delivery":
+  - driver
+  - delivery driver
+  - courier
+  - chauffeur
+  - truck driver
+  - truck operator
+  - dz driver
+  - az driver
+  - ab driver
+  - g driver
+  - delivery
+  - shuttle
+  - route driver
+  - tractor trailer
+  - tractor-trailer
+  - transport driver
+  - swamper
+  - ride share
+  - taxi driver
+  - school bus driver
+  - bus driver
+
+"Personal Care/PSW":
+  - personal support worker
+  - psw
+  - care aide
+  - health care aide
+  - resident care
+  - home care
+  - personal care
+  - developmental services worker
+  - dsw
+  - childcare
+  - child care
+  - daycare
+  - ece
+  - early childhood educator
+  - registered nurse
+  - registered practical nurse
+  - rpn
+  - lpn
+  - rn (
+  - rn,
+  - nurse practitioner
+  - dental assistant
+  - dental hygienist
+  - dental receptionist
+  - medical office assistant
+  - phlebotomist
+  - sonographer
+  - ultrasound technologist
+  - mri technologist
+  - lab technologist
+  - lab technician
+
+"Admin/Reception":
+  - administrative
+  - admin assistant
+  - administrative assistant
+  - receptionist
+  - office assistant
+  - data entry
+  - clerical
+  - secretary
+  - front desk
+  - office clerk
+  - executive assistant
+  - bookkeeper
+  - accounting clerk
+  - accounts payable
+  - accounts receivable
+  - payroll clerk
+  - billing clerk
+  - registration clerk
+  - medical records clerk
+  - intake worker
+  - call centre
+  - call center
+  - customer service representative
+
+"Security":
+  - security guard
+  - security officer
+  - loss prevention
+  - asset protection
+  - bouncer
+  - door staff
+  - night security
+  - transit security
+  - corrections officer
+
+"Skilled Trades":
+  - apprentice
+  - electrician
+  - plumber
+  - welder
+  - millwright
+  - machinist
+  - carpenter
+  - hvac
+  - mechanic
+  - tool and die
+  - sheet metal
+  - pipefitter
+  - roofer
+  - framer
+  - drywaller
+  - painter (construction)
+  - tiler
+  - glazier
+  - mason
+  - bricklayer
+  - ironworker
+  - automotive technician
+  - auto mechanic
+  - small engine
+  - cabinet maker
+  - finishing carpenter
+  - heavy equipment operator
+  - heavy duty mechanic
+  - millwright apprentice
+
+"Landscaping/Grounds":
+  - landscaper
+  - landscape
+  - landscaping
+  - grounds keeper
+  - groundskeeper
+  - grounds maintenance
+  - lawn care
+  - gardener
+  - horticulture
+  - turf
+  - arborist
+  - tree planter
+  - tree care
+  - snow removal
+  - snow plow
+  - golf course attendant
+
+"Manufacturing/Production":
+  - production worker
+  - production associate
+  - assembler
+  - assembly
+  - machine operator
+  - cnc operator
+  - line operator
+  - quality inspector
+  - quality assurance
+  - qa technician
+  - packaging
+  - packager
+  - production line
+  - factory worker
+  - press operator
+  - plant operator
+  - fabricator
+  - fabrication
+  - paint line
+  - sewing machine operator
+  - garment worker
+  - process engineer
+  - process operator
+  - mill operator
+  - auto detailer
+  - auto body
+  - autobody

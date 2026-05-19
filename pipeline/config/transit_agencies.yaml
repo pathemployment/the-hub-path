@@ -1,0 +1,45 @@
+# Transit agency per region.
+#
+# IMPORTANT: city websites change these URLs often. If any link goes 404,
+# replace the URL here and re-run the pipeline.
+#
+# A Google Maps search URL is used as the canonical link — it always works,
+# always shows current website + hours + route map. Cleaner than betting on
+# city-website paths.
+
+Hamilton:
+  primary_name: "HSR"
+  primary_url: "https://www.google.com/maps/search/?api=1&query=HSR+Hamilton+Street+Railway"
+  agencies:
+    - { name: "HSR (Hamilton Street Railway)", url: "https://www.google.com/maps/search/?api=1&query=HSR+Hamilton+Street+Railway" }
+
+Niagara:
+  primary_name: "Niagara Region Transit"
+  primary_url: "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit"
+  agencies:
+    - { name: "Niagara Region Transit", url: "https://www.google.com/maps/search/?api=1&query=Niagara+Region+Transit" }
+    - { name: "St. Catharines Transit", url: "https://www.google.com/maps/search/?api=1&query=St+Catharines+Transit" }
+    - { name: "Niagara Falls Transit", url: "https://www.google.com/maps/search/?api=1&query=Niagara+Falls+Transit+Ontario" }
+    - { name: "Welland Transit", url: "https://www.google.com/maps/search/?api=1&query=Welland+Transit" }
+
+Brantford:
+  primary_name: "Brantford Transit"
+  primary_url: "https://www.google.com/maps/search/?api=1&query=Brantford+Transit"
+  agencies:
+    - { name: "Brantford Transit", url: "https://www.google.com/maps/search/?api=1&query=Brantford+Transit" }
+
+Haldimand-Norfolk:
+  primary_name: "Ride Norfolk"
+  primary_url: "https://www.google.com/maps/search/?api=1&query=Ride+Norfolk+Transit"
+  agencies:
+    - { name: "Ride Norfolk", url: "https://www.google.com/maps/search/?api=1&query=Ride+Norfolk+Transit" }
+    - { name: "Haldimand County Transit", url: "https://www.google.com/maps/search/?api=1&query=Haldimand+County+Transit" }
+
+Halton:
+  primary_name: "Oakville Transit"
+  primary_url: "https://www.google.com/maps/search/?api=1&query=Oakville+Transit"
+  agencies:
+    - { name: "Oakville Transit", url: "https://www.google.com/maps/search/?api=1&query=Oakville+Transit" }
+    - { name: "Burlington Transit", url: "https://www.google.com/maps/search/?api=1&query=Burlington+Transit+Ontario" }
+    - { name: "Milton Transit", url: "https://www.google.com/maps/search/?api=1&query=Milton+Transit+Ontario" }
+    - { name: "Halton Hills Transit", url: "https://www.google.com/maps/search/?api=1&query=Halton+Hills+Transit" }
