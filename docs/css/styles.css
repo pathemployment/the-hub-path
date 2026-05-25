@@ -404,6 +404,7 @@ p  { margin: 0 0 1em; }
   text-transform: uppercase;
   letter-spacing: .1em;
   font-size: .8rem;
+  line-height: 1.2;
   color: var(--text-muted);
   margin-bottom: .75rem;
   min-height: 2.4em;
