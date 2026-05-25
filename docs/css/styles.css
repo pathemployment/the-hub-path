@@ -406,8 +406,13 @@ p  { margin: 0 0 1em; }
   font-size: .8rem;
   color: var(--text-muted);
   margin-bottom: .75rem;
+  min-height: 2.4em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
-.person__quote {
+.person__quote,
+.person__sub {
   background: rgba(124, 175, 174, 0.15);
   border-left: 3px solid var(--capacity-sage);
   margin: auto 0 0;
@@ -418,13 +423,6 @@ p  { margin: 0 0 1em; }
   line-height: 1.5;
   text-align: left;
   border-radius: 0 6px 6px 0;
-}
-.person__sub {
-  margin: auto 0 0;
-  padding-top: 1rem;
-  font-size: .85rem;
-  color: var(--text-muted);
-  line-height: 1.4;
 }
 .person__contact { font-size: .9rem; }
 .person__contact a {
