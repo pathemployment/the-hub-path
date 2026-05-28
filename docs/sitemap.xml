@@ -16,6 +16,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://kwestwoodpath.github.io/the-hub-path/courses.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kwestwoodpath.github.io/the-hub-path/courses/resume-writing.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://kwestwoodpath.github.io/the-hub-path/newsletters.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
