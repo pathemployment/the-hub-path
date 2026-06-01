@@ -32,7 +32,8 @@ def write(jobs: list[dict], *,
     if dry_run or not hub_repo_path:
         out_path = local_dir / "jobs-test.js"
     else:
-        hub_data = Path(hub_repo_path) / "data"
+        # Site is served from /docs (GitHub Pages); the job board reads docs/data/jobs.js.
+        hub_data = Path(hub_repo_path) / "docs" / "data"
         hub_data.mkdir(parents=True, exist_ok=True)
         out_path = hub_data / "jobs.js"
 
@@ -79,7 +80,10 @@ def _git_push(repo_path: Path) -> None:
     today = datetime.now().strftime("%Y-%m-%d")
     msg = f"Update weekly job listings ({today})"
     try:
-        subprocess.run(["git", "-C", str(repo_path), "add", "data/jobs.js"], check=True)
+        # Pull first so a clone left behind origin (e.g. site edits pushed elsewhere)
+        # doesn't make the push a rejected non-fast-forward — keeps the weekly run self-healing.
+        subprocess.run(["git", "-C", str(repo_path), "pull", "--rebase"], capture_output=True, text=True)
+        subprocess.run(["git", "-C", str(repo_path), "add", "docs/data/jobs.js"], check=True)
         # Allow empty commit to be skipped gracefully
         result = subprocess.run(
             ["git", "-C", str(repo_path), "commit", "-m", msg],
