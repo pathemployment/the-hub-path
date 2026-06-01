@@ -3,6 +3,7 @@ from __future__ import annotations
 import json
 import logging
 import os
+import re
 import subprocess
 from datetime import datetime
 from pathlib import Path
@@ -41,10 +42,35 @@ def write(jobs: list[dict], *,
     out_path.write_text(content, encoding="utf-8")
     log.info("Wrote %d jobs to %s", len(jobs), out_path)
 
+    if not dry_run and hub_repo_path:
+        _bump_cache_token(Path(hub_repo_path))
+
     if not dry_run and do_git_push and hub_repo_path:
         _git_push(Path(hub_repo_path))
 
     return out_path
+
+
+def _bump_cache_token(repo_path: Path) -> None:
+    """Bump the ?v= cache-bust token on jobs.js in docs/jobs.html to today's date.
+
+    Browsers cache jobs.js by its full URL (query string included), so without this
+    returning visitors keep their old copy until the token changes. Touches only the
+    jobs.js tag, never site.js or any other asset.
+    """
+    today = datetime.now().strftime("%Y%m%d")
+    html_path = repo_path / "docs" / "jobs.html"
+    if not html_path.exists():
+        log.warning("jobs.html not found at %s — skipping cache-token bump", html_path)
+        return
+    html = html_path.read_text(encoding="utf-8")
+    new_html, n = re.subn(r'(data/jobs\.js\?v=)[^"\']*', r"\g<1>" + today, html)
+    if n == 0:
+        log.warning("No data/jobs.js?v= token found in jobs.html — skipping bump")
+        return
+    if new_html != html:
+        html_path.write_text(new_html, encoding="utf-8")
+        log.info("Bumped jobs.js cache token to v=%s in %s", today, html_path)
 
 
 def _render_js(jobs: list[dict], window_days: int = 14) -> str:
@@ -83,7 +109,7 @@ def _git_push(repo_path: Path) -> None:
         # Pull first so a clone left behind origin (e.g. site edits pushed elsewhere)
         # doesn't make the push a rejected non-fast-forward — keeps the weekly run self-healing.
         subprocess.run(["git", "-C", str(repo_path), "pull", "--rebase"], capture_output=True, text=True)
-        subprocess.run(["git", "-C", str(repo_path), "add", "docs/data/jobs.js"], check=True)
+        subprocess.run(["git", "-C", str(repo_path), "add", "docs/data/jobs.js", "docs/jobs.html"], check=True)
         # Allow empty commit to be skipped gracefully
         result = subprocess.run(
             ["git", "-C", str(repo_path), "commit", "-m", msg],
