@@ -51,9 +51,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.hub.pathemployment.com/newsletter-2026-09.html</loc>
+    <loc>https://www.hub.pathemployment.com/newsletter-2026-10.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.hub.pathemployment.com/newsletter-2026-09.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.hub.pathemployment.com/newsletter-2026-07.html</loc>

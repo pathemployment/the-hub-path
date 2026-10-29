@@ -136,5 +136,25 @@ window.HUB_EVENTS = [
     "registerUrl": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=kebrX7LJjk6wisW1-8MqeCFyi02j-9hFkNgPfhSkjGRUNDFKS1Q5UTJFRk83N1pER0VKS0dLUzUzTC4u&route=shorturl",
     "zoomUrl": "https://ca01web.zoom.us/j/65182248216?pwd=cetRuqvnlacaaZ6A5bdb10qFP2m2na.1",
     "host": "Shannon McCracken"
+  },
+  {
+    "title": "The AI Toolbox: Work Smarter in Employment Services",
+    "date": "2026-11-26",
+    "time": "12:00 PM",
+    "location": "Virtual (Zoom)",
+    "description": "Lunch and learn exploring how AI can help you create individualized job seeker tools, tailor resumes, prepare for interviews, and streamline everyday tasks. Take away practical prompts and ideas, with privacy and professional judgment at the centre. No AI experience needed.",
+    "image": "",
+    "registerUrl": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=kebrX7LJjk6wisW1-8MqeCFyi02j-9hFkNgPfhSkjGRUODBYTTQ3UE1VR1NYTzQwTlJVTUNHQjZJVy4u&route=shorturl",
+    "host": "The Hub @PATH"
+  },
+  {
+    "title": "The AI Toolbox: Work Smarter in Employment Services",
+    "date": "2026-12-03",
+    "time": "12:00 PM",
+    "location": "Virtual (Zoom)",
+    "description": "Second session offering of The AI Toolbox lunch and learn - practical prompts and ideas for using AI in employment services, with privacy and professional judgment at the centre.",
+    "image": "",
+    "registerUrl": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=kebrX7LJjk6wisW1-8MqeCFyi02j-9hFkNgPfhSkjGRUODBYTTQ3UE1VR1NYTzQwTlJVTUNHQjZJVy4u&route=shorturl",
+    "host": "The Hub @PATH"
   }
 ];
